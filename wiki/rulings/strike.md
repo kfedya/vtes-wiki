@@ -2,7 +2,7 @@
 type: ruling
 tags: [combat, strike, pair, additional-strike, choose-strike, resolve-strike]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 

@@ -2,7 +2,7 @@
 type: ruling
 tags: [combat, strike-effects, hand-strike, dodge, combat-ends, first-strike, steal-blood, destroy-equipment, steal-equipment]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 
@@ -39,8 +39,8 @@ Moves blood counters (or life counters) from the target to the striking minion. 
 - **Not damage** — therefore **cannot be prevented** by damage-prevention effects.
 - Resolves **before** the mend-damage step, so stolen blood can be used to mend damage inflicted simultaneously.
 - If stolen blood would exceed the striking vampire's **capacity**, the excess drains immediately.
-- If two vampires steal blood from each other, the blood is moved **simultaneously** [src-001 p. 51 — Theft of Vitae].
-- A **strike: combat ends** resolves **before** Theft of Vitae — you do **not** steal blood in that case [src-001 p. 51].
+- If two vampires steal blood from each other, the blood is moved **simultaneously** [src-001 p. 51 — [[wiki/cards/theft-of-vitae|Theft of Vitae]]].
+- A **strike: combat ends** resolves **before** [[wiki/cards/theft-of-vitae|Theft of Vitae]] — you do **not** steal blood in that case [src-001 p. 51].
 
 ## Destroy Equipment / Destroy Weapon
 Burns a piece of equipment (or a weapon) of the opposing minion. The striking minion picks which piece. The equipment can still be used **up to the point the destroy-equipment strike resolves** [src-001 p. 34].
@@ -73,7 +73,7 @@ Chrysanthemum (capacity 5, 4 blood) fights an Underbridge Stray ally (2 life). A
 - **Murder of Crows** — retainer environmental damage; works like Carrion Crows [src-001 p. 49].
 - **Hidden Strength** — can only be played if there is damage to prevent; cannot be used solely to cycle into a press [src-001 p. 49].
 - **Swallowed by the Night** — action modifier at basic, combat card at superior [src-001 p. 51].
-- **Theft of Vitae** — see Steal Blood section above [src-001 p. 51].
+- [[wiki/cards/theft-of-vitae|Theft of Vitae]] — see Steal Blood section above [src-001 p. 51].
 - **Taste of Vitae** — cannot be used during combat against an ally; can be played if opposing vampire hasn't lost blood this combat to "cycle"; must be played **after** decision to press or not [src-001 p. 51].
 
 ## Common Mistakes

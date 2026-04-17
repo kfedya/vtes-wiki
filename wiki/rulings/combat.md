@@ -2,7 +2,7 @@
 type: ruling
 tags: [combat, round, sequence, combatants, range, strike, damage, press, end-of-round]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 

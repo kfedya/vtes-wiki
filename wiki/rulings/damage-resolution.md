@@ -2,7 +2,7 @@
 type: ruling
 tags: [combat, damage, mend, prevent, aggravated, environmental, immune, retainer, ally]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 
