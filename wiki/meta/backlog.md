@@ -12,7 +12,8 @@ Forward-looking design questions and deferred work. Not bugs — open questions 
 
 ## Open questions
 
-_(none currently open)_
+### Imbued mechanics ruling page
+Clan, discipline, and creed coverage is now complete for the src-002 snapshot (47 clan pages across 5E-core / V5-playable / legacy / Laibon / antitribu; 38 discipline stubs including Imbued virtues; 7 Imbued creed stubs). The remaining known gap is a `wiki/rulings/` page for Imbued mechanics — True Faith, Convictions (including the Conviction card type's deck-slot role), imbuement process, and the targeting-restriction rules that prevent vampire-only effects from hitting Imbued minions. Every creed page currently flags this gap in its `## Related` section. Suggest sourcing from Black Chantry / krcg / VEKN rules articles on a future ingest.
 
 ## Resolved items
 

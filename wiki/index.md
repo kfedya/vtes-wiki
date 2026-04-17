@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 127 | Sources: 2
+Last updated: 2026-04-18 | Pages: 146 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -79,32 +79,44 @@ _(no pages yet)_
 ### Clans
 - [[entities/clans/abomination|abomination]] — legacy niche Vampire-Werewolf hybrid bloodline; Obfuscate/Protean/Potence; 4 crypt entries; always Scarce+Sterile.
 - [[entities/clans/ahrimane|ahrimane]] — legacy Gangrel offshoot; Animalism/Presence/Spiritus; Sabbat shamans.
+- [[entities/clans/akunanse|akunanse]] — legacy Laibon tribe; Abombwe/Animalism/Fortitude; ancestor-communers with magaji titles.
 - [[entities/clans/baali|baali]] — legacy infernalist bloodline; Daimoinon/Obfuscate/Presence; Independent; many carry the Infernal trait.
 - [[entities/clans/banu-haqim|banu-haqim]] — V5 rebrand of Assamite; Blood Sorcery/Celerity/Obfuscate (legacy Quietus); Independent/Camarilla split.
 - [[entities/clans/blood-brother|blood-brother]] — legacy Sabbat bloodline; single-clan Sanguinus + Fortitude/Potence; circle trait gates group-combat cards.
 - [[entities/clans/brujah|brujah]] — Celerity/Potence/Presence; Camarilla with growing Anarch tilt; rush-combat + vote.
+- [[entities/clans/brujah-antitribu|brujah-antitribu]] — Sabbat offshoot of Brujah; CEL/POT/PRE signature unchanged from parent; 43 crypt.
 - [[entities/clans/caitiff|caitiff]] — clanless; no in-clan disciplines; every discipline out-of-clan; Anarch Convert is iconic 1-cap starter.
 - [[entities/clans/daughter-of-cacophony|daughter-of-cacophony]] — legacy Toreador offshoot; single-clan Melpominee + Fortitude/Presence; song-bleed.
 - [[entities/clans/gangrel|gangrel]] — Animalism/Fortitude/Protean; Independent/Anarch/Camarilla split; wall + native-weapon combat.
+- [[entities/clans/gangrel-antitribu|gangrel-antitribu]] — Sabbat offshoot of Gangrel; PRO/CEL/OBF signature (shifted from parent's ANI/FOR); 58 crypt.
 - [[entities/clans/gargoyle|gargoyle]] — legacy Tremere-created bloodline; Fortitude/Potence/Visceratika; Flight trait; Tremere-slave.
 - [[entities/clans/giovanni|giovanni]] — legacy Italian necromancer merchant-family; Dominate/Necromancy/Potence; Independent; consolidated into Hecata in V5.
+- [[entities/clans/guruhi|guruhi]] — legacy Laibon tribe; Animalism/Potence/Presence; Ebony Kingdom rulers with multiple magaji.
 - [[entities/clans/harbinger-of-skulls|harbinger-of-skulls]] — legacy Sabbat necromancy bloodline; Auspex/Fortitude/Necromancy; consolidated into Hecata in V5.
 - [[entities/clans/hecata|hecata]] — V5 consolidation of Giovanni/Samedi/Harbinger of Skulls/Cappadocian/Nagaraja; Auspex/Fortitude/Oblivion; Independent.
+- [[entities/clans/ishtarri|ishtarri]] — legacy Laibon tribe; Celerity/Fortitude/Presence; hedonist power-brokers; wall + vote.
 - [[entities/clans/kiasyd|kiasyd]] — legacy Lasombra-Fae bloodline; Dominate/Mytherceria/Obtenebration; Sabbat.
 - [[entities/clans/lasombra|lasombra]] — Dominate/Oblivion/Potence (legacy Obtenebration); Sabbat founder with V5 Camarilla faction.
 - [[entities/clans/malkavian|malkavian]] — Auspex/Dominate/Obfuscate; Camarilla intercept-bleed + stealth-bleed; madness-themed library.
+- [[entities/clans/malkavian-antitribu|malkavian-antitribu]] — Sabbat offshoot of Malkavian; AUS/DEM/OBF — Dementation replaces Dominate; 43 crypt.
 - [[entities/clans/ministry|ministry]] — V5 rebrand of Followers of Set; Obfuscate/Presence/Protean (legacy Serpentis); Independent.
 - [[entities/clans/nagaraja|nagaraja]] — legacy Asian necromancer bloodline; Auspex/Dominate/Necromancy; consolidated into Hecata in V5.
 - [[entities/clans/nosferatu|nosferatu]] — Animalism/Obfuscate/Potence; Camarilla stealth-bleed, retainer swarm, grapple combat.
+- [[entities/clans/nosferatu-antitribu|nosferatu-antitribu]] — Sabbat offshoot of Nosferatu; ANI/OBF/POT signature unchanged from parent; 44 crypt.
+- [[entities/clans/osebo|osebo]] — legacy Laibon tribe; Auspex/Celerity/Potence; leopard-kin hunters; intercept-rush.
 - [[entities/clans/pander|pander]] — Sabbat-aligned Caitiff; no in-clan disciplines; semi-clan status in Sabbat lore.
 - [[entities/clans/ravnos|ravnos]] — Animalism/Chimerstry/Presence (legacy Fortitude); Independent wanderers; stealth-bleed + swarm.
 - [[entities/clans/salubri|salubri]] — Auspex/Dominate/Fortitude (legacy Obeah/Valeren); small-and-tanky wall; near-extinct.
+- [[entities/clans/salubri-antitribu|salubri-antitribu]] — Sabbat warrior offshoot of Salubri; AUS/FOR/VAL — Valeren replaces Obeah/Dominate; 19 crypt.
 - [[entities/clans/samedi|samedi]] — legacy Haitian voodoo bloodline; Fortitude/Obfuscate/Thanatosis; Independent; consolidated into Hecata in V5.
 - [[entities/clans/toreador|toreador]] — Auspex/Celerity/Presence; Camarilla vote + intercept-wall; Alexandra / Villon / Rafael de Corazon.
+- [[entities/clans/toreador-antitribu|toreador-antitribu]] — Sabbat offshoot of Toreador; AUS/CEL/PRE signature unchanged; Melinda Galbraith; 45 crypt.
 - [[entities/clans/tremere|tremere]] — Auspex/Blood Sorcery/Dominate; Camarilla wall + bleed-bounce; THA ranged-combat.
+- [[entities/clans/tremere-antitribu|tremere-antitribu]] — Sabbat offshoot of Tremere; AUS/THA/DOM signature unchanged; Goratrix; 43 crypt.
 - [[entities/clans/true-brujah|true-brujah]] — legacy tiny bloodline (10 crypt); single-clan Temporis + Potence/Presence; Independent stoics.
 - [[entities/clans/tzimisce|tzimisce]] — Animalism/Dominate/Vicissitude; Sabbat fleshcrafters; wall + natural-weapon combat.
 - [[entities/clans/ventrue|ventrue]] — Dominate/Fortitude/Presence; Camarilla grinder-prince archetype; resilient vote + bleed.
+- [[entities/clans/ventrue-antitribu|ventrue-antitribu]] — Sabbat offshoot of Ventrue; AUS/DOM/FOR — Auspex replaces Presence; 43 crypt.
 
 ### Disciplines
 - [[entities/disciplines/abombwe|abombwe]] — `[abo]`; legacy Laibon predator-totem discipline; in-clan for Akunanse.
@@ -152,6 +164,15 @@ _(no pages yet)_
 - [[entities/sects/anarch|anarch]] — baron title (city + cross-sect contest); become-anarch action; 2 votes per baron.
 - [[entities/sects/independent|independent]] — no sect alignment; printed-vote "titles" not tied to a sect.
 - [[entities/sects/laibon|laibon]] — legacy; kholo (clan-unique) and magaji (not unique); 2 votes each.
+
+### Creeds
+- [[entities/creeds/avenger|avenger]] — Imbued creed; Vengeance-signature; wrath/retribution against the undead; 3 crypt.
+- [[entities/creeds/defender|defender]] — Imbued creed; Defense-signature; protection/guardianship; 3 crypt.
+- [[entities/creeds/innocent|innocent]] — Imbued creed; Innocence-signature; faith-preserving purity; 3 crypt.
+- [[entities/creeds/judge|judge]] — Imbued creed; Judgment-signature; decisive punishment of monstrosity; 2 crypt.
+- [[entities/creeds/martyr|martyr]] — Imbued creed; Martyrdom-signature; self-sacrifice for others; 3 crypt.
+- [[entities/creeds/redeemer|redeemer]] — Imbued creed; Redemption-signature; salvaging the damned; 3 crypt.
+- [[entities/creeds/visionary|visionary]] — Imbued creed; Vision-signature; foresight and prophecy; 3 crypt.
 
 ### Card types
 - [[crypt]] — crypt cards (vampires): name, blood capacity, clan, Disciplines, group, advanced, text box.
