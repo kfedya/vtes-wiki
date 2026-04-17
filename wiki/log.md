@@ -26,3 +26,5 @@ Append-only chronology of wiki activity. Each entry starts with `## [YYYY-MM-DD]
 ## [2026-04-18] ingest src-002 | krcg vtes.json snapshot — card-db v1 established, schema v2
 
 ## [2026-04-18] query | "all equipment that prevent a block at burn-cost" — filed as wiki/mechanics-index/burn-equipment-to-prevent-block.md; first mechanic-index page; validates end-to-end card-db query path (jq + regex + semantic cleanup)
+
+## [2026-04-18] query | "core 5E discipline stubs from card-db" — filed 9 new wiki/entities/disciplines/*.md pages

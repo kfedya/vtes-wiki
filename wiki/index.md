@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 61 | Sources: 2
+Last updated: 2026-04-18 | Pages: 70 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -80,7 +80,15 @@ _(no pages yet)_
 _(no pages yet)_
 
 ### Disciplines
-_(no pages yet)_
+- [[entities/disciplines/animalism|animalism]] — `[ani]`; animal retainers + swarm combat; in-clan for Gangrel, Nosferatu.
+- [[entities/disciplines/auspex|auspex]] — `[aus]`; premier intercept discipline; in-clan for Malkavian, Toreador.
+- [[entities/disciplines/blood-sorcery|blood-sorcery]] — `[tha]`; V5 rebrand of Thaumaturgy; ranged combat + blood rituals; in-clan for Tremere, Banu Haqim.
+- [[entities/disciplines/celerity|celerity]] — `[cel]`; additional strikes + dodges; in-clan for Brujah, Toreador.
+- [[entities/disciplines/dominate|dominate]] — `[dom]`; bleed increase + bleed bounce (Deflection); in-clan for Ventrue, Lasombra.
+- [[entities/disciplines/fortitude|fortitude]] — `[for]`; damage prevention + sun-cover; in-clan for Ventrue, Gangrel.
+- [[entities/disciplines/obfuscate|obfuscate]] — `[obf]`; +stealth action modifiers; in-clan for Nosferatu, Malkavian.
+- [[entities/disciplines/potence|potence]] — `[pot]`; hand-strike damage + grapple; in-clan for Brujah, Nosferatu.
+- [[entities/disciplines/presence|presence]] — `[pre]`; vote boost + Majesty combat-ends; in-clan for Ventrue, Toreador.
 
 ### Sects
 - [[entities/sects/camarilla|camarilla]] — primogen/prince/justicar/Inner Circle; unique titles by clan; city-contest rules.
