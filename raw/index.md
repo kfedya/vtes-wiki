@@ -38,6 +38,8 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/rulings/unlock-phase.md
   - wiki/rulings/master-phase.md
   - wiki/rulings/minion-phase.md
+  - wiki/rulings/influence-phase.md
+  - wiki/rulings/discard-phase.md
   - wiki/rulings/bleed.md
   - wiki/rulings/hunt.md
   - wiki/rulings/equip.md
@@ -52,6 +54,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/rulings/political-action.md
   - wiki/rulings/referendum.md
   - wiki/rulings/voting.md
+  - wiki/rulings/combat.md
+  - wiki/rulings/maneuver.md
+  - wiki/rulings/strike.md
+  - wiki/rulings/strike-effects.md
+  - wiki/rulings/damage-resolution.md
+  - wiki/rulings/press.md
+  - wiki/rulings/torpor.md
+  - wiki/rulings/diablerie.md
+  - wiki/rulings/blood-hunt.md
+  - wiki/rulings/ending-the-game.md
+  - wiki/rulings/withdraw.md
+  - wiki/rulings/traits.md
   - wiki/entities/card-types/crypt.md
   - wiki/entities/card-types/library.md
   - wiki/entities/card-types/master.md
@@ -63,6 +77,11 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/entities/card-types/ally.md
   - wiki/entities/card-types/retainer.md
   - wiki/entities/card-types/equipment.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/entities/sects/sabbat.md
+  - wiki/entities/sects/anarch.md
+  - wiki/entities/sects/independent.md
+  - wiki/entities/sects/laibon.md
 
 ### Rulings
 ### krcg snapshots

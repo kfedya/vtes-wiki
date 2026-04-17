@@ -9,7 +9,7 @@ status: draft
 # Diablerise (Action)
 
 ## Summary
-Action by a ready vampire to attempt **diablerie** on a vampire in torpor — drinking them to final death. This page covers the **action** mechanics only; the full diablerie **resolution** (blood transfer, potential Discipline gain, blood hunt) is covered in the stage-3 ingest (see future `[[diablerie]]` ruling) [src-001].
+Action by a ready vampire to attempt **diablerie** on a vampire in torpor — drinking them to final death. This page covers the **action** mechanics only; the full diablerie **resolution** (blood transfer, equipment, Discipline gain, blood hunt) is covered in [[diablerie]] [src-001].
 
 ## Action Profile [src-001]
 - **Who can diablerise:** any ready vampire.
@@ -23,16 +23,16 @@ Action by a ready vampire to attempt **diablerie** on a vampire in torpor — dr
   - **0** if controllers differ.
 
 ## Effect
-- On success: the victim is diablerised — see the stage-3 `[[diablerie]]` page for the resolution steps.
+- On success: the victim is diablerised — see [[diablerie]] for the 5-step resolution and the automatic [[blood-hunt]] referendum.
 - On block: the acting vampire and blocking minion enter combat **as normal**.
 
 ## Traits Affecting Eligibility
-- A **Blood Cursed** vampire cannot commit diablerie [src-001 p. 40].
+- A **Blood Cursed** vampire cannot commit diablerie [src-001 p. 41]. See [[traits#blood-cursed]].
 
 ## Common Mistakes
 - Diablerising one of your **own** vampires (same controller): this is allowed — it is undirected at +1 stealth. Typical use: convert a wounded friendly vampire into a Discipline boost for another.
 - Forgetting that cross-controller diablerie is directed and at 0 stealth — much easier to block than rescues of **your own** torpored vampires.
-- Treating diablerie like any other action — the **resolution** is a multi-step unit that cannot be interrupted (see stage-3 `[[diablerie]]`).
+- Treating diablerie like any other action — the **resolution** is a multi-step unit that cannot be interrupted (see [[diablerie]]).
 
 ## Sources
-- src-001 — VTES Fifth Edition Rulebook, pp. 23–24 (Diablerise a Vampire in Torpor — action profile), p. 34 (Diablerie resolution — deferred to stage 3), p. 40 (Blood Cursed).
+- src-001 — VTES Fifth Edition Rulebook, pp. 23–24 (Diablerise a Vampire in Torpor — action profile), pp. 34–35 (Diablerie resolution — see [[diablerie]]), p. 41 (Blood Cursed).
