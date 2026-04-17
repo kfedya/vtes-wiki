@@ -2,7 +2,7 @@
 type: ruling
 tags: [traits, black-hand, blood-cursed, circle, flight, infernal, red-list, scarce, slave, sterile]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 

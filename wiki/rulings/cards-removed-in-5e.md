@@ -2,7 +2,7 @@
 type: ruling
 tags: [5e, not-in-5e, legacy, minion-tap, into-thin-air, torn-signpost]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 

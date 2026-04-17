@@ -2,7 +2,7 @@
 type: ruling
 tags: [master, hunting-ground, unique, blood-source, clan, optional]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 
@@ -11,7 +11,7 @@ status: draft
 ## Summary
 A **hunting ground** is a unique master card, typically clan- or sect-locked, that gives blood to a ready vampire of its associated clan during the unlock phase. The 5E rulebook FAQ describes the Academic Hunting Ground template; it applies to every hunting ground in the set [src-001].
 
-The hunting grounds in the 5E core: Academic (Tremere), Asylum (Malkavian), Slum (Nosferatu), Society (Toreador), Uptown (Ventrue). Non-hunting-ground locations like [[wiki/cards/wasserschloss-anif-austria.md|Wasserschloss Anif, Austria]] are covered separately below.
+The hunting grounds in the 5E core: Academic (Tremere), Asylum (Malkavian), Slum (Nosferatu), Society (Toreador), Uptown (Ventrue). Non-hunting-ground locations like [Wasserschloss Anif, Austria](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Wasserschloss%20Anif,%20Austria) are covered separately below.
 
 ## Core Rules (Academic Hunting Ground template) [src-001 p. 47]
 - **Requires a ready vampire of the matching clan** to be played. For Academic: a ready Tremere.

@@ -2,7 +2,7 @@
 type: ruling
 tags: [oust, victory-point, pool, prey, predator, game-end]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 
