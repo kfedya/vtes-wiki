@@ -2,7 +2,7 @@
 type: entity
 tags: [sect, anarch, title, baron, become-anarch]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 

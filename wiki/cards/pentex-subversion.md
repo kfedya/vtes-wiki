@@ -2,7 +2,7 @@
 type: card
 tags: [master, retainer, directed, block, reaction, unique]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 
