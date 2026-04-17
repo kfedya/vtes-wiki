@@ -197,6 +197,50 @@ status: draft
 - src-NNN — ...
 ```
 
+### Playgroup — common-mistakes (`wiki/playgroup/common-mistakes.md`)
+
+Running list of rules errors the playgroup has made. Each mistake is its own subsection so ruling pages can deep-link to it via `[[common-mistakes#<slug>]]`.
+
+```markdown
+---
+type: playgroup
+tags: [...]
+sources: [src-NNN]
+last_verified: YYYY-MM-DD
+status: draft
+---
+
+# Common Playgroup Mistakes
+
+## <mechanic-slug> — <one-line description>
+**What we were doing:** <incorrect behaviour>.
+**What's actually correct:** <correct behaviour> [src-NNN].
+**First noticed:** YYYY-MM-DD.
+**Related rulings:** [[ruling-page]].
+```
+
+### Playgroup — disputes-log (`wiki/playgroup/disputes-log.md`)
+
+Chronological log of disputes resolved during or after games. Unlike `common-mistakes.md`, entries are per-incident and kept even after they're superseded.
+
+```markdown
+---
+type: playgroup
+tags: [...]
+sources: [src-NNN]
+last_verified: YYYY-MM-DD
+status: draft
+---
+
+# Playgroup Disputes Log
+
+## [YYYY-MM-DD] <short title>
+**Situation:** <board state / action sequence>.
+**Disagreement:** <what each player thought>.
+**Resolution:** <final ruling> [src-NNN].
+**Filed to:** [[ruling-page]] §<section>.
+```
+
 ## What NOT to do
 
 - Do not modify or delete files in `raw/`.

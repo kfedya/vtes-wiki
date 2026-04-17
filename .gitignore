@@ -10,3 +10,6 @@
 .idea/
 .vscode/
 *.swp
+
+# Claude Code local state (machine-specific permissions, session artifacts)
+.claude/
