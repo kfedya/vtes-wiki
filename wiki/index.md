@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 104 | Sources: 2
+Last updated: 2026-04-18 | Pages: 113 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -77,10 +77,19 @@ _(no pages yet)_
 ## Entities
 
 ### Clans
+- [[entities/clans/banu-haqim|banu-haqim]] — V5 rebrand of Assamite; Blood Sorcery/Celerity/Obfuscate (legacy Quietus); Independent/Camarilla split.
+- [[entities/clans/brujah|brujah]] — Celerity/Potence/Presence; Camarilla with growing Anarch tilt; rush-combat + vote.
+- [[entities/clans/gangrel|gangrel]] — Animalism/Fortitude/Protean; Independent/Anarch/Camarilla split; wall + native-weapon combat.
+- [[entities/clans/hecata|hecata]] — V5 consolidation of Giovanni/Samedi/Harbinger of Skulls/Cappadocian/Nagaraja; Auspex/Fortitude/Oblivion; Independent.
+- [[entities/clans/lasombra|lasombra]] — Dominate/Oblivion/Potence (legacy Obtenebration); Sabbat founder with V5 Camarilla faction.
 - [[entities/clans/malkavian|malkavian]] — Auspex/Dominate/Obfuscate; Camarilla intercept-bleed + stealth-bleed; madness-themed library.
+- [[entities/clans/ministry|ministry]] — V5 rebrand of Followers of Set; Obfuscate/Presence/Protean (legacy Serpentis); Independent.
 - [[entities/clans/nosferatu|nosferatu]] — Animalism/Obfuscate/Potence; Camarilla stealth-bleed, retainer swarm, grapple combat.
+- [[entities/clans/ravnos|ravnos]] — Animalism/Chimerstry/Presence (legacy Fortitude); Independent wanderers; stealth-bleed + swarm.
+- [[entities/clans/salubri|salubri]] — Auspex/Dominate/Fortitude (legacy Obeah/Valeren); small-and-tanky wall; near-extinct.
 - [[entities/clans/toreador|toreador]] — Auspex/Celerity/Presence; Camarilla vote + intercept-wall; Alexandra / Villon / Rafael de Corazon.
 - [[entities/clans/tremere|tremere]] — Auspex/Blood Sorcery/Dominate; Camarilla wall + bleed-bounce; THA ranged-combat.
+- [[entities/clans/tzimisce|tzimisce]] — Animalism/Dominate/Vicissitude; Sabbat fleshcrafters; wall + natural-weapon combat.
 - [[entities/clans/ventrue|ventrue]] — Dominate/Fortitude/Presence; Camarilla grinder-prince archetype; resilient vote + bleed.
 
 ### Disciplines
