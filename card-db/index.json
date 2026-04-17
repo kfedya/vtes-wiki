@@ -1,0 +1,346 @@
+{
+  "snapshot_file": "vtes-2026-04-18.json",
+  "snapshot_date": "2026-04-18",
+  "total_cards": 4149,
+  "counts_by_shard": {
+    "action": 469,
+    "action-modifier": 268,
+    "ally": 119,
+    "combat": 376,
+    "conviction": 3,
+    "crypt": 1785,
+    "equipment": 164,
+    "event": 40,
+    "master": 525,
+    "political-action": 177,
+    "power": 14,
+    "reaction": 155,
+    "retainer": 54
+  },
+  "multi_type_cards": {
+    "100005": [
+      "Combat",
+      "Reaction"
+    ],
+    "100034": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "100062": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "100111": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "100174": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100189": [
+      "Combat",
+      "Reaction"
+    ],
+    "100193": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "100249": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100270": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100417": [
+      "Action",
+      "Reaction"
+    ],
+    "100447": [
+      "Combat",
+      "Reaction"
+    ],
+    "100523": [
+      "Combat",
+      "Reaction"
+    ],
+    "100524": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100578": [
+      "Action",
+      "Reaction"
+    ],
+    "100584": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100622": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "100625": [
+      "Action",
+      "Combat"
+    ],
+    "100648": [
+      "Action",
+      "Reaction"
+    ],
+    "100668": [
+      "Combat",
+      "Reaction"
+    ],
+    "100686": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100689": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100706": [
+      "Combat",
+      "Reaction"
+    ],
+    "100758": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100773": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100828": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "100874": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "100878": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "100921": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "100927": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101011": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101064": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101075": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101141": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101222": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101230": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101256": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101307": [
+      "Combat",
+      "Reaction"
+    ],
+    "101313": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101332": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101382": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101402": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101479": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101494": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101503": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101518": [
+      "Action",
+      "Combat"
+    ],
+    "101521": [
+      "Action",
+      "Reaction"
+    ],
+    "101533": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101540": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101542": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101581": [
+      "Combat",
+      "Reaction"
+    ],
+    "101610": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101642": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101686": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101718": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101736": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101754": [
+      "Combat",
+      "Reaction"
+    ],
+    "101797": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101836": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101837": [
+      "Action",
+      "Reaction"
+    ],
+    "101843": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "101847": [
+      "Action",
+      "Combat"
+    ],
+    "101869": [
+      "Action",
+      "Combat"
+    ],
+    "101899": [
+      "Combat",
+      "Reaction"
+    ],
+    "101906": [
+      "Combat",
+      "Reaction"
+    ],
+    "101913": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101916": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101928": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "101998": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "102016": [
+      "Action",
+      "Reaction"
+    ],
+    "102070": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "102073": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "102100": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "102143": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "102223": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "102224": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "102253": [
+      "Action",
+      "Combat"
+    ],
+    "102255": [
+      "Action Modifier",
+      "Combat"
+    ],
+    "102262": [
+      "Action",
+      "Combat"
+    ],
+    "102278": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "102308": [
+      "Action Modifier",
+      "Reaction"
+    ],
+    "102342": [
+      "Action Modifier",
+      "Combat"
+    ]
+  }
+}

@@ -1,0 +1,951 @@
+[
+  {
+    "id": 100007,
+    "_name": "Abjure",
+    "url": "https://static.krcg.org/card/abjure.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "red"
+    ],
+    "card_text": "[COMBAT] Lock this imbued before range is determined to end a combat between a monster and a mortal. If the mortal is a minion other than this imbued, you may move a conviction [1 CONVICTION] to this imbued from your hand or ash heap.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/abjure.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "Can be used by an incapacitated Imbued. [LSJ 20081016]",
+        "references": [
+          {
+            "text": "[LSJ 20081016]",
+            "label": "LSJ 20081016",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/GizIs4K_HiY/m/sCutpP29EgIJ"
+          }
+        ]
+      }
+    ],
+    "name": "Abjure",
+    "printed_name": "Abjure"
+  },
+  {
+    "id": 100322,
+    "_name": "Champion",
+    "url": "https://static.krcg.org/card/champion.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "def"
+    ],
+    "card_text": "[REACTION] [2 CONVICTION] Only usable when a monster controlled by another Methuselah is taking an action directed at you or an imbued controlled by any player. The action fails and the acting monster enters combat with this imbued instead.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/champion.jpg"
+    },
+    "artists": [
+      "Peter Bergting"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "[REACTION] Can be used only when reactions can be used (unlocked or with a wake effect). It does not count as playing a reaction card. [LSJ 20070403] [LSJ 20070413]",
+        "references": [
+          {
+            "text": "[LSJ 20070403]",
+            "label": "LSJ 20070403",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TJ2ktt_1tjk/m/fdH_x9tDmN8J"
+          },
+          {
+            "text": "[LSJ 20070413]",
+            "label": "LSJ 20070413",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/umdINigMKqs/m/lfUAxTnfttIJ"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[REACTION] The action still continues until the end of combat. The acting minion stays the same, effects applied during the action still applies during combat. [LSJ 20070217]",
+        "references": [
+          {
+            "text": "[LSJ 20070217]",
+            "label": "LSJ 20070217",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/HkKuwBe9LRk/m/3GccpU4eaK8J"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[REACTION] The action fails: it might be continued (eg. {Form of Mist}) but still fails anyway. [LSJ 20070214-2]",
+        "references": [
+          {
+            "text": "[LSJ 20070214-2]",
+            "label": "LSJ 20070214-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/C_QjWH6VIh4/m/LGMpWNyO_e4J"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Form of Mist}",
+            "id": 100771,
+            "name": "Form of Mist",
+            "usual_name": "Form of Mist",
+            "vekn_name": "Form of Mist"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[REACTION] The action fails but was not blocked. Cards depending on a block (eg. {Mirror Image}, {Freak Drive}) cannot be played. [LSJ 20070219]",
+        "references": [
+          {
+            "text": "[LSJ 20070219]",
+            "label": "LSJ 20070219",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/HkKuwBe9LRk/m/RGUse0Ow8L4J"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Mirror Image}",
+            "id": 101222,
+            "name": "Mirror Image",
+            "usual_name": "Mirror Image",
+            "vekn_name": "Mirror Image"
+          },
+          {
+            "text": "{Freak Drive}",
+            "id": 100788,
+            "name": "Freak Drive",
+            "usual_name": "Freak Drive",
+            "vekn_name": "Freak Drive"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[REACTION] Modifiers and reactions that can be used at the end/after an action can still be used afterwards. [LSJ 20041022] [RTR 20180719] [ANK 20221205]",
+        "references": [
+          {
+            "text": "[LSJ 20041022]",
+            "label": "LSJ 20041022",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/gqhND6kd2wE/m/LDmEotxa_4kJ"
+          },
+          {
+            "text": "[RTR 20180719]",
+            "label": "RTR 20180719",
+            "url": "https://www.blackchantry.com/2018/07/18/rules-team-rulings-rtr-19-07-2018/"
+          },
+          {
+            "text": "[ANK 20221205]",
+            "label": "ANK 20221205",
+            "url": "https://www.vekn.net/forum/rules-questions/80196-clarification-regarding-detect-authority#106923"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[REACTION] The action fails, so has reached resolution: it is subject to NRA (Non Repeatable Action) rules. [RTR 20180719] [ANK 20211015]",
+        "references": [
+          {
+            "text": "[RTR 20180719]",
+            "label": "RTR 20180719",
+            "url": "https://www.blackchantry.com/2018/07/18/rules-team-rulings-rtr-19-07-2018/"
+          },
+          {
+            "text": "[ANK 20211015]",
+            "label": "ANK 20211015",
+            "url": "https://www.vekn.net/forum/rules-questions/79389-when-does-nra-apply-not-apply?start=6#103563"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      }
+    ],
+    "text_change": true,
+    "name": "Champion",
+    "printed_name": "Champion"
+  },
+  {
+    "id": 100551,
+    "_name": "Discern",
+    "url": "https://static.krcg.org/card/discern.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "jud"
+    ],
+    "card_text": "[REACTION]+1 intercept. Only usable when a monster is acting.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/discern.jpg"
+    },
+    "artists": [
+      "Thomas Manning"
+    ],
+    "flavor_text": "The monsters have been dragged into the light and they have to play by the same rules as the rest of us. This isn't just our reckoning. It's theirs.\nSteve \"Soldier91\" Williams, Avenger",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "[REACTION] Can be used only when reactions can be used (unlocked or with a wake effect). It does not count as playing a reaction card. [LSJ 20070403] [LSJ 20070413]",
+        "references": [
+          {
+            "text": "[LSJ 20070403]",
+            "label": "LSJ 20070403",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TJ2ktt_1tjk/m/fdH_x9tDmN8J"
+          },
+          {
+            "text": "[LSJ 20070413]",
+            "label": "LSJ 20070413",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/umdINigMKqs/m/lfUAxTnfttIJ"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      }
+    ],
+    "name": "Discern",
+    "printed_name": "Discern"
+  },
+  {
+    "id": 100575,
+    "_name": "Donate",
+    "url": "https://static.krcg.org/card/donate.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "mar"
+    ],
+    "card_text": "[ACTION MODIFIER] [1 CONVICTION] Only usable during a bleed action by a ready imbued other than the acting mortal. Burn this card to give the acting mortal you control +1 bleed (limited).\n[REACTION] [1 CONVICTION] Burn this card to give another mortal you control +1 intercept.\n[COMBAT] [1 CONVICTION] Only usable by a ready imbued other than a mortal combatant you control. Burn this card to give that combatant +1 strength for the remainder of the action.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/donate.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "[REACTION] Can be used only when reactions can be used (unlocked or with a wake effect). It does not count as playing a reaction card. [LSJ 20070403] [LSJ 20070413]",
+        "references": [
+          {
+            "text": "[LSJ 20070403]",
+            "label": "LSJ 20070403",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TJ2ktt_1tjk/m/fdH_x9tDmN8J"
+          },
+          {
+            "text": "[LSJ 20070413]",
+            "label": "LSJ 20070413",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/umdINigMKqs/m/lfUAxTnfttIJ"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[ACTION MODIFIER]The ability to increase bleed can only be used during a bleed action before Action Resolution. [ANK 20231124] [LSJ 19970718]",
+        "references": [
+          {
+            "text": "[ANK 20231124]",
+            "label": "ANK 20231124",
+            "url": "https://www.vekn.net/forum/rules-questions/80984-haqim-s-law-retribution-efect-during-combat?start=12#109917"
+          },
+          {
+            "text": "[LSJ 19970718]",
+            "label": "LSJ 19970718",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/QujjxfQHYzw/m/S4tNTm4gpi8J"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[ACTION MODIFIER]",
+            "symbol": "1"
+          }
+        ],
+        "group": "Permanents that increase bleed amount during an action"
+      }
+    ],
+    "text_change": true,
+    "name": "Donate",
+    "printed_name": "Donate"
+  },
+  {
+    "id": 100764,
+    "_name": "Foresee",
+    "url": "https://static.krcg.org/card/foresee.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "viz"
+    ],
+    "card_text": "[COMBAT] [1 CONVICTION] Only usable before range is determined on the first round of combat resulting from a block. Look at the opposing minion's controller's hand. You may then choose to cancel combat. If you do, and this imbued was blocking, the action continues as if unblocked.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/foresee.jpg"
+    },
+    "artists": [
+      "Eric Lofgren"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "If the action continues \"as if unblocked\", all action modifiers and reaction cards are still in effect, even those pertaining to a successful block. [RTR 19941109] [ANK 20190116]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20190116]",
+            "label": "ANK 20190116",
+            "url": "https://www.vekn.net/forum/rules-questions/77302-strike-combat-ends-continue-with-the-action#92916"
+          }
+        ],
+        "group": "Action continue as if unblocked"
+      },
+      {
+        "text": "If the action continues \"as if unblocked\", any Methuselahs that have declined to block before do not get another opportunity to block. [ANK 20190116]",
+        "references": [
+          {
+            "text": "[ANK 20190116]",
+            "label": "ANK 20190116",
+            "url": "https://www.vekn.net/forum/rules-questions/77302-strike-combat-ends-continue-with-the-action#92916"
+          }
+        ],
+        "group": "Action continue as if unblocked"
+      },
+      {
+        "text": "For actions resulting from an action card, \"continue as if unblocked\" moves the action card from the ash heap (where it went when the action was blocked) to limbo (where it should be if the action is not blocked). If the action card is not in the ash heap, then the action cannot be continued. [LSJ 20070808-1]",
+        "references": [
+          {
+            "text": "[LSJ 20070808-1]",
+            "label": "LSJ 20070808-1",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/jzMOxZ9oxOs/m/o0X7GUFmii0J"
+          }
+        ],
+        "group": "Action continue as if unblocked"
+      }
+    ],
+    "name": "Foresee",
+    "printed_name": "Foresee"
+  },
+  {
+    "id": 100919,
+    "_name": "Hide",
+    "url": "https://static.krcg.org/card/hide.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "inn"
+    ],
+    "card_text": "Not usable by an imbued with Illuminate.\n[ACTION MODIFIER] [1 CONVICTION] Only usable as the action is announced. Monsters get -1 intercept against this action.\n[REACTION] [1 CONVICTION] Only usable during a monster's action directed at this imbued. The action fails.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/hide.jpg"
+    },
+    "artists": [
+      "Peter Bergting"
+    ],
+    "flavor_text": "The surgical strike is better. Do damage. Disappear. Repeat.\nJoshua \"God45\" Matthews, Wayward",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "[REACTION] Can be used only when reactions can be used (unlocked or with a wake effect). It does not count as playing a reaction card. [LSJ 20070403] [LSJ 20070413]",
+        "references": [
+          {
+            "text": "[LSJ 20070403]",
+            "label": "LSJ 20070403",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TJ2ktt_1tjk/m/fdH_x9tDmN8J"
+          },
+          {
+            "text": "[LSJ 20070413]",
+            "label": "LSJ 20070413",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/umdINigMKqs/m/lfUAxTnfttIJ"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[REACTION] Modifiers and reactions that can be used at the end/after an action can still be used afterwards. [LSJ 20041022] [RTR 20180719] [ANK 20221205]",
+        "references": [
+          {
+            "text": "[LSJ 20041022]",
+            "label": "LSJ 20041022",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/gqhND6kd2wE/m/LDmEotxa_4kJ"
+          },
+          {
+            "text": "[RTR 20180719]",
+            "label": "RTR 20180719",
+            "url": "https://www.blackchantry.com/2018/07/18/rules-team-rulings-rtr-19-07-2018/"
+          },
+          {
+            "text": "[ANK 20221205]",
+            "label": "ANK 20221205",
+            "url": "https://www.vekn.net/forum/rules-questions/80196-clarification-regarding-detect-authority#106923"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[REACTION] The action has reached resolution, so is subject to NRA (Non Repeatable Action) rules. [RTR 20180719] [ANK 20211015]",
+        "references": [
+          {
+            "text": "[RTR 20180719]",
+            "label": "RTR 20180719",
+            "url": "https://www.blackchantry.com/2018/07/18/rules-team-rulings-rtr-19-07-2018/"
+          },
+          {
+            "text": "[ANK 20211015]",
+            "label": "ANK 20211015",
+            "url": "https://www.vekn.net/forum/rules-questions/79389-when-does-nra-apply-not-apply?start=6#103563"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[ACTION MODIFIER] [1 CONVICTION] Effects that are used \"as the action is announced\" must be used before playing \"regular\" action modifier or reaction cards. [ANK 20190425]",
+        "references": [
+          {
+            "text": "[ANK 20190425]",
+            "label": "ANK 20190425",
+            "url": "https://www.vekn.net/forum/rules-questions/77581-action-modifiers-played-at-beginning-and-end-of-an-action#94652"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[ACTION MODIFIER]",
+            "symbol": "1"
+          }
+        ]
+      }
+    ],
+    "text_change": true,
+    "name": "Hide",
+    "printed_name": "Hide"
+  },
+  {
+    "id": 100953,
+    "_name": "Illuminate",
+    "url": "https://static.krcg.org/card/illuminate.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "inn"
+    ],
+    "card_text": "All imbued get +1 intercept when blocking monsters (not cumulative with any other Illuminate in play, nor with The Unmasking). Any monster may enter combat with this imbued as a Ⓓ action. Burn this card during your next unlock phase or if this imbued leaves the ready region.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/illuminate.jpg"
+    },
+    "artists": [
+      "Peter Bergting"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "The action provided by this card is considered to be an action requiring the listed clan/sect/capacity/title (e.g. the action provided by {Open War} is considered an action that requires an Anarch, the action provided by {The Gate of Acheron} is considered an action that requires Hecata). [LSJ 20080604]",
+        "references": [
+          {
+            "text": "[LSJ 20080604]",
+            "label": "LSJ 20080604",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/9usl4idp-pY/m/NMUFLXR3LZEJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Open War}",
+            "id": 101324,
+            "name": "Open War",
+            "usual_name": "Open War",
+            "vekn_name": "Open War"
+          },
+          {
+            "text": "{The Gate of Acheron}",
+            "id": 102290,
+            "name": "The Gate of Acheron",
+            "usual_name": "The Gate of Acheron",
+            "vekn_name": "Gate of Acheron, The"
+          }
+        ],
+        "group": "Action requirements from a card in play"
+      }
+    ],
+    "name": "Illuminate",
+    "printed_name": "Illuminate"
+  },
+  {
+    "id": 100991,
+    "_name": "Inspire",
+    "url": "https://static.krcg.org/card/inspire.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "inn"
+    ],
+    "card_text": "[ACTION] [1 CONVICTION] +1 stealth action.\nAdd a counter to an imbued in your uncontrolled region or move the conviction [1 CONVICTION] you paid for this action from your ash heap to any imbued in play.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/inspire.jpg"
+    },
+    "artists": [
+      "Thomas Manning"
+    ],
+    "flavor_text": "There's faith and there's blind faith, son. Never get 'em mixed up.\nFather St. George, Judge",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "name": "Inspire",
+    "printed_name": "Inspire"
+  },
+  {
+    "id": 101492,
+    "_name": "Project",
+    "url": "https://static.krcg.org/card/project.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "mar"
+    ],
+    "card_text": "[ACTION MODIFIER] [1 CONVICTION] Only usable as the action is announced.\nVampires with capacity less than 7 and monster allies who cost less than 4 pool cannot block this action.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/project.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "flavor_text": "YOUR CONVICTION WILL WALK BEFORE YOU.",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "name": "Project",
+    "printed_name": "Project"
+  },
+  {
+    "id": 101592,
+    "_name": "Rejuvenate",
+    "url": "https://static.krcg.org/card/rejuvenate.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "def"
+    ],
+    "card_text": "During your unlock phase, if this imbued has fewer life than his or her starting amount, he or she gains 1 life.\n[ACTION] [1 CONVICTION] +1 stealth action. Add 1 blood to a vampire or 1 life to any other ally, not to exceed starting life.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/rejuvenate.jpg"
+    },
+    "artists": [
+      "Peter Bergting"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "name": "Rejuvenate",
+    "printed_name": "Rejuvenate"
+  },
+  {
+    "id": 101611,
+    "_name": "Respire",
+    "url": "https://static.krcg.org/card/respire.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "red"
+    ],
+    "card_text": "[ACTION] Ⓓ Inflict 1 damage on a vampire with capacity less than 6. If this action is successful, you may move 1 conviction [1 CONVICTION] from your hand or ash heap to this imbued.\n[ACTION] [1 CONVICTION] +1 stealth action. Add 1 blood to a vampire or 1 life to any other ally, not to exceed starting life.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/respire.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "flavor_text": "Manipulation is a double-edged sword.\nWilliam \"Violin99\" Hannon, Hermit",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "name": "Respire",
+    "printed_name": "Respire"
+  },
+  {
+    "id": 101752,
+    "_name": "Shame",
+    "url": "https://static.krcg.org/card/shame.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "red"
+    ],
+    "card_text": "[COMBAT] [2 CONVICTION] Only usable before strikes are chosen.\nBurn this card. The opposing monster takes an amount of damage equal to his or her strength, then combat ends. Not usable on an infernal minion, a vampire with capacity above 7, nor a vampire who has Memories of Mortality or Humanitas.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/shame.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "flavor_text": "All honor's wounds are self-inflicted.\nAndrew Carnegie",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "Damage is environmental. [RTR 19970630]",
+        "references": [
+          {
+            "text": "[RTR 19970630]",
+            "label": "RTR 19970630",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/KireUeOYY3c/m/t6ifm9lur1kJ"
+          }
+        ]
+      }
+    ],
+    "name": "Shame",
+    "printed_name": "Shame"
+  },
+  {
+    "id": 101908,
+    "_name": "Surge",
+    "url": "https://static.krcg.org/card/surge.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "ven"
+    ],
+    "card_text": "[COMBAT][REACTION] [1 CONVICTION] Put three surge counters on this imbued. This imbued may burn any number of surge counters to prevent that amount of non-aggravated damage. Burn all surge counters on this imbued at the end of the action.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/surge.jpg"
+    },
+    "artists": [
+      "Heather V. Kreiter"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "[REACTION] Can be used only when reactions can be used (unlocked or with a wake effect). It does not count as playing a reaction card. [LSJ 20070403] [LSJ 20070413]",
+        "references": [
+          {
+            "text": "[LSJ 20070403]",
+            "label": "LSJ 20070403",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TJ2ktt_1tjk/m/fdH_x9tDmN8J"
+          },
+          {
+            "text": "[LSJ 20070413]",
+            "label": "LSJ 20070413",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/umdINigMKqs/m/lfUAxTnfttIJ"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "Cannot be used to prevent aggravated damage, even if the minion treats them as normal damage (eg. {Skin of Night}). [LSJ 20040812-2] [PIB 20130327]",
+        "references": [
+          {
+            "text": "[LSJ 20040812-2]",
+            "label": "LSJ 20040812-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/E7D1cVmAdqQ/m/MvPApbrT14gJ"
+          },
+          {
+            "text": "[PIB 20130327]",
+            "label": "PIB 20130327",
+            "url": "https://www.vekn.net/forum/rules-questions/46279-soak-vs-treat-agg-damage-as-normal-damage#46285"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Skin of Night}",
+            "id": 101790,
+            "name": "Skin of Night",
+            "usual_name": "Skin of Night",
+            "vekn_name": "Skin of Night"
+          }
+        ],
+        "group": "Prevent non-aggravated"
+      }
+    ],
+    "name": "Surge",
+    "printed_name": "Surge"
+  },
+  {
+    "id": 102120,
+    "_name": "Vigilance",
+    "url": "https://static.krcg.org/card/vigilance.jpg",
+    "types": [
+      "Power"
+    ],
+    "disciplines": [
+      "jud"
+    ],
+    "card_text": "[ACTION MODIFIER] Only usable at the end of a successful action (after resolving the action). Unlock this imbued.\n[REACTION] [1 CONVICTION] Only usable by a locked imbued. Unlock this imbued.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/vigilance.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "flavor_text": "The clearest eye is still blind when shut.\nFrançois \"Warden\" Loehr, Judge",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "[REACTION] [1 CONVICTION] Can be used only when reactions can be used (during an action). It does not count as playing a reaction card. [LSJ 20070403] [LSJ 20070413]",
+        "references": [
+          {
+            "text": "[LSJ 20070403]",
+            "label": "LSJ 20070403",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TJ2ktt_1tjk/m/fdH_x9tDmN8J"
+          },
+          {
+            "text": "[LSJ 20070413]",
+            "label": "LSJ 20070413",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/umdINigMKqs/m/lfUAxTnfttIJ"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[REACTION]",
+            "symbol": "7"
+          }
+        ]
+      },
+      {
+        "text": "[ACTION MODIFIER] Cards and effects that can be played \"after resolution\" (and only them) can be played after its use. [ANK 20190425]",
+        "references": [
+          {
+            "text": "[ANK 20190425]",
+            "label": "ANK 20190425",
+            "url": "https://www.vekn.net/forum/rules-questions/77581-action-modifiers-played-at-beginning-and-end-of-an-action#94652"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[ACTION MODIFIER]",
+            "symbol": "1"
+          }
+        ]
+      }
+    ],
+    "name": "Vigilance",
+    "printed_name": "Vigilance"
+  }
+]

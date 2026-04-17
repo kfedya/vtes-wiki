@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 60 | Sources: 1
+Last updated: 2026-04-18 | Pages: 60 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -127,3 +127,11 @@ _(no pages yet)_
 ## Collection
 
 _(no pages yet)_
+
+## Mechanics Index
+
+_(no pages yet)_
+
+## Card Database
+
+Structured card data lives outside `wiki/` — see `card-db/` (derived from src-002 snapshot 2026-04-18). Query via the card-view and deck-building operations in CLAUDE.md.

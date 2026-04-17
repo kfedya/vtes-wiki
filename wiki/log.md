@@ -22,3 +22,5 @@ Append-only chronology of wiki activity. Each entry starts with `## [YYYY-MM-DD]
 ## [2026-04-17] ingest src-001 | VTES 5E Rulebook — stage 4 FAQ card rulings (pp. 46–52) — touched 22 pages (10 new + 12 updates); rulings grouped by mechanic rather than per-card; backlog item filed about card-storage model
 
 ## [2026-04-18] ingest src-001 | VTES 5E Rulebook — stage 5 lore glossary + quick reference (pp. 45, 53) — touched 5 pages (2 new + 3 updates); opens lore/ layer; clan/discipline entity stubs deferred to backlog pending krcg source; src-001 fully ingested
+
+## [2026-04-18] ingest src-002 | krcg vtes.json snapshot — card-db v1 established, schema v2

@@ -95,6 +95,17 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/lore/wod-glossary.md
   - wiki/rulings/quick-reference.md
 
+### Card databases
+
+## src-002 — krcg vtes.json snapshot 2026-04-18
+- type: krcg-snapshot
+- date: 2026-04-18
+- author_or_channel: krcg.org (Lionel Panhaleux et al.)
+- topic: Full VTES card data — names, types, disciplines, costs, card_text, embedded rulings.
+- url: https://static.krcg.org/data/vtes.json
+- added: 2026-04-18
+- pages_touched: [card-db/, CLAUDE.md, wiki/index.md, wiki/log.md, wiki/meta/backlog.md]
+
 ### Rulings
 ### krcg snapshots
 ### Articles

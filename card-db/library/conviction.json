@@ -1,0 +1,200 @@
+[
+  {
+    "id": 101557,
+    "_name": "React with Conviction",
+    "url": "https://static.krcg.org/card/reactwithconviction.jpg",
+    "types": [
+      "Conviction"
+    ],
+    "card_text": "When an effect that would change control of this imbued is played or announced, you may burn this card to cancel that effect. Burn this card to cancel either an action directed at this imbued that requires Chimerstry [chi], Dementation [dem], Dominate [dom], Presence [pre], or Serpentis [ser] or a strike card that requires any of those Disciplines played by a minion opposing this imbued as it is announced. No cost is paid.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/reactwithconviction.jpg"
+    },
+    "artists": [
+      "Travis Ingram"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "If used to cancel an action, the action is not performed, the minion stays unlocked (and can try the same action again). [LSJ 20060425]",
+        "references": [
+          {
+            "text": "[LSJ 20060425]",
+            "label": "LSJ 20060425",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/U34QDob4Vco/m/hcaMIn9W88kJ"
+          }
+        ]
+      },
+      {
+        "text": "If used to cancel a {Corruption} action, then the action is canceled in its entirety and the corruption counters are not burned. [LSJ 20070222-1]",
+        "references": [
+          {
+            "text": "[LSJ 20070222-1]",
+            "label": "LSJ 20070222-1",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/jBrfK77gayo/m/fnk0EgSpN8AJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Corruption}",
+            "id": 100430,
+            "name": "Corruption",
+            "usual_name": "Corruption",
+            "vekn_name": "Corruption"
+          }
+        ]
+      },
+      {
+        "text": "If the canceled card had a \"Do Not Replace Until\" clause on it, that clause is canceled as well and the card is replaced normally. [LSJ 20011023]",
+        "references": [
+          {
+            "text": "[LSJ 20011023]",
+            "label": "LSJ 20011023",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/2GOLIrXAF8M/m/P4T3Dj6UNL0J"
+          }
+        ]
+      },
+      {
+        "text": "Can be used to cancel all action cards, including employ retainer, recruit ally and political action. [ANK 20200813-2]",
+        "references": [
+          {
+            "text": "[ANK 20200813-2]",
+            "label": "ANK 20200813-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78799-rewind-time-inf-and-action-cards#100526"
+          }
+        ]
+      },
+      {
+        "text": "The ability to fail an action must be used before action modifiers or reactions that are not explicitly played \"as the action is announced\". [ANK 20190425]",
+        "references": [
+          {
+            "text": "[ANK 20190425]",
+            "label": "ANK 20190425",
+            "url": "https://www.vekn.net/forum/rules-questions/77581-action-modifiers-played-at-beginning-and-end-of-an-action#94652"
+          }
+        ],
+        "group": "Fail an action as announced"
+      }
+    ],
+    "text_change": true,
+    "name": "React with Conviction",
+    "printed_name": "React with Conviction"
+  },
+  {
+    "id": 101705,
+    "_name": "Second Sight",
+    "url": "https://static.krcg.org/card/secondsight.jpg",
+    "types": [
+      "Conviction"
+    ],
+    "card_text": "An imbued may burn only one Second Sight for the following effects each action.\nBurn when a monster is acting to give this imbued +1 intercept for that action.\nBurn when this imbued declares an action to give monsters -1 intercept for this action.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/secondsight.jpg"
+    },
+    "artists": [
+      "Avery Butterworth"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "name": "Second Sight",
+    "printed_name": "Second Sight"
+  },
+  {
+    "id": 101886,
+    "_name": "Strike with Conviction",
+    "url": "https://static.krcg.org/card/strikewithconviction.jpg",
+    "types": [
+      "Conviction"
+    ],
+    "card_text": "Burn to make a hand or weapon strike against a monster at +1 damage.\nBurn to bleed at +1 bleed as a Ⓓ action.",
+    "_set": "NoR:C",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/strikewithconviction.jpg"
+    },
+    "artists": [
+      "Mark Poole"
+    ],
+    "flavor_text": "BREAK ITS STRANGLEHOLD",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "If the action to bleed is blocked or canceled, Strike with Conviction is not burned. [LSJ 20060421] [RTR 20111202]",
+        "references": [
+          {
+            "text": "[LSJ 20060421]",
+            "label": "LSJ 20060421",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/5_Y7HxiR7wo/m/qLgr38ocXA8J"
+          },
+          {
+            "text": "[RTR 20111202]",
+            "label": "RTR 20111202",
+            "url": "https://www.vekn.net/forum/rules-questions/16769-rules-team-rulings-02-dec-11#16769"
+          }
+        ]
+      },
+      {
+        "text": "Adding damage to a strike that does not deal damage has no effect, so the strike still will not do damage. [RTR 19960221]",
+        "references": [
+          {
+            "text": "[RTR 19960221]",
+            "label": "RTR 19960221",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/UdU535eVm0Y/m/AQGxbaznHL0J"
+          }
+        ],
+        "group": "Adding damage to strikes"
+      },
+      {
+        "text": "Additional damage inherits all of the properties of the base damage. [RTR 19970630] [TOM 19960225]",
+        "references": [
+          {
+            "text": "[RTR 19970630]",
+            "label": "RTR 19970630",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/KireUeOYY3c/m/t6ifm9lur1kJ"
+          },
+          {
+            "text": "[TOM 19960225]",
+            "label": "TOM 19960225",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0LLTOfvyVbM/m/ih72_C-LriwJ"
+          }
+        ],
+        "group": "Adding damage to strikes"
+      }
+    ],
+    "name": "Strike with Conviction",
+    "printed_name": "Strike with Conviction"
+  }
+]

@@ -1,0 +1,2681 @@
+[
+  {
+    "id": 100011,
+    "_name": "Absimiliard's Army",
+    "url": "https://static.krcg.org/card/absimiliardsarmy.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 1 or more other Gehenna events in play. Do not replace until a Methuselah is ousted.\nDuring each Methuselah's unlock phase, that Methuselah can put the top card of their library in play (face up); it becomes a nameless, textless ghoul ally with 2 life, 2 strength and 1 bleed. After that ally is burned or this event leaves play, remove that ally from the game. After a Methuselah is ousted, burn this card.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/absimiliardsarmy.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/absimiliardsarmy.jpg"
+    },
+    "artists": [
+      "Richard Thomas"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Putting the top card of your library in play as a ghoul does not count as playing the card. [LSJ 20040531]",
+        "references": [
+          {
+            "text": "[LSJ 20040531]",
+            "label": "LSJ 20040531",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/oTb4vsFNi1s/m/pCwoAggb97UJ"
+          }
+        ]
+      },
+      {
+        "text": "The card used to represent the ally is face up, but the name on that card is ignored if something goes looking for a card by name. They do not contest. [LSJ 20040623] [LSJ 20071003]",
+        "references": [
+          {
+            "text": "[LSJ 20040623]",
+            "label": "LSJ 20040623",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/PlPp5igHOEg/m/6IOQqMJA53gJ"
+          },
+          {
+            "text": "[LSJ 20071003]",
+            "label": "LSJ 20071003",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/duRrP46XygI/m/zAHBdn4JnNQJ"
+          }
+        ]
+      },
+      {
+        "text": "A burned ghoul is removed from the game, but it is still burned (e.g. it triggers {Tension in the Ranks}). However, when Absimillard's Army is removed from the game, the ghouls are removed without burning (will not trigger {Tension in the Ranks}). [LSJ 20090920]",
+        "references": [
+          {
+            "text": "[LSJ 20090920]",
+            "label": "LSJ 20090920",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/mCPE3I6343Y/m/KqkCJgjur5IJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Tension in the Ranks}",
+            "id": 101958,
+            "name": "Tension in the Ranks",
+            "usual_name": "Tension in the Ranks",
+            "vekn_name": "Tension in the Ranks"
+          },
+          {
+            "text": "{Tension in the Ranks}",
+            "id": 101958,
+            "name": "Tension in the Ranks",
+            "usual_name": "Tension in the Ranks",
+            "vekn_name": "Tension in the Ranks"
+          }
+        ]
+      },
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      },
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      },
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Absimiliard's Army",
+    "printed_name": "Absimiliard's Army"
+  },
+  {
+    "id": 100074,
+    "_name": "Anthelios, The Red Star",
+    "url": "https://static.krcg.org/card/antheliostheredstar.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna.\nOnce each master phase, a Methuselah can use a master phase action to exchange a master card in his or her hand for one in his or her ash heap.",
+    "_set": "Promo-20040411",
+    "sets": {
+      "Gehenna promo": [
+        {
+          "release_date": "2004-04-11",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna promo": "https://static.krcg.org/card/set/promo/antheliostheredstar.jpg"
+    },
+    "banned": "2016-02-16",
+    "artists": [
+      "Becky Jollensten"
+    ],
+    "flavor_text": "The Red Star shines brightly -- more so, I am told, to those with the gift of superior sight, but it is obvious even to me. Can you truly not see that Gehenna is upon us?\nPrince Giangaleazzo, Lasombra antitribu",
+    "ordered_sets": [
+      "Gehenna promo"
+    ],
+    "legality": "2004-04-11",
+    "name_variants": [
+      "Anthelios"
+    ],
+    "name": "Anthelios, The Red Star",
+    "printed_name": "Anthelios, The Red Star"
+  },
+  {
+    "id": 100148,
+    "_name": "Becoming of Ennoia",
+    "url": "https://static.krcg.org/card/becomingofennoia.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace until your next discard phase.\nRequires at least two other Gehenna cards controlled by other Methuselahs in play. During each Methuselah's unlock phase, he or she chooses a ready vampire he or she controls. The chosen vampire takes 1 unpreventable damage. Earth Meld cards cost 2 additional blood.",
+    "_set": "Gehenna:R",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/becomingofennoia.jpg"
+    },
+    "artists": [
+      "Alejandro Colucci"
+    ],
+    "ordered_sets": [
+      "Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "Becoming of Ennoia",
+    "printed_name": "Becoming of Ennoia"
+  },
+  {
+    "id": 100198,
+    "_name": "Blood Cult Awareness Network",
+    "url": "https://static.krcg.org/card/bloodcultawarenessnetwork.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Inquisition.\nRequires a ready imbued in play. Whenever there are any ready imbued in play, any action to put a vampire or ghoul in play or to add counters to an uncontrolled vampire gets -1 stealth and costs an additional blood or life.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/bloodcultawarenessnetwork.jpg"
+    },
+    "artists": [
+      "Mark Poole"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "Affects actions that add counters to vampires in the uncontroled region conditionally (eg {Undue Influence}, {Feast of the Soul's Secrets}) [LSJ 20060414] [ANK 20240118-2]",
+        "references": [
+          {
+            "text": "[LSJ 20060414]",
+            "label": "LSJ 20060414",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Kok_AGc9i68/m/tiI176IwHKkJ"
+          },
+          {
+            "text": "[ANK 20240118-2]",
+            "label": "ANK 20240118-2",
+            "url": "https://www.vekn.net/forum/rules-questions/81154-blood-cult-awareness-network-and-feast-of-the-soul-s-secrets#110399"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Undue Influence}",
+            "id": 102067,
+            "name": "Undue Influence",
+            "usual_name": "Undue Influence",
+            "vekn_name": "Undue Influence"
+          },
+          {
+            "text": "{Feast of the Soul's Secrets}",
+            "id": 102248,
+            "name": "Feast of the Soul's Secrets",
+            "usual_name": "Feast of the Soul's Secrets",
+            "vekn_name": "Feast of the Soul's Secrets"
+          }
+        ]
+      }
+    ],
+    "name": "Blood Cult Awareness Network",
+    "printed_name": "Blood Cult Awareness Network"
+  },
+  {
+    "id": 100215,
+    "_name": "Blood Trade",
+    "url": "https://static.krcg.org/card/bloodtrade.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna.\nBurn all boons. No more boons can be put in play. During each Methuselah's unlock phase, that Methuselah can move 1 blood from a vampire they control to a vampire controlled by another Methuselah.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/bloodtrade.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/bloodtrade.jpg"
+    },
+    "artists": [
+      "Steve Ellis"
+    ],
+    "flavor_text": "Yes, well, we all get angry or scared or hungry sometimes. That can make us forget our promises.\nStuart Eberhardt, Caitiff",
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Does not prevent {Consanguineous Boon} to be played. [LSJ 20040531-2]",
+        "references": [
+          {
+            "text": "[LSJ 20040531-2]",
+            "label": "LSJ 20040531-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/6K2TqucrNzg/m/41EuHsVjHlYJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Consanguineous Boon}",
+            "id": 100410,
+            "name": "Consanguineous Boon",
+            "usual_name": "Consanguineous Boon",
+            "vekn_name": "Consanguineous Boon"
+          }
+        ]
+      }
+    ],
+    "name": "Blood Trade",
+    "printed_name": "Blood Trade"
+  },
+  {
+    "id": 100217,
+    "_name": "Blood Weakens",
+    "url": "https://static.krcg.org/card/bloodweakens.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace until a vampire commits diablerie.\nDuring an action, cards minions play requiring 1 or more Disciplines are not replaced until the end of that action or until a Methuselah's hand is empty (whichever comes first). Vampires who commit diablerie ignore this effect until a Gehenna event is played.",
+    "_set": "Gehenna:R, KoT:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/bloodweakens.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/bloodweakens.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/bloodweakens.jpg"
+    },
+    "artists": [
+      "Jeff Holt"
+    ],
+    "flavor_text": "Regain the power that is yours! Feel the blood flow through you, as it should!\nKaren Suadela, Brujah prince",
+    "ordered_sets": [
+      "Gehenna",
+      "Keepers of Tradition",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "You do not replace cards that require a discipline during any action. [ANK 20201015]",
+        "references": [
+          {
+            "text": "[ANK 20201015]",
+            "label": "ANK 20201015",
+            "url": "https://www.vekn.net/forum/rules-questions/78879-blood-weakens#100936"
+          }
+        ]
+      },
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      }
+    ],
+    "name": "Blood Weakens",
+    "printed_name": "Blood Weakens"
+  },
+  {
+    "id": 100248,
+    "_name": "Break the Code",
+    "url": "https://static.krcg.org/card/breakthecode.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna.\nImbued get -1 intercept when attempting to block monsters. A ready monster can enter combat with an imbued as a Ⓓ action.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/breakthecode.jpg"
+    },
+    "artists": [
+      "Veronica Jones"
+    ],
+    "flavor_text": "The shaft of the arrow had been feathered with one of the eagle's own plumes. We often give our enemies the means of our own destruction.\nAesop, \"The Eagle and the Arrow\"",
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "name": "Break the Code",
+    "printed_name": "Break the Code"
+  },
+  {
+    "id": 100409,
+    "_name": "Conquest of Humanity",
+    "url": "https://static.krcg.org/card/conquestofhumanity.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 2 or more other Gehenna events in play. Do not replace until your next discard phase.\nDuring each Methuselah's unlock phase, that Methuselah can choose a location controlled by their prey. The chosen location is burned unless its controller burns 2 pool.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/conquestofhumanity.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/conquestofhumanity.jpg"
+    },
+    "artists": [
+      "Joel Biske"
+    ],
+    "flavor_text": "More bombs? More fire? More accidents? What of the Masquerade?\nFederico di Padua, Nosferatu archon",
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "Conquest of Humanity",
+    "printed_name": "Conquest of Humanity"
+  },
+  {
+    "id": 100577,
+    "_name": "Dr. Marisa Fletcher, CDC",
+    "url": "https://static.krcg.org/card/drmarisafletchercdc.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Government.\nDuring your unlock phase, add two counters to this card from the blood bank. When a vampire with capacity less than X is blocked while hunting, where X is the number of counters on this card, burn that vampire and all the counters on this card.",
+    "_set": "KMW:R",
+    "sets": {
+      "Kindred Most Wanted": [
+        {
+          "release_date": "2005-02-21",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Kindred Most Wanted": "https://static.krcg.org/card/set/kindred-most-wanted/drmarisafletchercdc.jpg"
+    },
+    "artists": [
+      "Ken Meyer, Jr."
+    ],
+    "ordered_sets": [
+      "Kindred Most Wanted"
+    ],
+    "legality": "2005-02-21",
+    "name_variants": [
+      "Dr. Marisa Fletcher"
+    ],
+    "rulings": [
+      {
+        "text": "If the action is blocked, *all* effects that would be triggered by a successful block (eg. {Banshee Ironwail}) must be applied (ordered by the acting Methuselah).  Other effects and modifiers (eg. {Crypt's Sons}, {Change of Target}) can only be used after all triggered effects have been handled. [ANK 20220116] [ANK 20211207] [ANK 20210627]",
+        "references": [
+          {
+            "text": "[ANK 20220116]",
+            "label": "ANK 20220116",
+            "url": "https://www.vekn.net/forum/rules-questions/79600-unleash-hell-s-fury-and-other-delayed-triggered-effects#104488"
+          },
+          {
+            "text": "[ANK 20211207]",
+            "label": "ANK 20211207",
+            "url": "https://www.vekn.net/forum/rules-questions/79528-crypt-s-sons-versus-unleash-hell-s-fury?start=6#104139"
+          },
+          {
+            "text": "[ANK 20210627]",
+            "label": "ANK 20210627",
+            "url": "https://www.vekn.net/forum/rules-questions/79192-mirror-walk-and-slave?start=12#102578"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Banshee Ironwail}",
+            "id": 100133,
+            "name": "Banshee Ironwail",
+            "usual_name": "Banshee Ironwail",
+            "vekn_name": "Banshee Ironwail"
+          },
+          {
+            "text": "{Crypt's Sons}",
+            "id": 100476,
+            "name": "Crypt's Sons",
+            "usual_name": "Crypt's Sons",
+            "vekn_name": "Crypt's Sons"
+          },
+          {
+            "text": "{Change of Target}",
+            "id": 100323,
+            "name": "Change of Target",
+            "usual_name": "Change of Target",
+            "vekn_name": "Change of Target"
+          }
+        ],
+        "group": "Triggered by block"
+      }
+    ],
+    "name": "Dr. Marisa Fletcher, CDC",
+    "printed_name": "Dr. Marisa Fletcher, CDC"
+  },
+  {
+    "_i18n": {
+      "fr": {
+        "name": "Lié par le Dragon",
+        "url": "https://static.krcg.org/card/fr/dragonbound.jpg",
+        "card_text": "Géhenne. À ne pas remplacer tant que cette carte est en jeu.\nDurant la phase de défausse de chaque Mathusalem, ce Mathusalem brûle 1 point de réserve pour chaque vampire en torpeur sous son contrôle.",
+        "sets": {
+          "Sabbat Preconstructed": "Préconstruits Sabbat"
+        },
+        "flavor_text": "Est-ce comme ça que cela se termine ? Finalement, je vais peut-être rester.\nRamona, Gangrel"
+      },
+      "es": {
+        "name": "Encadenado al Dragón",
+        "url": "https://static.krcg.org/card/es/dragonbound.jpg",
+        "card_text": "Gehenna. No la reemplaces mientras esta carta esté en juego.\nDurante la fase de descarte de cada Matusalén, ese Matusalén quema 1 de reserva sanguínea por cada vampiro en letargo que controle.",
+        "sets": {
+          "Sabbat Preconstructed": "Preconstruidos Sabbat"
+        },
+        "flavor_text": "¿Es así como es al final? Quizás me quede.\nRamona, Gangrel"
+      }
+    },
+    "id": 100581,
+    "_name": "Dragonbound",
+    "url": "https://static.krcg.org/card/dragonbound.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace as long as this card is in play.\nDuring each Methuselah's discard phase, that Methuselah burns 1 pool for each vampire in torpor they control.",
+    "_set": "Gehenna:R, LotN:PA, HttB:PSal, SP:DoF1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Lords of the Night": [
+        {
+          "release_date": "2007-09-26",
+          "precon": "Assamite",
+          "copies": 1
+        }
+      ],
+      "Heirs to the Blood": [
+        {
+          "release_date": "2010-02-03",
+          "precon": "Salubri antitribu",
+          "copies": 1
+        }
+      ],
+      "Sabbat Preconstructed": [
+        {
+          "release_date": "2019-02-16",
+          "precon": "Den of Fiends",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/dragonbound.jpg",
+      "Lords of the Night": "https://static.krcg.org/card/set/lords-of-the-night/dragonbound.jpg",
+      "Heirs to the Blood": "https://static.krcg.org/card/set/heirs-to-the-blood/dragonbound.jpg",
+      "Sabbat Preconstructed": "https://static.krcg.org/card/set/sabbat-preconstructed/dragonbound.jpg"
+    },
+    "artists": [
+      "Richard Thomas"
+    ],
+    "flavor_text": "Is this what it's like at the very end? Maybe I'll just stay.\nRamona, Gangrel",
+    "ordered_sets": [
+      "Gehenna",
+      "Lords of the Night",
+      "Heirs to the Blood",
+      "Sabbat Preconstructed"
+    ],
+    "legality": "2004-05-17",
+    "name": "Dragonbound",
+    "printed_name": "Dragonbound"
+  },
+  {
+    "id": 100612,
+    "_name": "Edge Explosion",
+    "url": "https://static.krcg.org/card/edgeexplosion.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna.\nRequires at least one other Gehenna card in play. Each imbued can have (and use) one power card for which he or she doesn't meet the requirements. An imbued who performs a successful action may gain 1 conviction [1 CONVICTION] from his or her ash heap. An imbued can only gain 1 conviction [1 CONVICTION] this way each turn.",
+    "_set": "NoR:R",
+    "sets": {
+      "Nights of Reckoning": [
+        {
+          "release_date": "2006-04-10",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Nights of Reckoning": "https://static.krcg.org/card/set/nights-of-reckoning/edgeexplosion.jpg"
+    },
+    "banned": "2008-01-01",
+    "artists": [
+      "John Bridges"
+    ],
+    "ordered_sets": [
+      "Nights of Reckoning"
+    ],
+    "legality": "2006-04-10",
+    "rulings": [
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "Edge Explosion",
+    "printed_name": "Edge Explosion"
+  },
+  {
+    "id": 100695,
+    "_name": "Fall of the Camarilla",
+    "url": "https://static.krcg.org/card/fallofthecamarilla.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 3 or more other Gehenna events in play. Do not replace as long as this card is in play.\nThere is no Camarilla. Instead, Camarilla vampires are considered Independent.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/fallofthecamarilla.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/fallofthecamarilla.jpg"
+    },
+    "artists": [
+      "Mark Poole"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Cards that change a vampire's sect to Camarilla can still be played, but he becomes Independent until the Fall is removed from play. [LSJ 20040519]",
+        "references": [
+          {
+            "text": "[LSJ 20040519]",
+            "label": "LSJ 20040519",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/fz-EAPmmqZY/m/bj4sR5CxnmQJ"
+          }
+        ]
+      },
+      {
+        "text": "Is a temporary effect that overrides the underlying sect. The most recent override takes precedence, but if a more recent would set the sect to Camarilla, it sets it to Independent instead while the Fall is in play. If the Fall leaves play, the vampire retrieves his underlying sect. [LSJ 20080510] [LSJ 20100811] [ANK 20190619]",
+        "references": [
+          {
+            "text": "[LSJ 20080510]",
+            "label": "LSJ 20080510",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/67g8kq3F_uw/m/MAAoEV0Jf_kJ"
+          },
+          {
+            "text": "[LSJ 20100811]",
+            "label": "LSJ 20100811",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/kGKWcs3k6vI/m/Uwx7TGC8lgYJ"
+          },
+          {
+            "text": "[ANK 20190619]",
+            "label": "ANK 20190619",
+            "url": "https://www.vekn.net/forum/rules-questions/77723-writ-of-acceptance-and-anarch-and-hackerspace#95462"
+          }
+        ]
+      },
+      {
+        "text": "Vampires with a Camarilla title lose the benefit from it until they becomre Camarilla again. They immediately yield the title if it is contested or if they receives a new one. [LSJ 20060904]",
+        "references": [
+          {
+            "text": "[LSJ 20060904]",
+            "label": "LSJ 20060904",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/L9D4GK0yNv8/m/H9vnUciv2psJ"
+          }
+        ]
+      },
+      {
+        "text": "An \"impersonator\" (eg. {Vlad Tepes}) can still play cards requiring Camarilla or a Camarilla title. [LSJ 20050124] [ANK 20230503]",
+        "references": [
+          {
+            "text": "[LSJ 20050124]",
+            "label": "LSJ 20050124",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/HVy8iPUxNbI/m/ZjCzAzmQFMwJ"
+          },
+          {
+            "text": "[ANK 20230503]",
+            "label": "ANK 20230503",
+            "url": "https://www.vekn.net/forum/rules-questions/80486-vlad-tepes-special-text-under-fall-of-the-sabbat?start=6#107971"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Vlad Tepes}",
+            "id": 201456,
+            "name": "Vlad Tepes (G3)",
+            "usual_name": "Vlad Tepes",
+            "vekn_name": "Vlad Tepes"
+          }
+        ]
+      },
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "Fall of the Camarilla",
+    "printed_name": "Fall of the Camarilla"
+  },
+  {
+    "id": 100696,
+    "_name": "Fall of the Sabbat",
+    "url": "https://static.krcg.org/card/fallofthesabbat.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 3 or more other Gehenna events in play. Not usable if a ready vampire is Black Hand. Do not replace as long as this card is in play.\nThere is no Sabbat. Instead, Sabbat vampires are considered Independent.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/fallofthesabbat.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/fallofthesabbat.jpg"
+    },
+    "artists": [
+      "matrix von z"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Cards that change a vampire's sect to Sabbat can still be played, but he becomes Independent until the Fall is removed from play. [LSJ 20040519]",
+        "references": [
+          {
+            "text": "[LSJ 20040519]",
+            "label": "LSJ 20040519",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/fz-EAPmmqZY/m/bj4sR5CxnmQJ"
+          }
+        ]
+      },
+      {
+        "text": "Is a temporary effect that overrides the underlying sect. The most recent override takes precedence, but if a more recent would set the sect to Sabbat, it sets it to Independent instead while the Fall is in play. If the Fall leaves play, the vampire retrieves his underlying sect. [LSJ 20080510] [LSJ 20100811] [ANK 20190619]",
+        "references": [
+          {
+            "text": "[LSJ 20080510]",
+            "label": "LSJ 20080510",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/67g8kq3F_uw/m/MAAoEV0Jf_kJ"
+          },
+          {
+            "text": "[LSJ 20100811]",
+            "label": "LSJ 20100811",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/kGKWcs3k6vI/m/Uwx7TGC8lgYJ"
+          },
+          {
+            "text": "[ANK 20190619]",
+            "label": "ANK 20190619",
+            "url": "https://www.vekn.net/forum/rules-questions/77723-writ-of-acceptance-and-anarch-and-hackerspace#95462"
+          }
+        ]
+      },
+      {
+        "text": "Vampires with a Sabbat title lose the benefit from it until they becomre Sabbat again. They immediately yield the title if it is contested or if they receives a new one. [LSJ 20060904]",
+        "references": [
+          {
+            "text": "[LSJ 20060904]",
+            "label": "LSJ 20060904",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/L9D4GK0yNv8/m/H9vnUciv2psJ"
+          }
+        ]
+      },
+      {
+        "text": "An \"impersonator\" (eg. {Vlad Tepes}) can still play cards requiring Sabbat or a Sabbat title. [LSJ 20050124] [ANK 20230503]",
+        "references": [
+          {
+            "text": "[LSJ 20050124]",
+            "label": "LSJ 20050124",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/HVy8iPUxNbI/m/ZjCzAzmQFMwJ"
+          },
+          {
+            "text": "[ANK 20230503]",
+            "label": "ANK 20230503",
+            "url": "https://www.vekn.net/forum/rules-questions/80486-vlad-tepes-special-text-under-fall-of-the-sabbat?start=6#107971"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Vlad Tepes}",
+            "id": 201456,
+            "name": "Vlad Tepes (G3)",
+            "usual_name": "Vlad Tepes",
+            "vekn_name": "Vlad Tepes"
+          }
+        ]
+      },
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "Fall of the Sabbat",
+    "printed_name": "Fall of the Sabbat"
+  },
+  {
+    "id": 100709,
+    "_name": "FBI Special Affairs Division",
+    "url": "https://static.krcg.org/card/fbispecialaffairsdivision.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Government.\nIf an ally is burned in combat with an acting vampire, add 1 counter to this card and inflict 2 unpreventable environmental damage on the acting vampire after the combat ends. If this card has 4 counters, burn it.",
+    "_set": "KMW:R, EoG:1",
+    "sets": {
+      "Kindred Most Wanted": [
+        {
+          "release_date": "2005-02-21",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Kindred Most Wanted": "https://static.krcg.org/card/set/kindred-most-wanted/fbispecialaffairsdivision.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/fbispecialaffairsdivision.jpg"
+    },
+    "artists": [
+      "Jim Di Bartolo"
+    ],
+    "ordered_sets": [
+      "Kindred Most Wanted",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2005-02-21",
+    "rulings": [
+      {
+        "text": "Does not trigger if the ally is saved by {Left for Dead}. [PIB 20121028]",
+        "references": [
+          {
+            "text": "[PIB 20121028]",
+            "label": "PIB 20121028",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=6#39843"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Left for Dead}",
+            "id": 101084,
+            "name": "Left for Dead",
+            "usual_name": "Left for Dead",
+            "vekn_name": "Left for Dead"
+          }
+        ]
+      },
+      {
+        "text": "Does not trigger if the ally is considered the acting minion during the combat (eg. {Nar-Sheptha}). [ANK 20180913-2]",
+        "references": [
+          {
+            "text": "[ANK 20180913-2]",
+            "label": "ANK 20180913-2",
+            "url": "https://www.vekn.net/forum/rules-questions/76998-narsheptha-fbi?start=6#90588"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Nar-Sheptha}",
+            "id": 101264,
+            "name": "Nar-Sheptha",
+            "usual_name": "Nar-Sheptha",
+            "vekn_name": "Nar-Sheptha"
+          }
+        ]
+      },
+      {
+        "text": "Does trigger if the ally burns by himself at the end of combat (eg. {Escaped Mental Patient}). [LSJ 20100527]",
+        "references": [
+          {
+            "text": "[LSJ 20100527]",
+            "label": "LSJ 20100527",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Tr3X4DsZr-8/m/O06iXN6LtzsJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Escaped Mental Patient}",
+            "id": 100661,
+            "name": "Escaped Mental Patient",
+            "usual_name": "Escaped Mental Patient",
+            "vekn_name": "Escaped Mental Patient"
+          }
+        ]
+      }
+    ],
+    "name": "FBI Special Affairs Division",
+    "printed_name": "FBI Special Affairs Division"
+  },
+  {
+    "id": 100796,
+    "_name": "Fueled by Heart's Blood",
+    "url": "https://static.krcg.org/card/fueledbyheartsblood.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace until a vampire commits diablerie.\nThis card comes into play with 10 counters. After another Gehenna event is played, burn 1 counter from this card. Blood hunts cannot be called on vampires with capacity greater than the number of counters on this card who diablerize a younger vampire.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/fueledbyheartsblood.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/fueledbyheartsblood.jpg"
+    },
+    "artists": [
+      "Randy Asplund"
+    ],
+    "flavor_text": "I'm starting to hear whispers of warehouses and old office buildings converted to internment centers — and buffets.\nOkulos, Nosferatu",
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      }
+    ],
+    "name": "Fueled by Heart's Blood",
+    "printed_name": "Fueled by Heart's Blood"
+  },
+  {
+    "id": 100944,
+    "_name": "Hunger Moon",
+    "url": "https://static.krcg.org/card/hungermoon.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "If a vampire successfully hunts, move 1 blood from that vampire to this card after resolution. Burn this card if it has 5 blood.",
+    "_set": "HttB:R/A1",
+    "sets": {
+      "Heirs to the Blood Reprint": [
+        {
+          "release_date": "2018-07-14",
+          "precon": "Bundle 1",
+          "copies": 1
+        }
+      ],
+      "Heirs to the Blood": [
+        {
+          "release_date": "2010-02-03",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Heirs to the Blood Reprint": "https://static.krcg.org/card/set/heirs-to-the-blood-reprint/hungermoon.jpg",
+      "Heirs to the Blood": "https://static.krcg.org/card/set/heirs-to-the-blood/hungermoon.jpg"
+    },
+    "artists": [
+      "Joel Biske"
+    ],
+    "ordered_sets": [
+      "Heirs to the Blood",
+      "Heirs to the Blood Reprint"
+    ],
+    "legality": "2010-02-03",
+    "rulings": [
+      {
+        "text": "If the vampire gains no blood from their hunt, it's not successful, so Hunger Moon's effect does not apply. [LSJ 20050720-2]",
+        "references": [
+          {
+            "text": "[LSJ 20050720-2]",
+            "label": "LSJ 20050720-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/1vbIkgvKDJ0/m/3ErIIMXFgPIJ"
+          }
+        ]
+      }
+    ],
+    "name": "Hunger Moon",
+    "printed_name": "Hunger Moon"
+  },
+  {
+    "id": 100970,
+    "_name": "Inconnu Tutelage",
+    "url": "https://static.krcg.org/card/inconnututelage.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Inconnu.\nA Methuselah may spend four transfers and remove a vampire in his or her uncontrolled region from the game to search for any card in his or her library and put it in his or her hand (discarding and shuffling afterward).",
+    "_set": "Third:R",
+    "sets": {
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/inconnututelage.jpg"
+    },
+    "artists": [
+      "Heather V. Kreiter"
+    ],
+    "ordered_sets": [
+      "Third Edition"
+    ],
+    "legality": "2006-09-04",
+    "name": "Inconnu Tutelage",
+    "printed_name": "Inconnu Tutelage"
+  },
+  {
+    "id": 101265,
+    "_name": "Narrow Minds",
+    "url": "https://static.krcg.org/card/narrowminds.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Inconnu. Do not replace until your next unlock phase.\nMinion cards that change the target of a bleed action cost +1 blood or life.",
+    "_set": "LotN:R, EoG:1",
+    "sets": {
+      "Lords of the Night": [
+        {
+          "release_date": "2007-09-26",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Lords of the Night": "https://static.krcg.org/card/set/lords-of-the-night/narrowminds.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/narrowminds.jpg"
+    },
+    "artists": [
+      "John Bridges"
+    ],
+    "ordered_sets": [
+      "Lords of the Night",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2007-09-26",
+    "rulings": [
+      {
+        "text": "Is replaced before unlocking cards: other unlock effects cannot be ordered before. [ANK 20200129] [LSJ 20091208] [RTR 19951017]",
+        "references": [
+          {
+            "text": "[ANK 20200129]",
+            "label": "ANK 20200129",
+            "url": "https://www.vekn.net/forum/rules-questions/78701-replace-during-unlock-and-other-unlock-effects#100210"
+          },
+          {
+            "text": "[LSJ 20091208]",
+            "label": "LSJ 20091208",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ptHbJM9MlVI/m/O61W2JkI_rIJ"
+          },
+          {
+            "text": "[RTR 19951017]",
+            "label": "RTR 19951017",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ouhNUbHYg50/m/rco157ZHyqEJ"
+          }
+        ],
+        "group": "Replace next turn"
+      }
+    ],
+    "name": "Narrow Minds",
+    "printed_name": "Narrow Minds"
+  },
+  {
+    "id": 101285,
+    "_name": "Nightmares upon Nightmares",
+    "url": "https://static.krcg.org/card/nightmaresuponnightmares.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace until your next discard phase.\nDuring each Methuselah's unlock phase, for each minion they control, they lock that minion unless they discard a card; cards discarded this way are not replaced until the master phase. Mortal allies and vampires with capacity greater than the number of Gehenna events in play ignore this effect.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/nightmaresuponnightmares.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/nightmaresuponnightmares.jpg"
+    },
+    "artists": [
+      "Mark Nelson"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "You can handle the effect by locking an already locked minion, then use his Infernal trait to unlock them. [ANK 20210322-2]",
+        "references": [
+          {
+            "text": "[ANK 20210322-2]",
+            "label": "ANK 20210322-2",
+            "url": "https://www.vekn.net/forum/rules-questions/79080-nightmares-upon-nightmares?start=6#101910"
+          }
+        ]
+      },
+      {
+        "text": "Mortal allies are not affected, and vampires with capacity above the number of Gehenna cards in play are not affected. [LSJ 20040415]",
+        "references": [
+          {
+            "text": "[LSJ 20040415]",
+            "label": "LSJ 20040415",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/XTya9MiAiqc/m/4cejLmkUwEMJ"
+          }
+        ]
+      },
+      {
+        "text": "The effect only triggers once each unlock phase. Any minions put into play after the effect is resolved are unaffected until their Methuselah's next unlock phase. [REVERSAL] [ANK 20250121]",
+        "references": [
+          {
+            "text": "[ANK 20250121]",
+            "label": "ANK 20250121",
+            "url": "https://www.vekn.net/forum/rules-questions/79080-nightmares-upon-nightmares?start=6#113567"
+          }
+        ]
+      }
+    ],
+    "name": "Nightmares upon Nightmares",
+    "printed_name": "Nightmares upon Nightmares"
+  },
+  {
+    "id": 101305,
+    "_name": "NRA PAC",
+    "url": "https://static.krcg.org/card/nrapac.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Government.\nAny minion who successfully performs an equip action unlocks at the end of the turn.",
+    "_set": "Third:R, KoT:R",
+    "sets": {
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "rarity": "Rare"
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/nrapac.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/nrapac.jpg"
+    },
+    "artists": [
+      "Eric Lofgren"
+    ],
+    "ordered_sets": [
+      "Third Edition",
+      "Keepers of Tradition"
+    ],
+    "legality": "2006-09-04",
+    "rulings": [
+      {
+        "text": "Does not affect equip actions performed prior to its arrival in play. [LSJ 20061218]",
+        "references": [
+          {
+            "text": "[LSJ 20061218]",
+            "label": "LSJ 20061218",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/DTBI6LkPdZ4/m/Qtu3QUPERdIJ"
+          }
+        ]
+      },
+      {
+        "text": "The minions who performed an equip action when it was in play unlock at the end of turn regardless of whether NRA PAC is still in play or not. [LSJ 20080619]",
+        "references": [
+          {
+            "text": "[LSJ 20080619]",
+            "label": "LSJ 20080619",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/-JNytF94ST8/m/jOxRkvh8RGwJ"
+          }
+        ]
+      }
+    ],
+    "name": "NRA PAC",
+    "printed_name": "NRA PAC"
+  },
+  {
+    "id": 101306,
+    "_name": "NSA Trio",
+    "url": "https://static.krcg.org/card/nsatrio.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Government.\nDuring the first combat between an acting vampire and a blocking vampire each turn, neither combatant may end combat as a strike in the first round. A Methuselah may use a discard phase action to burn this card if his or her minions attempted no actions in the current turn.",
+    "_set": "KMW:R",
+    "sets": {
+      "Kindred Most Wanted": [
+        {
+          "release_date": "2005-02-21",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Kindred Most Wanted": "https://static.krcg.org/card/set/kindred-most-wanted/nsatrio.jpg"
+    },
+    "artists": [
+      "Avery Butterworth"
+    ],
+    "ordered_sets": [
+      "Kindred Most Wanted"
+    ],
+    "legality": "2005-02-21",
+    "rulings": [
+      {
+        "text": "Only applies once each turn for the first eligible combat. [LSJ 20050215]",
+        "references": [
+          {
+            "text": "[LSJ 20050215]",
+            "label": "LSJ 20050215",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/nxlYFsU10Uo/m/Teu243qv5JgJ"
+          }
+        ]
+      }
+    ],
+    "name": "NSA Trio",
+    "printed_name": "NSA Trio"
+  },
+  {
+    "id": 101420,
+    "_name": "Port Authority",
+    "url": "https://static.krcg.org/card/portauthority.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Government.\nWhen a Methuselah uses a discard phase action to discard a card, he or she doesn't draw to replace that card until his or her next unlock phase.",
+    "_set": "Promo-20041015",
+    "sets": {
+      "Fall 2004 Storyline promo": [
+        {
+          "release_date": "2004-10-15",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Fall 2004 Storyline promo": "https://static.krcg.org/card/set/promo/portauthority.jpg"
+    },
+    "artists": [
+      "John Bridges"
+    ],
+    "ordered_sets": [
+      "Fall 2004 Storyline promo"
+    ],
+    "legality": "2004-10-15",
+    "rulings": [
+      {
+        "text": "The cards are replaced before unlocking cards: other unlock effects cannot be ordered before. [ANK 20200129] [LSJ 20091208]",
+        "references": [
+          {
+            "text": "[ANK 20200129]",
+            "label": "ANK 20200129",
+            "url": "https://www.vekn.net/forum/rules-questions/78701-replace-during-unlock-and-other-unlock-effects#100210"
+          },
+          {
+            "text": "[LSJ 20091208]",
+            "label": "LSJ 20091208",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ptHbJM9MlVI/m/O61W2JkI_rIJ"
+          }
+        ]
+      }
+    ],
+    "name": "Port Authority",
+    "printed_name": "Port Authority"
+  },
+  {
+    "id": 101566,
+    "_name": "Recalled to the Founder",
+    "url": "https://static.krcg.org/card/recalledtothefounder.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 2 or more other Gehenna events in play. Do not replace as long as this card is in play.\nDuring each Methuselah's unlock phase, if that Methuselah controls 3 or more vampires of the same clan, they burn one of those vampires. If that vampire's capacity is 6 or more, that Methuselah ignores this effect until the end of the game.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/recalledtothefounder.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/recalledtothefounder.jpg"
+    },
+    "artists": [
+      "Leif Jones"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "Recalled to the Founder",
+    "printed_name": "Recalled to the Founder"
+  },
+  {
+    "id": 101614,
+    "_name": "Restricted Vitae",
+    "url": "https://static.krcg.org/card/restrictedvitae.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace until a vampire successfully hunts.\nVampires cannot hunt unless they must hunt. Vampires who must hunt can steal 1 blood from a younger vampire as a Ⓓ hunt action.",
+    "_set": "Gehenna:R, KMW:PAn, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Kindred Most Wanted": [
+        {
+          "release_date": "2005-02-21",
+          "precon": "Anathema",
+          "copies": 1
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/restrictedvitae.jpg",
+      "Kindred Most Wanted": "https://static.krcg.org/card/set/kindred-most-wanted/restrictedvitae.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/restrictedvitae.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Kindred Most Wanted",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      },
+      {
+        "text": "A minion can only perform this special hunt once per turn. [RBK action-card-or-card-in-play]",
+        "references": [
+          {
+            "text": "[RBK action-card-or-card-in-play]",
+            "label": "RBK action-card-or-card-in-play",
+            "url": "https://www.vekn.net/rulebook#action-card-or-card-in-play"
+          }
+        ],
+        "group": "Special Hunt action"
+      },
+      {
+        "text": "This special hunt cannot steal more blood than the target has. It can target a vampire with no blood. If no blood is stolen, the hunt is unsuccessful, even if the action stays successful. [LSJ 20050720-2] [RTR 20010711] [LSJ 20100915]",
+        "references": [
+          {
+            "text": "[LSJ 20050720-2]",
+            "label": "LSJ 20050720-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/1vbIkgvKDJ0/m/3ErIIMXFgPIJ"
+          },
+          {
+            "text": "[RTR 20010711]",
+            "label": "RTR 20010711",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/GsI1UyH54jU/m/x9LfDZX1vR4J"
+          },
+          {
+            "text": "[LSJ 20100915]",
+            "label": "LSJ 20100915",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/lFLocuKV8NI/m/TcAPvYUfrWcJ"
+          }
+        ],
+        "group": "Steal blood as a Hunt action"
+      },
+      {
+        "text": "The blood stolen by this special hunt goes to the blood bank if it cannot be gained by the vampire. [LSJ 20010809-1]",
+        "references": [
+          {
+            "text": "[LSJ 20010809-1]",
+            "label": "LSJ 20010809-1",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/LB6Zg4bEggc/m/g5eYOHiKrvUJ"
+          }
+        ],
+        "group": "Steal blood as a Hunt action"
+      },
+      {
+        "text": "This special hunt must be directed at a vampire, even if none has any blood. It cannot be performed if there are no other vampires. [LSJ 19970224]",
+        "references": [
+          {
+            "text": "[LSJ 19970224]",
+            "label": "LSJ 19970224",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/80KRDjVFkyg/m/TBJso9Ra_9QJ"
+          }
+        ],
+        "group": "Steal blood as a Hunt action"
+      },
+      {
+        "text": "Is affected by Hunt value. All blood that is gained from the Hunt is taken from the target minion. ({Festivo dello Estinto} is not blood gained from the hunt) [RTR 20180511] [RTR 20030519]",
+        "references": [
+          {
+            "text": "[RTR 20180511]",
+            "label": "RTR 20180511",
+            "url": "https://www.vekn.net/forum/rules-questions/76595-rules-team-rulings-rtr-11-05-2018#86780"
+          },
+          {
+            "text": "[RTR 20030519]",
+            "label": "RTR 20030519",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/NOBWXWrd-vA/m/iEOpQp1uhvAJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Festivo dello Estinto}",
+            "id": 100723,
+            "name": "Festivo dello Estinto",
+            "usual_name": "Festivo dello Estinto",
+            "vekn_name": "Festivo dello Estinto"
+          }
+        ],
+        "group": "Steal blood as a Hunt action"
+      }
+    ],
+    "name": "Restricted Vitae",
+    "printed_name": "Restricted Vitae"
+  },
+  {
+    "id": 101639,
+    "_name": "Rise of the Nephtali",
+    "url": "https://static.krcg.org/card/riseofthenephtali.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 1 or more other Gehenna events in play. Do not replace until a vampire becomes a liaison.\nIndependent vampires can receive the unique Independent title of Liaison (worth 4 votes) as an action. If this title would be contested with a younger vampire, the younger vampire immediately yields instead of contesting.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/riseofthenephtali.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/riseofthenephtali.jpg"
+    },
+    "artists": [
+      "Steve Ellis"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "The title stays in play when the event is removed (eg {The Uncoiling}) but can't be claimed any more with the action. [LSJ 20070125]",
+        "references": [
+          {
+            "text": "[LSJ 20070125]",
+            "label": "LSJ 20070125",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Q1hDq7fj0_Q/m/9nDah3fpJ1gJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{The Uncoiling}",
+            "id": 102057,
+            "name": "The Uncoiling",
+            "usual_name": "The Uncoiling",
+            "vekn_name": "Uncoiling, The"
+          }
+        ]
+      },
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      },
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "Rise of the Nephtali",
+    "printed_name": "Rise of the Nephtali"
+  },
+  {
+    "id": 101697,
+    "_name": "Scourge of the Enochians",
+    "url": "https://static.krcg.org/card/scourgeoftheenochians.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "During your discard phase, you can burn a vampire with capacity 2 or less, and your predator takes control of this card (even if you do not burn a vampire).",
+    "_set": "KoT:R/B1",
+    "sets": {
+      "Keepers of Tradition Reprint": [
+        {
+          "release_date": "2018-05-05",
+          "precon": "Bundle 2",
+          "copies": 1
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Keepers of Tradition Reprint": "https://static.krcg.org/card/set/keepers-of-tradition-reprint/scourgeoftheenochians.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/scourgeoftheenochians.jpg"
+    },
+    "artists": [
+      "Jeremy McHugh"
+    ],
+    "ordered_sets": [
+      "Keepers of Tradition",
+      "Keepers of Tradition Reprint"
+    ],
+    "legality": "2008-11-19",
+    "rulings": [
+      {
+        "text": "If the option to burn a vampire is used, the card goes to the predator immediately, even if there is still a mandatory effect to resolve. If not, the predator must take the card when he has the opportunity to play an effect, after the acting Methuselah applied other mandatory effects (eg. losing blood to {Dragonbound}). [ANK 20200508-1]",
+        "references": [
+          {
+            "text": "[ANK 20200508-1]",
+            "label": "ANK 20200508-1",
+            "url": "https://www.vekn.net/forum/rules-questions/78622-scourge-of-the-enochians-timing?start=12#99786"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Dragonbound}",
+            "id": 100581,
+            "name": "Dragonbound",
+            "usual_name": "Dragonbound",
+            "vekn_name": "Dragonbound"
+          }
+        ]
+      }
+    ],
+    "name": "Scourge of the Enochians",
+    "printed_name": "Scourge of the Enochians"
+  },
+  {
+    "id": 100163,
+    "_name": "Bitter and Sweet Story, The",
+    "url": "https://static.krcg.org/card/bitterandsweetstorythe.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Event.\nEach Methuselah gets +2 hand size for each victory point he or she has.",
+    "_set": "EK:R",
+    "sets": {
+      "Ebony Kingdom": [
+        {
+          "release_date": "2009-05-27",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Ebony Kingdom": "https://static.krcg.org/card/set/ebony-kingdom/bitterandsweetstorythe.jpg"
+    },
+    "artists": [
+      "Mathias Kollros"
+    ],
+    "flavor_text": "Keep a little and let a little come back to me.",
+    "ordered_sets": [
+      "Ebony Kingdom"
+    ],
+    "legality": "2009-05-27",
+    "name_variants": [
+      "Bitter and Sweet Story, The",
+      "Bitter and Sweet Story"
+    ],
+    "rulings": [
+      {
+        "text": "When the controller is ousted, their predator does not draw cards. [ANK 20230527-2]",
+        "references": [
+          {
+            "text": "[ANK 20230527-2]",
+            "label": "ANK 20230527-2",
+            "url": "https://www.vekn.net/forum/rules-questions/80554-the-bitter-and-sweet-story#108180"
+          }
+        ]
+      }
+    ],
+    "name": "The Bitter and Sweet Story",
+    "printed_name": "The Bitter and Sweet Story"
+  },
+  {
+    "id": 100781,
+    "_name": "Fourth Cycle, The",
+    "url": "https://static.krcg.org/card/fourthcyclethe.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Requires 2 or more Gehenna events in play.\nAfter this card enters play, burn all Gehenna events and conviction cards, then send all vampires with capacity 3 or less to torpor. Gehenna events cannot be played.",
+    "_set": "Promo-20090401, EoG:1",
+    "sets": {
+      "2009 Tournament / Storyline promo": [
+        {
+          "release_date": "2009-04-01",
+          "copies": 1
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "2009 Tournament / Storyline promo": "https://static.krcg.org/card/set/promo/fourthcyclethe.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/fourthcyclethe.jpg"
+    },
+    "artists": [
+      "Jeremy McHugh"
+    ],
+    "ordered_sets": [
+      "2009 Tournament / Storyline promo",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2009-04-01",
+    "name_variants": [
+      "Fourth Cycle, The",
+      "Fourth Cycle"
+    ],
+    "name": "The Fourth Cycle",
+    "printed_name": "The Fourth Cycle"
+  },
+  {
+    "id": 101279,
+    "_name": "New Inquisition, The",
+    "url": "https://static.krcg.org/card/newinquisitionthe.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 1 or more other Gehenna events in play. Do not replace until a titled vampire goes to torpor.\nDuring each Methuselah's unlock phase, that Methuselah can choose a ready vampire controlled by their prey. The chosen vampire takes 1 unpreventable environmental damage. Titled vampires can call a referendum to burn this card as a +1 stealth political action.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/newinquisitionthe.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/newinquisitionthe.jpg"
+    },
+    "artists": [
+      "Steve Ellis"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "name_variants": [
+      "New Inquisition, The",
+      "New Inquisition"
+    ],
+    "rulings": [
+      {
+        "text": "When a vampire goes to torpor, the card is replaced before any other effect (eg. before losing pool to {Fame}). [LSJ 20100527]",
+        "references": [
+          {
+            "text": "[LSJ 20100527]",
+            "label": "LSJ 20100527",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Tr3X4DsZr-8/m/O06iXN6LtzsJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Fame}",
+            "id": 100698,
+            "name": "Fame",
+            "usual_name": "Fame",
+            "vekn_name": "Fame"
+          }
+        ]
+      },
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      },
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      },
+      {
+        "text": "The action provided by this card is considered to be an action requiring the listed clan/sect/capacity/title (e.g. the action provided by {Open War} is considered an action that requires an Anarch, the action provided by {The Gate of Acheron} is considered an action that requires Hecata). [LSJ 20080604]",
+        "references": [
+          {
+            "text": "[LSJ 20080604]",
+            "label": "LSJ 20080604",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/9usl4idp-pY/m/NMUFLXR3LZEJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Open War}",
+            "id": 101324,
+            "name": "Open War",
+            "usual_name": "Open War",
+            "vekn_name": "Open War"
+          },
+          {
+            "text": "{The Gate of Acheron}",
+            "id": 102290,
+            "name": "The Gate of Acheron",
+            "usual_name": "The Gate of Acheron",
+            "vekn_name": "Gate of Acheron, The"
+          }
+        ],
+        "group": "Action requirements from a card in play"
+      }
+    ],
+    "name": "The New Inquisition",
+    "printed_name": "The New Inquisition"
+  },
+  {
+    "id": 101640,
+    "_name": "Rising, The",
+    "url": "https://static.krcg.org/card/risingthe.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires at least 2 other Gehenna events in play. Do not replace until your prey is ousted.\nA Methuselah cannot gain pool during their own turn unless they have the Edge or at least 1 victory point (instead, any pool they would gain goes to the blood bank).",
+    "_set": "HttB:R/A1",
+    "sets": {
+      "Heirs to the Blood Reprint": [
+        {
+          "release_date": "2018-07-14",
+          "precon": "Bundle 1",
+          "copies": 1
+        }
+      ],
+      "Heirs to the Blood": [
+        {
+          "release_date": "2010-02-03",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Heirs to the Blood Reprint": "https://static.krcg.org/card/set/heirs-to-the-blood-reprint/risingthe.jpg",
+      "Heirs to the Blood": "https://static.krcg.org/card/set/heirs-to-the-blood/risingthe.jpg"
+    },
+    "artists": [
+      "Samuel Araya"
+    ],
+    "ordered_sets": [
+      "Heirs to the Blood",
+      "Heirs to the Blood Reprint"
+    ],
+    "legality": "2010-02-03",
+    "name_variants": [
+      "Rising, The"
+    ],
+    "rulings": [
+      {
+        "text": "Anything that would increase the pool amount is considered \"gaining pool\". [ANK 20181105]",
+        "references": [
+          {
+            "text": "[ANK 20181105]",
+            "label": "ANK 20181105",
+            "url": "https://www.vekn.net/forum/rules-questions/77140-the-rising-and-gain-pool#91674"
+          }
+        ]
+      },
+      {
+        "text": "Methuselahs do not gain the pool granted by a bleed action (eg. {Kindred Spirits}) if they do not have the edge or a VP beforehand. [LSJ 20100206-2]",
+        "references": [
+          {
+            "text": "[LSJ 20100206-2]",
+            "label": "LSJ 20100206-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/reXyybyIYX8/m/jeCyjdiZ5T4J"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Kindred Spirits}",
+            "id": 101055,
+            "name": "Kindred Spirits",
+            "usual_name": "Kindred Spirits",
+            "vekn_name": "Kindred Spirits"
+          }
+        ]
+      },
+      {
+        "text": "Methuselahs gain the pool granted by an effect after a successful bleed action (eg. {The unnamed}), since they get the edge before the effect kicks in. [LSJ 20100210-2]",
+        "references": [
+          {
+            "text": "[LSJ 20100210-2]",
+            "label": "LSJ 20100210-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/wt2kuUJXoRI/m/XbHSJHMfk08J"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{The unnamed}",
+            "id": 201411,
+            "name": "The unnamed (G6)",
+            "usual_name": "The unnamed",
+            "vekn_name": "unnamed, The"
+          }
+        ]
+      },
+      {
+        "text": "When ousting their prey, Methuselahs decide if they gain the VP before or after gaining the pool. [LSJ 20100208]",
+        "references": [
+          {
+            "text": "[LSJ 20100208]",
+            "label": "LSJ 20100208",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/wt2kuUJXoRI/m/CyHXMb-Cn_0J"
+          }
+        ]
+      },
+      {
+        "text": "{Off Kilter}'s additional pool cannot be gained if you do not have a VP (edge is burned before pool is gained). [LSJ 20100207]",
+        "references": [
+          {
+            "text": "[LSJ 20100207]",
+            "label": "LSJ 20100207",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/wt2kuUJXoRI/m/LVO2J4dRxoIJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Off Kilter}",
+            "id": 101316,
+            "name": "Off Kilter",
+            "usual_name": "Off Kilter",
+            "vekn_name": "Off Kilter"
+          }
+        ]
+      },
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      }
+    ],
+    "text_change": true,
+    "name": "The Rising",
+    "printed_name": "The Rising"
+  },
+  {
+    "id": 101807,
+    "_name": "Slow Withering, The",
+    "url": "https://static.krcg.org/card/slowwitheringthe.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 1 or more other Gehenna events in play. Do not replace until a vampire commits diablerie.\nCards requiring 1 or more Disciplines at the superior level cost +1 blood. Vampires who commit diablerie ignore this effect until a Gehenna event is played.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/slowwitheringthe.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/slowwitheringthe.jpg"
+    },
+    "artists": [
+      "Andrew Trabbold"
+    ],
+    "flavor_text": "It's only a question of time before the withering hits me, and hard.\nBeckett, Gangrel",
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "name_variants": [
+      "Slow Withering, The",
+      "Slow Withering"
+    ],
+    "rulings": [
+      {
+        "text": "The additional cost is paid at the same time the normal cost is paid. [ANK 20190625]",
+        "references": [
+          {
+            "text": "[ANK 20190625]",
+            "label": "ANK 20190625",
+            "url": "https://www.vekn.net/forum/rules-questions/77741-slow-witheringand-paying-superior-action-card#95611"
+          }
+        ]
+      },
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      },
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "The Slow Withering",
+    "printed_name": "The Slow Withering"
+  },
+  {
+    "id": 102057,
+    "_name": "Uncoiling, The",
+    "url": "https://static.krcg.org/card/uncoilingthe.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Do not replace as long as this card is in play.\nDuring your discard phase, burn another event at random. Other Methuselahs can use a discard phase action and burn X pool to burn this card, where X is the number of other events in play.",
+    "_set": "SoC:R, EoG:1",
+    "sets": {
+      "Sword of Caine": [
+        {
+          "release_date": "2007-03-19",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Sword of Caine": "https://static.krcg.org/card/set/sword-of-caine/uncoilingthe.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/uncoilingthe.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "ordered_sets": [
+      "Sword of Caine",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2007-03-19",
+    "name_variants": [
+      "Uncoiling, The",
+      "Uncoiling"
+    ],
+    "name": "The Uncoiling",
+    "printed_name": "The Uncoiling"
+  },
+  {
+    "_i18n": {
+      "fr": {
+        "name": "Le masque tombe",
+        "url": "https://static.krcg.org/card/fr/unmaskingthe.jpg",
+        "card_text": "Géhenne. À ne pas remplacer jusqu'à votre prochaine phase de défausse.\nLes alliés reçoivent +1 en interception contre les vampires.",
+        "sets": {
+          "Sabbat Preconstructed": "Préconstruits Sabbat"
+        },
+        "flavor_text": "Ceux qui sont pris de panique ont la fâcheuse habitude de ne pas respecter nos traditions de la Mascarade.\nHardestadt, Ventrue"
+      },
+      "es": {
+        "name": "Desenmascaramiento, El",
+        "url": "https://static.krcg.org/card/es/unmaskingthe.jpg",
+        "card_text": "Gehenna. No la reemplaces hasta tu siguiente fase de descarte.\nLos aliados obtienen +1 de intercepción contra vampiros.",
+        "sets": {
+          "Sabbat Preconstructed": "Preconstruidos Sabbat"
+        },
+        "flavor_text": "Los que son presas del pánico tienen el desafortunado hábito de olvidar nuestras tradiciones de Mascarada",
+        "name_variants": [
+          "Desenmascaramiento"
+        ]
+      }
+    },
+    "id": 102079,
+    "_name": "Unmasking, The",
+    "url": "https://static.krcg.org/card/unmaskingthe.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace until your next discard phase.\nAllies get +1 intercept against vampires.",
+    "_set": "Gehenna:R, KoT:R, Anthology:1, SP:PwN1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ],
+      "Anthology": [
+        {
+          "release_date": "2017-05-11",
+          "copies": 1
+        }
+      ],
+      "Sabbat Preconstructed": [
+        {
+          "release_date": "2019-02-16",
+          "precon": "Pact with Nephandi",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/unmaskingthe.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/unmaskingthe.jpg",
+      "Anthology": "https://static.krcg.org/card/set/anthology/unmaskingthe.jpg",
+      "Sabbat Preconstructed": "https://static.krcg.org/card/set/sabbat-preconstructed/unmaskingthe.jpg"
+    },
+    "artists": [
+      "Steve Ellis",
+      "Javier Santos"
+    ],
+    "flavor_text": "Those in the grip of panic have an unfortunate habit of disregarding our traditions of Masquerade.\nHardestadt, Ventrue",
+    "ordered_sets": [
+      "Gehenna",
+      "Keepers of Tradition",
+      "Anthology",
+      "Sabbat Preconstructed"
+    ],
+    "legality": "2004-05-17",
+    "name_variants": [
+      "Unmasking, The",
+      "Unmasking"
+    ],
+    "name": "The Unmasking",
+    "printed_name": "The Unmasking"
+  },
+  {
+    "id": 101974,
+    "_name": "Thirst",
+    "url": "https://static.krcg.org/card/thirst.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna.\nAfter each Methuselah's minion phase ends, each ready vampire controlled by that Methuselah with capacity less than the number of Gehenna events in play who did not hunt during that minion phase burns 1 blood.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/thirst.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/thirst.jpg"
+    },
+    "artists": [
+      "Randy Asplund"
+    ],
+    "flavor_text": "Night after night. Rising, hunting, killing, feeding. Nothing more than ambulatory corpses without the good sense to lie down and be still.\nFelton, Tremere",
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "The hunt need not be successful for a vampire to avoid the effect. [LSJ 20050727]",
+        "references": [
+          {
+            "text": "[LSJ 20050727]",
+            "label": "LSJ 20050727",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/QfVIg4fJP38/m/wMJU5oik9G8J"
+          }
+        ]
+      }
+    ],
+    "name": "Thirst",
+    "printed_name": "Thirst"
+  },
+  {
+    "id": 101994,
+    "_name": "Torpid Blood",
+    "url": "https://static.krcg.org/card/torpidblood.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace until a vampire moves from torpor to the ready region.\nActions performed by vampires in torpor cost +1 blood. Rescuing an older vampire from torpor costs +1 blood.",
+    "_set": "Gehenna:R, KoT:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/torpidblood.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/torpidblood.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/torpidblood.jpg"
+    },
+    "artists": [
+      "matrix von z"
+    ],
+    "flavor_text": "There is no after for us, and yet there is an after if kine survive.\nAnonymous Malkavian, \"Das Buch vom Grabkrieg\"",
+    "ordered_sets": [
+      "Gehenna",
+      "Keepers of Tradition",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Is not replaced until the condition is met, even if it is burned. [LSJ 20080805]",
+        "references": [
+          {
+            "text": "[LSJ 20080805]",
+            "label": "LSJ 20080805",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SIbzFAwWDKs/m/BDkEg19txtoJ"
+          }
+        ],
+        "group": "Permanent not replaced"
+      }
+    ],
+    "name": "Torpid Blood",
+    "printed_name": "Torpid Blood"
+  },
+  {
+    "id": 102085,
+    "_name": "Urban Jungle",
+    "url": "https://static.krcg.org/card/urbanjungle.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Inconnu.\nBlood hunt referendums get an additional 2 votes against the referendum.",
+    "_set": "LotN:R",
+    "sets": {
+      "Lords of the Night": [
+        {
+          "release_date": "2007-09-26",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Lords of the Night": "https://static.krcg.org/card/set/lords-of-the-night/urbanjungle.jpg"
+    },
+    "artists": [
+      "John Bridges"
+    ],
+    "flavor_text": "If you want it you're gonna bleed\nBut it's the price you pay.\nGuns N' Roses, \"Welcome to the Jungle\"",
+    "ordered_sets": [
+      "Lords of the Night"
+    ],
+    "legality": "2007-09-26",
+    "name": "Urban Jungle",
+    "printed_name": "Urban Jungle"
+  },
+  {
+    "id": 102095,
+    "_name": "Veil of Darkness",
+    "url": "https://static.krcg.org/card/veilofdarkness.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Do not replace as long as this card is in play.\nEach turn, when a vampire plays his or her first card that turn that requires any Disciplines, that vampire's controller reveals the top card of his or her library (before drawing to replace). If it is a master card, the original card has no effect (no cost is paid), and in addition, if the original card required Obtenebration [obt], the vampire burns 2 blood.",
+    "_set": "Gehenna:R",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/veilofdarkness.jpg"
+    },
+    "artists": [
+      "matrix von z"
+    ],
+    "ordered_sets": [
+      "Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "The card that has no effect still counts as played, if it was an action, the vampire is not locked and can perform another (or the same) action. [LSJ 20090323]",
+        "references": [
+          {
+            "text": "[LSJ 20090323]",
+            "label": "LSJ 20090323",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bG4PSmditm4/m/wR15DaRI8KUJ"
+          }
+        ]
+      },
+      {
+        "text": "Does not affect allies who play cards requiring a Discipline \"as a vampire\". [LSJ 20050606]",
+        "references": [
+          {
+            "text": "[LSJ 20050606]",
+            "label": "LSJ 20050606",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/IkZS3ikg7y8/m/TrHmf3-jPvEJ"
+          }
+        ]
+      },
+      {
+        "text": "The effect needs to be applied before anyone has an opportunity to play another cancellation effect (eg. {Direct Intervention}). [LSJ 20100728] [LSJ 20090213]",
+        "references": [
+          {
+            "text": "[LSJ 20100728]",
+            "label": "LSJ 20100728",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/mzzPS-cOprI/m/BRBR4OBUOaQJ"
+          },
+          {
+            "text": "[LSJ 20090213]",
+            "label": "LSJ 20090213",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/hkTPcLPgZk4/m/WPZLiL2A91sJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Direct Intervention}",
+            "id": 100545,
+            "name": "Direct Intervention",
+            "usual_name": "Direct Intervention",
+            "vekn_name": "Direct Intervention"
+          }
+        ]
+      }
+    ],
+    "name": "Veil of Darkness",
+    "printed_name": "Veil of Darkness"
+  },
+  {
+    "id": 102136,
+    "_name": "Waiting Game",
+    "url": "https://static.krcg.org/card/waitinggame.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Transient.\nPut this card in play with 10 counters. Whenever a non-Anarch vampire takes an action, burn a counter from this card. Burn this card when it has no counters. During your unlock phase, each anarch burns 1 blood or becomes Camarilla, and each ally burns 1 life.",
+    "_set": "KoT:R",
+    "sets": {
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/waitinggame.jpg"
+    },
+    "artists": [
+      "Peter Bergting"
+    ],
+    "ordered_sets": [
+      "Keepers of Tradition"
+    ],
+    "legality": "2008-11-19",
+    "rulings": [
+      {
+        "text": "If an action is cancelled after it has been played (e.g. {Tangle Atropos' Hand} but not {Direct Intervention}) it still counts as taken. [ANK 20210124]",
+        "references": [
+          {
+            "text": "[ANK 20210124]",
+            "label": "ANK 20210124",
+            "url": "https://www.vekn.net/forum/rules-questions/79001-the-question-of-the-month-action-fizzles#101492"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Tangle Atropos' Hand}",
+            "id": 101935,
+            "name": "Tangle Atropos' Hand",
+            "usual_name": "Tangle Atropos' Hand",
+            "vekn_name": "Tangle Atropos' Hand"
+          },
+          {
+            "text": "{Direct Intervention}",
+            "id": 100545,
+            "name": "Direct Intervention",
+            "usual_name": "Direct Intervention",
+            "vekn_name": "Direct Intervention"
+          }
+        ]
+      }
+    ],
+    "text_change": true,
+    "name": "Waiting Game",
+    "printed_name": "Waiting Game"
+  },
+  {
+    "id": 102178,
+    "_name": "White Nights Massacre",
+    "url": "https://static.krcg.org/card/whitenightsmassacre.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Transient.\nDuring your next discard phase, you must burn this card, and you may either burn a vampire in torpor or, by locking a ready werewolf ally you control or discarding a White Nights Massacre from your hand, burn all vampires in torpor.",
+    "_set": "KoT:R",
+    "sets": {
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/whitenightsmassacre.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "ordered_sets": [
+      "Keepers of Tradition"
+    ],
+    "legality": "2008-11-19",
+    "name": "White Nights Massacre",
+    "printed_name": "White Nights Massacre"
+  },
+  {
+    "id": 102194,
+    "_name": "Wormwood",
+    "url": "https://static.krcg.org/card/wormwood.jpg",
+    "types": [
+      "Event"
+    ],
+    "card_text": "Gehenna. Requires 1 or more other Gehenna events in play. Do not replace until your next discard phase.\nThis card comes into play with 10 counters. After another Gehenna event is played, burn 1 counter from this card. Vampires with capacity greater than X are considered vampires with capacity X (minimum of 1), where X is the number of counters on this card.",
+    "_set": "Gehenna:R, EoG:1",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Echoes of Gehenna": [
+        {
+          "release_date": "2023-06-30",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/wormwood.jpg",
+      "Echoes of Gehenna": "https://static.krcg.org/card/set/echoes-of-gehenna/wormwood.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "ordered_sets": [
+      "Gehenna",
+      "Echoes of Gehenna"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Ceils the vampire's capacity, including effects that have changed it, to X. {Orun} adds to that X, or the vampire's capacity if it is lower, for cards played by other players. [LSJ 20051205]",
+        "references": [
+          {
+            "text": "[LSJ 20051205]",
+            "label": "LSJ 20051205",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/K-RE-nTJ_Cg/m/Ao3LhiAPXk4J"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Orun}",
+            "id": 101331,
+            "name": "Orun",
+            "usual_name": "Orun",
+            "vekn_name": "Orun"
+          }
+        ]
+      },
+      {
+        "text": "When a vampire is influenced, the excess blood drains off before entering contest (if any) and before playing \"as played/as he enters play\" effects. [LSJ 20100902]",
+        "references": [
+          {
+            "text": "[LSJ 20100902]",
+            "label": "LSJ 20100902",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SM2_578Th0U/m/-GX0pSP_rCcJ"
+          }
+        ]
+      },
+      {
+        "text": "The \"other Gehenna cards in play\" requirement is only checked when playing the card. [PIB 20121031]",
+        "references": [
+          {
+            "text": "[PIB 20121031]",
+            "label": "PIB 20121031",
+            "url": "https://www.vekn.net/forum/rules-questions/39816-ec-2012-can-you-answer-these?start=18#39908"
+          }
+        ],
+        "group": "Require Gehenna"
+      }
+    ],
+    "name": "Wormwood",
+    "printed_name": "Wormwood"
+  }
+]

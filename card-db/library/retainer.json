@@ -1,0 +1,5069 @@
+[
+  {
+    "_i18n": {
+      "fr": {
+        "name": "Esclave de sang de la Camarilla",
+        "url": "https://static.krcg.org/card/fr/camarillavitaeslave.jpg",
+        "card_text": "Compagnon avec 1 point de vie.\nCe vampire reçoit +1 capacité. Durant sa phase de maître, il peut choisir une Discipline qu'il a au niveau inférieur et recevoir +1 niveau de la Discipline choisie jusqu'à sa prochaine phase de maître.",
+        "sets": {
+          "Twenty-Fifth Anniversary": "25ème anniversaire"
+        }
+      },
+      "es": {
+        "name": "Esclavo de Vitae de la Camarilla",
+        "url": "https://static.krcg.org/card/es/camarillavitaeslave.jpg",
+        "card_text": "Criado con 1 de vida.\nEl empleador obtiene +1 de capacidad. Durante su fase heril, puede elegir una Disciplina de nivel básico que posea y obtener el nivel superior de dicha Disciplina hasta su próxima fase heril.",
+        "sets": {
+          "Twenty-Fifth Anniversary": "25º Aniversario"
+        }
+      }
+    },
+    "id": 100286,
+    "_name": "Camarilla Vitae Slave",
+    "url": "https://static.krcg.org/card/camarillavitaeslave.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Lasombra"
+    ],
+    "capacity_change": "+1",
+    "card_text": "Retainer with 1 life.\nThis vampire gets +1 capacity. During their master phase, they can choose a Discipline they have at inferior and get +1 level of the chosen Discipline until their next master phase.",
+    "_set": "Sabbat:R, 25th:1, POD:DTC",
+    "sets": {
+      "Sabbat": [
+        {
+          "release_date": "1996-10-28",
+          "rarity": "Rare"
+        }
+      ],
+      "Twenty-Fifth Anniversary": [
+        {
+          "release_date": "2019-08-16",
+          "copies": 1
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Sabbat": "https://static.krcg.org/card/set/sabbat/camarillavitaeslave.jpg",
+      "Twenty-Fifth Anniversary": "https://static.krcg.org/card/set/twenty-fifth-anniversary/camarillavitaeslave.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/camarillavitaeslave.jpg"
+    },
+    "artists": [
+      "Zina Saunders",
+      "Carmen Cornet"
+    ],
+    "blood_cost": "2",
+    "ordered_sets": [
+      "Sabbat",
+      "Twenty-Fifth Anniversary"
+    ],
+    "legality": "1996-10-28",
+    "rulings": [
+      {
+        "text": "Is neither a Ghoul nor a mortal, it has no subtype. [ANK 20230308]",
+        "references": [
+          {
+            "text": "[ANK 20230308]",
+            "label": "ANK 20230308",
+            "url": "https://www.vekn.net/forum/rules-questions/80369-camarilla-vitae-slave-creature-type-putrescent-servitude#107576"
+          }
+        ]
+      },
+      {
+        "text": "The vampire keeps his chosen Discipline at superior until his controller's next unlock phase even if the retainer is burned or stolen. [LSJ 19970224]",
+        "references": [
+          {
+            "text": "[LSJ 19970224]",
+            "label": "LSJ 19970224",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/80KRDjVFkyg/m/TBJso9Ra_9QJ"
+          }
+        ]
+      }
+    ],
+    "name": "Camarilla Vitae Slave",
+    "printed_name": "Camarilla Vitae Slave"
+  },
+  {
+    "id": 100331,
+    "_name": "Charigger, The Axe",
+    "url": "https://static.krcg.org/card/chariggertheaxe.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Giovanni"
+    ],
+    "card_text": "Unique wraith with 1 life.\nThis Giovanni gets +1 stealth when hunting. If a minion controlled by your prey would be burned, instead remove that burning minion from the game and put 1 soul counter on Charigger. This Giovanni gets +1 bleed for each soul counter on Charigger.",
+    "_set": "LotN:R, POD:DTC",
+    "sets": {
+      "Lords of the Night": [
+        {
+          "release_date": "2007-09-26",
+          "rarity": "Rare"
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Lords of the Night": "https://static.krcg.org/card/set/lords-of-the-night/chariggertheaxe.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/chariggertheaxe.jpg"
+    },
+    "artists": [
+      "Alexander Dunnigan"
+    ],
+    "ordered_sets": [
+      "Lords of the Night"
+    ],
+    "legality": "2007-09-26",
+    "name_variants": [
+      "Charigger"
+    ],
+    "rulings": [
+      {
+        "text": "His replacement effect triggers before effects depending on the minion burning (eg. {Soul Gem of Etrius}), but other replacements effect can be played before (eg. {Heaven's Gate}), depending on sequencing. [LSJ 20071003-2] [ANK 20230816]",
+        "references": [
+          {
+            "text": "[LSJ 20071003-2]",
+            "label": "LSJ 20071003-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Tr9VQRVDbg0/m/EKNVTdvidvIJ"
+          },
+          {
+            "text": "[ANK 20230816]",
+            "label": "ANK 20230816",
+            "url": "https://www.vekn.net/forum/rules-questions/80772-heaven-s-gate-vs-charigger-the-axe#109057"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Soul Gem of Etrius}",
+            "id": 101832,
+            "name": "Soul Gem of Etrius",
+            "usual_name": "Soul Gem of Etrius",
+            "vekn_name": "Soul Gem of Etrius"
+          },
+          {
+            "text": "{Heaven's Gate}",
+            "id": 100907,
+            "name": "Heaven's Gate",
+            "usual_name": "Heaven's Gate",
+            "vekn_name": "Heaven's Gate"
+          }
+        ]
+      }
+    ],
+    "name": "Charigger, The Axe",
+    "printed_name": "Charigger, The Axe"
+  },
+  {
+    "_i18n": {
+      "fr": {
+        "name": "Charnas le diablotin",
+        "url": "https://static.krcg.org/card/fr/charnastheimp.jpg",
+        "card_text": "Démon unique avec 1 point de vie.\nMettez Charnas sur n'importe quel serviteur (ceci est une action Ⓓ à +1 en discrétion si le serviteur ciblé est contrôlé par un autre Mathusalem). Charnas inflige 1 point de dégâts à son employeur durant sa phase de redressement. Charnas est immunisé aux dégâts de son employeur. Si son employeur est sur le point d'être brûlé, son contrôleur peut mettre Charnas sur n'importe quel autre serviteur.",
+        "sets": {
+          "First Blood": "Premier Sang"
+        }
+      },
+      "es": {
+        "name": "Charnas, el Diablillo",
+        "url": "https://static.krcg.org/card/es/charnastheimp.jpg",
+        "card_text": "Demonio único con 1 de vida.\nPon a Charnas en cualquier siervo (ésta es una acción Ⓓ con +1 de sigilo si el siervo objetivo está controlado por otro Matusalén). Charnas inflige 1 de daño al empleador durante su fase de enderezamiento. Charnas es inmune al daño procedente del empleador. Si el empleador está a punto de ser quemado, su controlador puede poner a Charnas en cualquier siervo.",
+        "sets": {
+          "First Blood": "Primera Sangre"
+        },
+        "name_variants": [
+          "Charnas"
+        ]
+      }
+    },
+    "id": 100335,
+    "_name": "Charnas the Imp",
+    "url": "https://static.krcg.org/card/charnastheimp.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Tremere"
+    ],
+    "card_text": "Unique demon with 1 life.\nPut Charnas on a minion (this is a +1 stealth Ⓓ action if the target minion is controlled by another Methuselah). Charnas inflicts 1 damage on the employer during their unlock phase. Charnas is immune to damage from the employer. If the employer is about to be burned, their controller can put Charnas on another minion.",
+    "_set": "Jyhad:R, VTES:R, CE:R, KoT:R, FB:PTr1",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare"
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare"
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ],
+      "First Blood": [
+        {
+          "release_date": "2019-10-01",
+          "precon": "Tremere",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/charnastheimp.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/charnastheimp.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/charnastheimp.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/charnastheimp.jpg",
+      "First Blood": "https://static.krcg.org/card/set/first-blood/charnastheimp.jpg"
+    },
+    "artists": [
+      "Dave Roach",
+      "Pete Burges",
+      "Mark Nelson"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Camarilla Edition",
+      "Keepers of Tradition",
+      "First Blood"
+    ],
+    "legality": "1994-08-16",
+    "rulings": [
+      {
+        "text": "Cannot be damaged by host, but does not stop host from using effects which would normally damage it. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ]
+      },
+      {
+        "text": "Is not burned if the controller of the vampire it is on is ousted: it is removed from the game. [ANK 20180408]",
+        "references": [
+          {
+            "text": "[ANK 20180408]",
+            "label": "ANK 20180408",
+            "url": "https://www.vekn.net/forum/rules-questions/76500-charnas-the-imp#86191"
+          }
+        ]
+      },
+      {
+        "text": "Immune means damage is not inflicted, even if non-preventable or outside combat. [LSJ 20010627] [LSJ 20010629] [LSJ 20090304-1]",
+        "references": [
+          {
+            "text": "[LSJ 20010627]",
+            "label": "LSJ 20010627",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/NhNCVCCDyU0/m/I5Yph3-UUPsJ"
+          },
+          {
+            "text": "[LSJ 20010629]",
+            "label": "LSJ 20010629",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/MhHKBY7II78/m/EyI_ise9M-kJ"
+          },
+          {
+            "text": "[LSJ 20090304-1]",
+            "label": "LSJ 20090304-1",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/B7EQiAVOr1Q/m/gg-GkqQBRp8J"
+          }
+        ],
+        "group": "Immune to damage"
+      },
+      {
+        "text": "The option to place the card on another minion can only be used when playing the card normally; for any other action or put into play effect, the card is placed on the playing minion. [LSJ 20090824] [LSJ 20051121]",
+        "references": [
+          {
+            "text": "[LSJ 20090824]",
+            "label": "LSJ 20090824",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vWBysQ7L4fM/m/SA1wFRHusXAJ"
+          },
+          {
+            "text": "[LSJ 20051121]",
+            "label": "LSJ 20051121",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/51XITiJtdjo/m/A9jSHsxBX8QJ"
+          }
+        ],
+        "group": "Retainers and equipment put on different minion"
+      },
+      {
+        "text": "The type of the action (equip/employ) does not change regardless of the target. [ANK 20230408] [LSJ 20050313]",
+        "references": [
+          {
+            "text": "[ANK 20230408]",
+            "label": "ANK 20230408",
+            "url": "https://www.vekn.net/forum/rules-questions/80438-the-british-museum-london-bloodstone#107810"
+          },
+          {
+            "text": "[LSJ 20050313]",
+            "label": "LSJ 20050313",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/eSShNquHnXI/m/4H7zIau2DjoJ"
+          }
+        ],
+        "group": "Retainers and equipment put on different minion"
+      }
+    ],
+    "name": "Charnas the Imp",
+    "printed_name": "Charnas the Imp"
+  },
+  {
+    "id": 100338,
+    "_name": "Childling Muse",
+    "url": "https://static.krcg.org/card/childlingmuse.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Malkavian"
+    ],
+    "card_text": "Changeling with 1 life.\nThis Malkavian gets +1 bleed.",
+    "_set": "KoT:U/A1",
+    "sets": {
+      "Keepers of Tradition Reprint": [
+        {
+          "release_date": "2018-05-05",
+          "precon": "Bundle 1",
+          "copies": 1
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    "scans": {
+      "Keepers of Tradition Reprint": "https://static.krcg.org/card/set/keepers-of-tradition-reprint/childlingmuse.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/childlingmuse.jpg"
+    },
+    "artists": [
+      "Heather V. Kreiter"
+    ],
+    "pool_cost": "1",
+    "ordered_sets": [
+      "Keepers of Tradition",
+      "Keepers of Tradition Reprint"
+    ],
+    "legality": "2008-11-19",
+    "name": "Childling Muse",
+    "printed_name": "Childling Muse"
+  },
+  {
+    "id": 100427,
+    "_name": "Corpse Balloon",
+    "url": "https://static.krcg.org/card/corpseballoon.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "vic"
+    ],
+    "card_text": "Ghoul with 1 life.\n[vic] If the employer blocks a directed action, they get 1 optional maneuver during the first round of the resulting combat.\n[VIC] As above, and the employer gets +1 intercept during directed actions.",
+    "_set": "BH:C, POD:DTC",
+    "sets": {
+      "Black Hand": [
+        {
+          "release_date": "2003-11-17",
+          "rarity": "Common"
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Black Hand": "https://static.krcg.org/card/set/black-hand/corpseballoon.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/corpseballoon.jpg"
+    },
+    "artists": [
+      "Mark Nelson"
+    ],
+    "ordered_sets": [
+      "Black Hand"
+    ],
+    "legality": "2003-11-17",
+    "rulings": [
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Corpse Balloon",
+    "printed_name": "Corpse Balloon"
+  },
+  {
+    "id": 100428,
+    "_name": "Corpse Minion",
+    "url": "https://static.krcg.org/card/corpseminion.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Tremere"
+    ],
+    "card_text": "Ghoul with 1 life.\nVampire with this retainer may burn X blood to get +X intercept for the current action.",
+    "_set": "DS:C2, CE:PTr",
+    "sets": {
+      "Dark Sovereigns": [
+        {
+          "release_date": "1995-12-15",
+          "rarity": "Common",
+          "frequency": 2
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "precon": "Tremere",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Dark Sovereigns": "https://static.krcg.org/card/set/dark-sovereigns/corpseminion.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/corpseminion.jpg"
+    },
+    "artists": [
+      "Alan Rabinowitz"
+    ],
+    "pool_cost": "1",
+    "flavor_text": "You who all things spurn\nAnd wound, when death shall come,\nEven the wolves will scorn\nYour cadaver, starved and numb.\nPaul Verlaine, \"Grotesques\"",
+    "ordered_sets": [
+      "Dark Sovereigns",
+      "Camarilla Edition"
+    ],
+    "legality": "1995-12-15",
+    "rulings": [
+      {
+        "text": "May be used any number of times during a single action. [TOM 19960109]",
+        "references": [
+          {
+            "text": "[TOM 19960109]",
+            "label": "TOM 19960109",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/gB3xexVAV0s/m/zGnkjIMjyJsJ"
+          }
+        ]
+      },
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Corpse Minion",
+    "printed_name": "Corpse Minion"
+  },
+  {
+    "id": 100476,
+    "_name": "Crypt's Sons",
+    "url": "https://static.krcg.org/card/cryptssons.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Unique mortal with 3 life. Requires an Anarch.\nIf this Anarch is blocked, they can burn 1 life from this retainer before block resolution to lock the blocking minion and continue the action as if unblocked. This retainer inflicts 1R damage on the opposing minion each round of combat during normal strike resolution.",
+    "_set": "TR:R, NB3C:PT1",
+    "sets": {
+      "Twilight Rebellion": [
+        {
+          "release_date": "2008-05-28",
+          "rarity": "Rare"
+        }
+      ],
+      "New Blood III": [
+        {
+          "release_date": "2026-02-28",
+          "precon": "Tzimisce",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Twilight Rebellion": "https://static.krcg.org/card/set/twilight-rebellion/cryptssons.jpg",
+      "New Blood III": "https://static.krcg.org/card/set/new-blood-iii/cryptssons.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "pool_cost": "1",
+    "ordered_sets": [
+      "Twilight Rebellion",
+      "New Blood III"
+    ],
+    "legality": "2008-05-28",
+    "rulings": [
+      {
+        "text": "If used to cancel combat, the blocking minion is still locked. [LSJ 20080611] [ANK 20210131]",
+        "references": [
+          {
+            "text": "[LSJ 20080611]",
+            "label": "LSJ 20080611",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/gvb3uijtpZw/m/ZRX2hunjsRYJ"
+          },
+          {
+            "text": "[ANK 20210131]",
+            "label": "ANK 20210131",
+            "url": "https://www.vekn.net/forum/rules-questions/79008-crypt-s-sons-lock-and-obedience#101525"
+          }
+        ]
+      },
+      {
+        "text": "If used to cancel combat, reactions cards pertaining to that combat (eg. {Obedience}) cannot be used afterwards. [ANK 20210131]",
+        "references": [
+          {
+            "text": "[ANK 20210131]",
+            "label": "ANK 20210131",
+            "url": "https://www.vekn.net/forum/rules-questions/79008-crypt-s-sons-lock-and-obedience#101525"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Obedience}",
+            "id": 101309,
+            "name": "Obedience",
+            "usual_name": "Obedience",
+            "vekn_name": "Obedience"
+          }
+        ]
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      },
+      {
+        "text": "If the action continues \"as if unblocked\", all action modifiers and reaction cards are still in effect, even those pertaining to a successful block. [RTR 19941109] [ANK 20190116]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20190116]",
+            "label": "ANK 20190116",
+            "url": "https://www.vekn.net/forum/rules-questions/77302-strike-combat-ends-continue-with-the-action#92916"
+          }
+        ],
+        "group": "Action continue as if unblocked"
+      },
+      {
+        "text": "If the action continues \"as if unblocked\", any Methuselahs that have declined to block before do not get another opportunity to block. [ANK 20190116]",
+        "references": [
+          {
+            "text": "[ANK 20190116]",
+            "label": "ANK 20190116",
+            "url": "https://www.vekn.net/forum/rules-questions/77302-strike-combat-ends-continue-with-the-action#92916"
+          }
+        ],
+        "group": "Action continue as if unblocked"
+      },
+      {
+        "text": "For actions resulting from an action card, \"continue as if unblocked\" moves the action card from the ash heap (where it went when the action was blocked) to limbo (where it should be if the action is not blocked). If the action card is not in the ash heap, then the action cannot be continued. [LSJ 20070808-1]",
+        "references": [
+          {
+            "text": "[LSJ 20070808-1]",
+            "label": "LSJ 20070808-1",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/jzMOxZ9oxOs/m/o0X7GUFmii0J"
+          }
+        ],
+        "group": "Action continue as if unblocked"
+      }
+    ],
+    "name": "Crypt's Sons",
+    "printed_name": "Crypt's Sons"
+  },
+  {
+    "id": 100484,
+    "_name": "D'habi Revenant",
+    "url": "https://static.krcg.org/card/dhabirevenant.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Baali"
+    ],
+    "card_text": "Ghoul with 2 life.\nThis Baali gets +1 bleed.",
+    "_set": "BL:C1, KMW:PB, POD:DTC",
+    "sets": {
+      "Bloodlines": [
+        {
+          "release_date": "2001-12-03",
+          "rarity": "Common",
+          "frequency": 1
+        }
+      ],
+      "Kindred Most Wanted": [
+        {
+          "release_date": "2005-02-21",
+          "precon": "Baali",
+          "copies": 1
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Bloodlines": "https://static.krcg.org/card/set/bloodlines/dhabirevenant.jpg",
+      "Kindred Most Wanted": "https://static.krcg.org/card/set/kindred-most-wanted/dhabirevenant.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/dhabirevenant.jpg"
+    },
+    "artists": [
+      "Fred Hooper"
+    ],
+    "burn_option": true,
+    "flavor_text": "The ghouls are used as both researchers and subjects. They are also essential for certain rites that require something other than blood but cannot be left to the uninitiated.\nAzaneal, Baali",
+    "ordered_sets": [
+      "Bloodlines",
+      "Kindred Most Wanted"
+    ],
+    "legality": "2001-12-03",
+    "rulings": [
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "D'habi Revenant",
+    "printed_name": "D'habi Revenant"
+  },
+  {
+    "id": 100568,
+    "_name": "Dog Pack",
+    "url": "https://static.krcg.org/card/dogpack.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Gangrel"
+    ],
+    "card_text": "Animal with 1 life.\nMinions in combat with the employer cannot strike: combat ends.",
+    "_set": "AH:R2, Anarchs:PG, NB2:PG1",
+    "sets": {
+      "Ancient Hearts": [
+        {
+          "release_date": "1996-05-29",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Anarchs": [
+        {
+          "release_date": "2003-05-19",
+          "precon": "Gangrel",
+          "copies": 1
+        }
+      ],
+      "New Blood II": [
+        {
+          "release_date": "2022-08-01",
+          "precon": "Gangrel",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Ancient Hearts": "https://static.krcg.org/card/set/ancient-hearts/dogpack.jpg",
+      "Anarchs": "https://static.krcg.org/card/set/anarchs/dogpack.jpg",
+      "New Blood II": "https://static.krcg.org/card/set/new-blood-ii/dogpack.jpg"
+    },
+    "artists": [
+      "Randy Gallegos"
+    ],
+    "pool_cost": "2",
+    "ordered_sets": [
+      "Ancient Hearts",
+      "Anarchs",
+      "New Blood II"
+    ],
+    "legality": "1996-05-29",
+    "rulings": [
+      {
+        "text": "If put on a minion after an opponent as declared a \"strike: combat ends\" (eg. using {Pack Alpha} or {Summon Spirit Beast}), the opponent's strike has no effect. [ANK 20190412]",
+        "references": [
+          {
+            "text": "[ANK 20190412]",
+            "label": "ANK 20190412",
+            "url": "https://www.vekn.net/forum/rules-questions/77543-strike-restriction-and-dog-pack?start=6#94497"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Pack Alpha}",
+            "id": 101342,
+            "name": "Pack Alpha",
+            "usual_name": "Pack Alpha",
+            "vekn_name": "Pack Alpha"
+          },
+          {
+            "text": "{Summon Spirit Beast}",
+            "id": 101899,
+            "name": "Summon Spirit Beast",
+            "usual_name": "Summon Spirit Beast",
+            "vekn_name": "Summon Spirit Beast"
+          }
+        ]
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      }
+    ],
+    "name": "Dog Pack",
+    "printed_name": "Dog Pack"
+  },
+  {
+    "id": 102317,
+    "_name": "Dread Mastiff",
+    "url": "https://static.krcg.org/card/dreadmastiff.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "ani"
+    ],
+    "card_text": "Animal with 2 life.\n[ani] This retainer inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range.\n[ANI] As above, and the employer gets 1 optional press each combat.",
+    "_set": "SV5:PCaine2",
+    "sets": {
+      "Sabbat V5": [
+        {
+          "release_date": "2025-10-26",
+          "precon": "Path of Caine",
+          "copies": 2
+        }
+      ]
+    },
+    "scans": {
+      "Sabbat V5": "https://static.krcg.org/card/set/sabbat-v5/dreadmastiff.jpg"
+    },
+    "artists": [
+      "Krasen Maximov"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Sabbat V5"
+    ],
+    "legality": "2025-10-26",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      }
+    ],
+    "name": "Dread Mastiff",
+    "printed_name": "Dread Mastiff"
+  },
+  {
+    "id": 100593,
+    "_name": "Duma Rafiki",
+    "url": "https://static.krcg.org/card/dumarafiki.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Akunanse"
+    ],
+    "card_text": "Animal with 2 life.\nDuring strike resolution, if the range is close, this retainer burns a weapon controlled by the opposing minion or inflicts 1 damage on the opposing minion.",
+    "_set": "LoB:C",
+    "sets": {
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/dumarafiki.jpg"
+    },
+    "artists": [
+      "Leif Jones"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Legacies of Blood"
+    ],
+    "legality": "2005-11-14",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      }
+    ],
+    "name": "Duma Rafiki",
+    "printed_name": "Duma Rafiki"
+  },
+  {
+    "id": 100626,
+    "_name": "Elephant Guardian",
+    "url": "https://static.krcg.org/card/elephantguardian.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Animal with 3 life. Requires a ready Laibon.\nWhen this minion is in combat with an acting minion, the acting minion takes 2 damage during strike resolution each round if the range is close. A minion can have only one Elephant Guardian.",
+    "_set": "LoB:C/PG2",
+    "sets": {
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "rarity": "Common"
+        },
+        {
+          "release_date": "2005-11-14",
+          "precon": "Guruhi",
+          "copies": 2
+        }
+      ]
+    },
+    "scans": {
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/elephantguardian.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "blood_cost": "1",
+    "flavor_text": "The one who follows an elephant will have no problems.\nGhana proverb",
+    "ordered_sets": [
+      "Legacies of Blood"
+    ],
+    "legality": "2005-11-14",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      }
+    ],
+    "name": "Elephant Guardian",
+    "printed_name": "Elephant Guardian"
+  },
+  {
+    "id": 100692,
+    "_name": "Faithful Servant",
+    "url": "https://static.krcg.org/card/faithfulservant.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Mortal with 1 life.\nIf the vampire with this retainer is in torpor, he or she gains 1 blood at the beginning of his or her minion phase.",
+    "_set": "DS:C2",
+    "sets": {
+      "Dark Sovereigns": [
+        {
+          "release_date": "1995-12-15",
+          "rarity": "Common",
+          "frequency": 2
+        }
+      ]
+    },
+    "scans": {
+      "Dark Sovereigns": "https://static.krcg.org/card/set/dark-sovereigns/faithfulservant.jpg"
+    },
+    "artists": [
+      "Max Shade Fellwalker"
+    ],
+    "blood_cost": "2",
+    "flavor_text": "Like a child to her mother I have flown to you.\nSappho",
+    "ordered_sets": [
+      "Dark Sovereigns"
+    ],
+    "legality": "1995-12-15",
+    "name": "Faithful Servant",
+    "printed_name": "Faithful Servant"
+  },
+  {
+    "id": 102249,
+    "_name": "Feral Hound",
+    "url": "https://static.krcg.org/card/feralhound.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Ravnos"
+    ],
+    "disciplines": [
+      "ani"
+    ],
+    "card_text": "Animal with 1 life.\n[ani] If the action to employ this retainer is successful, unlock this vampire during the next discard phase. You can lock this retainer to give the employer +1 intercept.\n[ANI] As above, but unlock this vampire after resolution of this action instead.",
+    "_set": "V5C:PR4",
+    "sets": {
+      "Fifth Edition (Companion)": [
+        {
+          "release_date": "2024-01-01",
+          "precon": "Ravnos",
+          "copies": 4
+        }
+      ]
+    },
+    "scans": {
+      "Fifth Edition (Companion)": "https://static.krcg.org/card/set/fifth-edition-companion/feralhound.jpg"
+    },
+    "artists": [
+      "Peter Scholtz"
+    ],
+    "ordered_sets": [
+      "Fifth Edition (Companion)"
+    ],
+    "legality": "2024-01-01",
+    "rulings": [
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      }
+    ],
+    "name": "Feral Hound",
+    "printed_name": "Feral Hound"
+  },
+  {
+    "id": 100776,
+    "_name": "Fortune Teller",
+    "url": "https://static.krcg.org/card/fortuneteller.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Ravnos"
+    ],
+    "card_text": "Mortal with 1 life.\nDuring your minion phase, you may look at one card picked at random from your prey's hand.",
+    "_set": "DS:C2",
+    "sets": {
+      "Dark Sovereigns": [
+        {
+          "release_date": "1995-12-15",
+          "rarity": "Common",
+          "frequency": 2
+        }
+      ]
+    },
+    "scans": {
+      "Dark Sovereigns": "https://static.krcg.org/card/set/dark-sovereigns/fortuneteller.jpg"
+    },
+    "artists": [
+      "Daniel Gelon"
+    ],
+    "blood_cost": "1",
+    "flavor_text": "Women excel in the manifestation of certain qualities which are associated with mystery...\nCharles Godfrey Leland, \"Gypsy Sorcery and Fortune Telling\"",
+    "ordered_sets": [
+      "Dark Sovereigns"
+    ],
+    "legality": "1995-12-15",
+    "name": "Fortune Teller",
+    "printed_name": "Fortune Teller"
+  },
+  {
+    "id": 100817,
+    "_name": "Ghoul Escort",
+    "url": "https://static.krcg.org/card/ghoulescort.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Ghoul with 4 life. Requires a ready vampire.\nWhen this vampire is blocked, he or she may burn this retainer and unlock instead of entering combat. (This does not unlock the blocker.)",
+    "_set": "Jyhad:R, VTES:R, Tenth:A",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare"
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Tenth Anniversary": [
+        {
+          "release_date": "2004-12-13",
+          "precon": "Tin A",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/ghoulescort.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/ghoulescort.jpg",
+      "Tenth Anniversary": "https://static.krcg.org/card/set/tenth-anniversary/ghoulescort.jpg"
+    },
+    "artists": [
+      "Jeff Rebner"
+    ],
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Tenth Anniversary"
+    ],
+    "legality": "1994-08-16",
+    "rulings": [
+      {
+        "text": "Cannot be used if blocked when leaving torpor, as no combat would happen. [ANK 20181122-1]",
+        "references": [
+          {
+            "text": "[ANK 20181122-1]",
+            "label": "ANK 20181122-1",
+            "url": "https://www.vekn.net/forum/rules-questions/77171-acting-in-torpor-with-ghoul-escort?start=12#91966"
+          }
+        ]
+      },
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Ghoul Escort",
+    "printed_name": "Ghoul Escort"
+  },
+  {
+    "id": 100818,
+    "_name": "Ghoul Messenger",
+    "url": "https://static.krcg.org/card/ghoulmessenger.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Ghoul with 1 life. Requires a ready Laibon.\nThe vampire with this retainer may move it to another ready vampire as a +1 stealth action. If the action is successful, the new employer gains 1 blood from the blood bank, and the acting vampire unlocks at the end of the turn. If the action is blocked, cancel combat, burn the Messenger, and do not lock the blocking minion.",
+    "_set": "LoB:R",
+    "sets": {
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/ghoulmessenger.jpg"
+    },
+    "artists": [
+      "Jeff Holt"
+    ],
+    "ordered_sets": [
+      "Legacies of Blood"
+    ],
+    "legality": "2005-11-14",
+    "rulings": [
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Ghoul Messenger",
+    "printed_name": "Ghoul Messenger"
+  },
+  {
+    "id": 100819,
+    "_name": "Ghoul Retainer",
+    "url": "https://static.krcg.org/card/ghoulretainer.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Ghoul with 2 life. 1 strength.\nDuring the initial strike resolution each round, the Ghoul Retainer inflicts 1 damage or may use a weapon not used by the employing minion (or another retainer) that round (either before or after). This is not a strike, although it does count as \"using\" the weapon.",
+    "_set": "Jyhad:R2, VTES:R, CE:R2, KoT:U/R",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Uncommon"
+        },
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/ghoulretainer.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/ghoulretainer.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/ghoulretainer.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/ghoulretainer.jpg"
+    },
+    "artists": [
+      "L. A. Williams",
+      "Richard Thomas"
+    ],
+    "pool_cost": "2",
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Camarilla Edition",
+      "Keepers of Tradition"
+    ],
+    "legality": "1994-08-16",
+    "rulings": [
+      {
+        "text": "The 1 Damage is not inflicted at long range. [ANK 20210929]",
+        "references": [
+          {
+            "text": "[ANK 20210929]",
+            "label": "ANK 20210929",
+            "url": "https://www.vekn.net/forum/generic-v-tes-discussion/75623-ghoul-retainer?start=12#103386"
+          }
+        ]
+      },
+      {
+        "text": "The Ghoul is not the bearer of the weapon, the employer is (eg. using {Garrote} does not allow the bearer to burn the opponent, {Zip Gun}'s damage go to the employer). [TOM 19951114] [LSJ 20080210]",
+        "references": [
+          {
+            "text": "[TOM 19951114]",
+            "label": "TOM 19951114",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/LOEFFpprXKs/m/3iG4c1loOqgJ"
+          },
+          {
+            "text": "[LSJ 20080210]",
+            "label": "LSJ 20080210",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/nL-xqiydvYg/m/hWQZF3aBdwsJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Garrote}",
+            "id": 100810,
+            "name": "Garrote",
+            "usual_name": "Garrote",
+            "vekn_name": "Garrote"
+          },
+          {
+            "text": "{Zip Gun}",
+            "id": 102208,
+            "name": "Zip Gun",
+            "usual_name": "Zip Gun",
+            "vekn_name": "Zip Gun"
+          }
+        ]
+      },
+      {
+        "text": "The Ghoul uses weapon as if making the strike, including all side-effects (eg. {Zip Gun}'s damage, {Weighted Walking Stick} tokens), and is not limited to damage dealing strikes (eg. {Rowan Ring} sends to torpor, {Flash Grenade} ends combat). It is not a strike and cannot provide a maneuver, press or additional strike to the employer (eg. {Meat Hook}). [LSJ 20080210]",
+        "references": [
+          {
+            "text": "[LSJ 20080210]",
+            "label": "LSJ 20080210",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/nL-xqiydvYg/m/hWQZF3aBdwsJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Zip Gun}",
+            "id": 102208,
+            "name": "Zip Gun",
+            "usual_name": "Zip Gun",
+            "vekn_name": "Zip Gun"
+          },
+          {
+            "text": "{Weighted Walking Stick}",
+            "id": 102169,
+            "name": "Weighted Walking Stick",
+            "usual_name": "Weighted Walking Stick",
+            "vekn_name": "Weighted Walking Stick"
+          },
+          {
+            "text": "{Rowan Ring}",
+            "id": 101655,
+            "name": "Rowan Ring",
+            "usual_name": "Rowan Ring",
+            "vekn_name": "Rowan Ring"
+          },
+          {
+            "text": "{Flash Grenade}",
+            "id": 100745,
+            "name": "Flash Grenade",
+            "usual_name": "Flash Grenade",
+            "vekn_name": "Flash Grenade"
+          },
+          {
+            "text": "{Meat Hook}",
+            "id": 101191,
+            "name": "Meat Hook",
+            "usual_name": "Meat Hook",
+            "vekn_name": "Meat Hook"
+          }
+        ]
+      },
+      {
+        "text": "The Ghoul cannot play ammo cards (not even with a {Magazine}), although it can benefit from ammo cards played by the employer in an earlier round (eg. {Scattershot}). [LSJ 20080210]",
+        "references": [
+          {
+            "text": "[LSJ 20080210]",
+            "label": "LSJ 20080210",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/nL-xqiydvYg/m/hWQZF3aBdwsJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Magazine}",
+            "id": 101142,
+            "name": "Magazine",
+            "usual_name": "Magazine",
+            "vekn_name": "Magazine"
+          },
+          {
+            "text": "{Scattershot}",
+            "id": 101689,
+            "name": "Scattershot",
+            "usual_name": "Scattershot",
+            "vekn_name": "Scattershot"
+          }
+        ]
+      },
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Ghoul Retainer",
+    "printed_name": "Ghoul Retainer"
+  },
+  {
+    "id": 100833,
+    "_name": "Giuseppe, Gravedigger",
+    "url": "https://static.krcg.org/card/giuseppegravedigger.jpg",
+    "aka": [
+      "Guiseppe, Gravedigger"
+    ],
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Giovanni"
+    ],
+    "card_text": "Unique mortal with 1 life.\nThis vampire gets +1 stealth during actions requiring Necromancy [nec].",
+    "_set": "DS:C2, FN:PG, POD:DTC",
+    "sets": {
+      "Dark Sovereigns": [
+        {
+          "release_date": "1995-12-15",
+          "rarity": "Common",
+          "frequency": 2
+        }
+      ],
+      "Final Nights": [
+        {
+          "release_date": "2001-06-11",
+          "precon": "Giovanni",
+          "copies": 1
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Dark Sovereigns": "https://static.krcg.org/card/set/dark-sovereigns/giuseppegravedigger.jpg",
+      "Final Nights": "https://static.krcg.org/card/set/final-nights/giuseppegravedigger.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/giuseppegravedigger.jpg"
+    },
+    "artists": [
+      "Pete Venters"
+    ],
+    "flavor_text": "I've longed to dig myself a good deep grave\nThere to stretch my old bones at ease...\nCharles Baudelaire, \"The Gladly Dead\"",
+    "ordered_sets": [
+      "Dark Sovereigns",
+      "Final Nights"
+    ],
+    "legality": "1995-12-15",
+    "name_variants": [
+      "Giuseppe",
+      "Guiseppe, Gravedigger",
+      "Guiseppe"
+    ],
+    "name": "Giuseppe, Gravedigger",
+    "printed_name": "Giuseppe, Gravedigger"
+  },
+  {
+    "id": 100891,
+    "_name": "Hatch the Viper",
+    "url": "https://static.krcg.org/card/hatchtheviper.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "pro",
+      "ser"
+    ],
+    "combo": true,
+    "card_text": "Retainer with 1 life.\n[pro][ser] The employer can prevent 1 damage each combat. Hatch the Viper inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range.\n[PRO][SER] As above, but it inflicts 2 damage.",
+    "_set": "HttB:R, POD:DTC",
+    "sets": {
+      "Heirs to the Blood": [
+        {
+          "release_date": "2010-02-03",
+          "rarity": "Rare"
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Heirs to the Blood": "https://static.krcg.org/card/set/heirs-to-the-blood/hatchtheviper.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/hatchtheviper.jpg"
+    },
+    "artists": [
+      "Justin Norman"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Heirs to the Blood"
+    ],
+    "legality": "2010-02-03",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      }
+    ],
+    "name": "Hatch the Viper",
+    "printed_name": "Hatch the Viper"
+  },
+  {
+    "_i18n": {
+      "fr": {
+        "name": "Homoncule",
+        "url": "https://static.krcg.org/card/fr/homunculus.jpg",
+        "card_text": "Compagnon avec 1 point de vie.\n[pro] Durant la phase de redressement de n'importe quel Mathusalem, ce vampire peut brûler 1 point de sang pour se redresser.\n[PRO] Comme ci-dessus, mais ce compagnon a 2 points de vie.",
+        "sets": {
+          "Twenty-Fifth Anniversary": "25ème anniversaire"
+        },
+        "flavor_text": "Un tas d'os dans un sac de peau, un ballon dégonflé ; un paquet ignoble.\nRonald Chetwynd-Hayes, \"En quête de quelque chose à sucer\""
+      },
+      "es": {
+        "name": "Homúnculo",
+        "url": "https://static.krcg.org/card/es/homunculus.jpg",
+        "card_text": "Criado con 1 de vida.\n[pro] Durante la fase de enderezamiento de cualquier Matusalén, este vampiro puede quemar 1 de sangre para enderezarse.\n[PRO] Como antes, pero el /Homúnculo/ tiene 2 de vida.",
+        "sets": {
+          "Twenty-Fifth Anniversary": "25º Aniversario"
+        },
+        "flavor_text": "Un montón de huesos en un saco de piel, un globo desinflado; un bulto horrible.\nR. Chetwynd-Hayes, \"Buscando algo que chupar\""
+      }
+    },
+    "id": 100932,
+    "_name": "Homunculus",
+    "url": "https://static.krcg.org/card/homunculus.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "pro"
+    ],
+    "card_text": "Retainer with 1 life.\n[pro] During any Methuselah's unlock phase, the employer can burn 1 blood to unlock.\n[PRO] As above, but Homunculus has 2 life.",
+    "_set": "Jyhad:U, VTES:U, Tenth:A, 25th:1, NB2:PMi1, V5C:PTz1",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Tenth Anniversary": [
+        {
+          "release_date": "2004-12-13",
+          "precon": "Tin A",
+          "copies": 1
+        }
+      ],
+      "Twenty-Fifth Anniversary": [
+        {
+          "release_date": "2019-08-16",
+          "copies": 1
+        }
+      ],
+      "New Blood II": [
+        {
+          "release_date": "2022-08-01",
+          "precon": "Ministry",
+          "copies": 1
+        }
+      ],
+      "Fifth Edition (Companion)": [
+        {
+          "release_date": "2024-01-01",
+          "precon": "Tzimisce",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/homunculus.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/homunculus.jpg",
+      "Tenth Anniversary": "https://static.krcg.org/card/set/tenth-anniversary/homunculus.jpg",
+      "Twenty-Fifth Anniversary": "https://static.krcg.org/card/set/twenty-fifth-anniversary/homunculus.jpg",
+      "New Blood II": "https://static.krcg.org/card/set/new-blood-ii/homunculus.jpg",
+      "Fifth Edition (Companion)": "https://static.krcg.org/card/set/fifth-edition-companion/homunculus.jpg"
+    },
+    "artists": [
+      "Bryon Wackwitz"
+    ],
+    "flavor_text": "A pile of bones in a skin bag, a deflated balloon; a hideous bundle.\nR. Chetwynd-Hayes, \"Looking For Something To Suck\"",
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Tenth Anniversary",
+      "Twenty-Fifth Anniversary",
+      "New Blood II",
+      "Fifth Edition (Companion)"
+    ],
+    "legality": "1994-08-16",
+    "rulings": [
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      }
+    ],
+    "name": "Homunculus",
+    "printed_name": "Homunculus"
+  },
+  {
+    "id": 100956,
+    "_name": "Ilomba",
+    "url": "https://static.krcg.org/card/ilomba.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Animal with 1 life. Requires a Laibon.\nPut Ilomba on any minion (this is a +1 stealth Ⓓ action if that minion is controlled by another Methuselah). If Ilomba would burn a life (or would otherwise be burned), this minion burns a blood or life instead. If he or she cannot, he or she is burned. A minion may have only one Ilomba.",
+    "_set": "EK:R",
+    "sets": {
+      "Ebony Kingdom": [
+        {
+          "release_date": "2009-05-27",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Ebony Kingdom": "https://static.krcg.org/card/set/ebony-kingdom/ilomba.jpg"
+    },
+    "artists": [
+      "Ron Spencer"
+    ],
+    "ordered_sets": [
+      "Ebony Kingdom"
+    ],
+    "legality": "2009-05-27",
+    "rulings": [
+      {
+        "text": "His effect applies to each point of damage. (eg. if 3 damage is done to him, the minion it is on burns 3). [ANK 20180525]",
+        "references": [
+          {
+            "text": "[ANK 20180525]",
+            "label": "ANK 20180525",
+            "url": "https://www.vekn.net/forum/rules-questions/76649-ilomba#87488"
+          }
+        ]
+      },
+      {
+        "text": "If damage is done simultaneously to Ilomba and its owner, the controller chooses the order of resolution. [LSJ 20090617-2]",
+        "references": [
+          {
+            "text": "[LSJ 20090617-2]",
+            "label": "LSJ 20090617-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ClO_zsSSgVU/m/TBaLfhQUN_8J"
+          }
+        ]
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      },
+      {
+        "text": "The option to place the card on another minion can only be used when playing the card normally; for any other action or put into play effect, the card is placed on the playing minion. [LSJ 20090824] [LSJ 20051121]",
+        "references": [
+          {
+            "text": "[LSJ 20090824]",
+            "label": "LSJ 20090824",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vWBysQ7L4fM/m/SA1wFRHusXAJ"
+          },
+          {
+            "text": "[LSJ 20051121]",
+            "label": "LSJ 20051121",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/51XITiJtdjo/m/A9jSHsxBX8QJ"
+          }
+        ],
+        "group": "Retainers and equipment put on different minion"
+      },
+      {
+        "text": "The type of the action (equip/employ) does not change regardless of the target. [ANK 20230408] [LSJ 20050313]",
+        "references": [
+          {
+            "text": "[ANK 20230408]",
+            "label": "ANK 20230408",
+            "url": "https://www.vekn.net/forum/rules-questions/80438-the-british-museum-london-bloodstone#107810"
+          },
+          {
+            "text": "[LSJ 20050313]",
+            "label": "LSJ 20050313",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/eSShNquHnXI/m/4H7zIau2DjoJ"
+          }
+        ],
+        "group": "Retainers and equipment put on different minion"
+      }
+    ],
+    "name": "Ilomba",
+    "printed_name": "Ilomba"
+  },
+  {
+    "id": 100978,
+    "_name": "Infernal Familiar",
+    "url": "https://static.krcg.org/card/infernalfamiliar.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "tha"
+    ],
+    "card_text": "Demon with 2 life.\n[tha] The vampire with this retainer can play a card that requires a Discipline he or she does not have as if he or she had the basic level of that Discipline; if he or she does so, place an investment counter on the Infernal Familiar. If the number of investment counters on the Familiar is greater than this vampire's capacity, burn this vampire.",
+    "_set": "Sabbat:R, CE:R, Third:R",
+    "sets": {
+      "Sabbat": [
+        {
+          "release_date": "1996-10-28",
+          "rarity": "Rare"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare"
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Sabbat": "https://static.krcg.org/card/set/sabbat/infernalfamiliar.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/infernalfamiliar.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/infernalfamiliar.jpg"
+    },
+    "artists": [
+      "L. A. Williams",
+      "Chet Masters",
+      "Mike Chaney"
+    ],
+    "blood_cost": "2",
+    "ordered_sets": [
+      "Sabbat",
+      "Camarilla Edition",
+      "Third Edition"
+    ],
+    "legality": "1996-10-28",
+    "rulings": [
+      {
+        "text": "No counter is added if the vampire uses another game effect (eg. {Ian Forestal}, another {Infernal Familiar}) to play a card that requires a Discipline they do not have. [RTR 20020501] [LSJ 20100517]",
+        "references": [
+          {
+            "text": "[RTR 20020501]",
+            "label": "RTR 20020501",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/M1snoR2msbQ/m/RFwCmX3anDkJ"
+          },
+          {
+            "text": "[LSJ 20100517]",
+            "label": "LSJ 20100517",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/88K5Hd0NxlU/m/zaGQhDET3F0J"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Ian Forestal}",
+            "id": 200616,
+            "name": "Ian Forestal (G2)",
+            "usual_name": "Ian Forestal",
+            "vekn_name": "Ian Forestal"
+          },
+          {
+            "text": "{Infernal Familiar}",
+            "id": 100978,
+            "name": "Infernal Familiar",
+            "usual_name": "Infernal Familiar",
+            "vekn_name": "Infernal Familiar"
+          }
+        ]
+      },
+      {
+        "text": "A counter is added if the card is canceled as it is played (eg. {Direct Intervention}). [LSJ 20000424]",
+        "references": [
+          {
+            "text": "[LSJ 20000424]",
+            "label": "LSJ 20000424",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/6pK4rFvqmmg/m/LGEB9PuA4TUJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Direct Intervention}",
+            "id": 100545,
+            "name": "Direct Intervention",
+            "usual_name": "Direct Intervention",
+            "vekn_name": "Direct Intervention"
+          }
+        ]
+      },
+      {
+        "text": "Can be used to meet one (but not more than one) of the normal Discipline requirements of a multi-Discipline card. [LSJ 20011217] [LSJ 20090508]",
+        "references": [
+          {
+            "text": "[LSJ 20011217]",
+            "label": "LSJ 20011217",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vZ13bh7FEvQ/m/KaZlbqc4LO0J"
+          },
+          {
+            "text": "[LSJ 20090508]",
+            "label": "LSJ 20090508",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/B7dz3qoIITQ/m/0YV5PNQvijsJ"
+          }
+        ],
+        "group": "Meets a single discipline"
+      },
+      {
+        "text": "While a minion has an effect that allows them to play cards that require Discipline(s), they do not actually have those Discipline(s). [LSJ 19980303]",
+        "references": [
+          {
+            "text": "[LSJ 19980303]",
+            "label": "LSJ 19980303",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Q_kKQiACZqk/m/Nu-cOlCq1cgJ"
+          }
+        ],
+        "group": "Meets missing disciplines"
+      },
+      {
+        "text": "Multiple similar effects (e.g. two {Infernal Familiar}, or {Ian Forestal} with an {Infernal Familiar}) cannot be used to meet the requirements of a multi-Discipline card that the minion is missing one or more Disciplines to play. [LSJ 20020218]",
+        "references": [
+          {
+            "text": "[LSJ 20020218]",
+            "label": "LSJ 20020218",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/o59KNX0R1Ls/m/QHnuE-mmSj0J"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Infernal Familiar}",
+            "id": 100978,
+            "name": "Infernal Familiar",
+            "usual_name": "Infernal Familiar",
+            "vekn_name": "Infernal Familiar"
+          },
+          {
+            "text": "{Ian Forestal}",
+            "id": 200616,
+            "name": "Ian Forestal (G2)",
+            "usual_name": "Ian Forestal",
+            "vekn_name": "Ian Forestal"
+          },
+          {
+            "text": "{Infernal Familiar}",
+            "id": 100978,
+            "name": "Infernal Familiar",
+            "usual_name": "Infernal Familiar",
+            "vekn_name": "Infernal Familiar"
+          }
+        ],
+        "group": "Meets missing disciplines"
+      },
+      {
+        "text": "While using their ability to meet a discipline requirement, they also meet that requirement for any other cards associated with the original effect (e.g. meeting the [ani] requirement for {Pack Alpha} or {Muricia's Call} also meets the [ani] requirement for the {Raven Spy} employed by that effect). [LSJ 20080205-2] [LSJ 20060417]",
+        "references": [
+          {
+            "text": "[LSJ 20080205-2]",
+            "label": "LSJ 20080205-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/qkq18YMacnQ/m/i4gTLAr3IQcJ"
+          },
+          {
+            "text": "[LSJ 20060417]",
+            "label": "LSJ 20060417",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bW_XZDS-9iw/m/u_WVQXNXK0kJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Pack Alpha}",
+            "id": 101342,
+            "name": "Pack Alpha",
+            "usual_name": "Pack Alpha",
+            "vekn_name": "Pack Alpha"
+          },
+          {
+            "text": "{Muricia's Call}",
+            "id": 101255,
+            "name": "Muricia's Call",
+            "usual_name": "Muricia's Call",
+            "vekn_name": "Muricia's Call"
+          },
+          {
+            "text": "{Raven Spy}",
+            "id": 101550,
+            "name": "Raven Spy",
+            "usual_name": "Raven Spy",
+            "vekn_name": "Raven Spy"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[ani]",
+            "symbol": "i"
+          },
+          {
+            "text": "[ani]",
+            "symbol": "i"
+          }
+        ],
+        "group": "Meets missing disciplines"
+      }
+    ],
+    "name": "Infernal Familiar",
+    "printed_name": "Infernal Familiar"
+  },
+  {
+    "_i18n": {
+      "fr": {
+        "url": "https://static.krcg.org/card/fr/jssimmonsesq.jpg",
+        "card_text": "Mortel unique avec 1 point de vie.\nSon employeur reçoit +1 en morsure.",
+        "sets": {
+          "First Blood": "Premier Sang"
+        }
+      },
+      "es": {
+        "name": "Don J. S. Simmons",
+        "url": "https://static.krcg.org/card/es/jssimmonsesq.jpg",
+        "card_text": "Mortal único con 1 de vida.\nEl empleador obtiene +1 de sangrado.",
+        "sets": {
+          "First Blood": "Primera Sangre"
+        }
+      }
+    },
+    "id": 101015,
+    "_name": "J. S. Simmons, Esq.",
+    "url": "https://static.krcg.org/card/jssimmonsesq.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Unique mortal with 1 life.\nThe employer gets +1 bleed.",
+    "_set": "Jyhad:R2, VTES:R, SW:PL, CE:R2, Third:R, HttB:PGar, FB:PN1",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Sabbat War": [
+        {
+          "release_date": "2000-10-31",
+          "precon": "Lasombra",
+          "copies": 1
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "rarity": "Rare"
+        }
+      ],
+      "Heirs to the Blood": [
+        {
+          "release_date": "2010-02-03",
+          "precon": "Gargoyles",
+          "copies": 1
+        }
+      ],
+      "First Blood": [
+        {
+          "release_date": "2019-10-01",
+          "precon": "Nosferatu",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/jssimmonsesq.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/jssimmonsesq.jpg",
+      "Sabbat War": "https://static.krcg.org/card/set/sabbat-war/jssimmonsesq.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/jssimmonsesq.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/jssimmonsesq.jpg",
+      "Heirs to the Blood": "https://static.krcg.org/card/set/heirs-to-the-blood/jssimmonsesq.jpg",
+      "First Blood": "https://static.krcg.org/card/set/first-blood/jssimmonsesq.jpg"
+    },
+    "artists": [
+      "Chris McLoughlin",
+      "Bob Stevlic"
+    ],
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Sabbat War",
+      "Camarilla Edition",
+      "Third Edition",
+      "Heirs to the Blood",
+      "First Blood"
+    ],
+    "legality": "1994-08-16",
+    "name_variants": [
+      "J. S. Simmons"
+    ],
+    "name": "J. S. Simmons, Esq.",
+    "printed_name": "J. S. Simmons, Esq."
+  },
+  {
+    "id": 101017,
+    "_name": "Jackal",
+    "url": "https://static.krcg.org/card/jackal.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "ani"
+    ],
+    "card_text": "Animal with 1 life.\n[ani] If your prey controls a ready Follower of Set or Assamite, the minion with this retainer gets +1 stealth.\n[ANI] As above, but this minion gets +2 stealth.",
+    "_set": "AH:U5",
+    "sets": {
+      "Ancient Hearts": [
+        {
+          "release_date": "1996-05-29",
+          "rarity": "Uncommon",
+          "frequency": 5
+        }
+      ]
+    },
+    "scans": {
+      "Ancient Hearts": "https://static.krcg.org/card/set/ancient-hearts/jackal.jpg"
+    },
+    "artists": [
+      "Daniel Gelon"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Ancient Hearts"
+    ],
+    "legality": "1996-05-29",
+    "rulings": [
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      }
+    ],
+    "name": "Jackal",
+    "printed_name": "Jackal"
+  },
+  {
+    "id": 101018,
+    "_name": "Jackie Therman",
+    "url": "https://static.krcg.org/card/jackietherman.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Unique mortal with 1 life.\nThis minion gets an optional maneuver each combat.",
+    "_set": "Jyhad:R2, VTES:R, CE:R, KoT:R",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare"
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/jackietherman.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/jackietherman.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/jackietherman.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/jackietherman.jpg"
+    },
+    "artists": [
+      "Melissa Benson",
+      "Fred Hooper"
+    ],
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Camarilla Edition",
+      "Keepers of Tradition"
+    ],
+    "legality": "1994-08-16",
+    "name": "Jackie Therman",
+    "printed_name": "Jackie Therman"
+  },
+  {
+    "id": 101148,
+    "_name": "Malajit Chandramouli",
+    "url": "https://static.krcg.org/card/malajitchandramouli.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Requires a non-Camarilla vampire. Unique mortal with 1 life.\nMalajit's employer may lock him to get +1 stealth for the current action. If that action is blocked, burn Malajit.",
+    "_set": "LotN:R",
+    "sets": {
+      "Lords of the Night": [
+        {
+          "release_date": "2007-09-26",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Lords of the Night": "https://static.krcg.org/card/set/lords-of-the-night/malajitchandramouli.jpg"
+    },
+    "artists": [
+      "John Bridges"
+    ],
+    "pool_cost": "1",
+    "ordered_sets": [
+      "Lords of the Night"
+    ],
+    "legality": "2007-09-26",
+    "name": "Malajit Chandramouli",
+    "printed_name": "Malajit Chandramouli"
+  },
+  {
+    "id": 101164,
+    "_name": "Marijava Ghoul",
+    "url": "https://static.krcg.org/card/marijavaghoul.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Ghoul with 2 life.\nThe minion with this retainer gets +1 stealth when attempting an action that requires Presence [pre].",
+    "_set": "AH:U1/V2, FN:PS, CE:PTo, LoB:PI, Third:U",
+    "sets": {
+      "Ancient Hearts": [
+        {
+          "release_date": "1996-05-29",
+          "rarity": "Uncommon",
+          "frequency": 1
+        },
+        {
+          "release_date": "1996-05-29",
+          "rarity": "Vampire",
+          "frequency": 2
+        }
+      ],
+      "Final Nights": [
+        {
+          "release_date": "2001-06-11",
+          "precon": "Followers of Set",
+          "copies": 1
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "precon": "Toreador",
+          "copies": 1
+        }
+      ],
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "precon": "Ishtarri",
+          "copies": 1
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    "scans": {
+      "Ancient Hearts": "https://static.krcg.org/card/set/ancient-hearts/marijavaghoul.jpg",
+      "Final Nights": "https://static.krcg.org/card/set/final-nights/marijavaghoul.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/marijavaghoul.jpg",
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/marijavaghoul.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/marijavaghoul.jpg"
+    },
+    "artists": [
+      "Lawrence Snelly"
+    ],
+    "blood_cost": "2",
+    "ordered_sets": [
+      "Ancient Hearts",
+      "Final Nights",
+      "Camarilla Edition",
+      "Legacies of Blood",
+      "Third Edition"
+    ],
+    "legality": "1996-05-29",
+    "rulings": [
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Marijava Ghoul",
+    "printed_name": "Marijava Ghoul"
+  },
+  {
+    "id": 101182,
+    "_name": "Masquer",
+    "url": "https://static.krcg.org/card/masquer.jpg",
+    "aka": [
+      "Masquer (Wraith)"
+    ],
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "nec"
+    ],
+    "card_text": "Wraith with 1 life.\n[nec] Masquer is immune to non-aggravated damage. The employer gets +1 intercept. You can burn this retainer to give any minion +1 intercept.\n[NEC] As above, but Masquer has 2 life.",
+    "_set": "FN:C2/PG, POD:DTC",
+    "sets": {
+      "Final Nights": [
+        {
+          "release_date": "2001-06-11",
+          "rarity": "Common",
+          "frequency": 2
+        },
+        {
+          "release_date": "2001-06-11",
+          "precon": "Giovanni",
+          "copies": 1
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Final Nights": "https://static.krcg.org/card/set/final-nights/masquer.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/masquer.jpg"
+    },
+    "artists": [
+      "Michael Gaydos"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Final Nights"
+    ],
+    "legality": "2001-06-11",
+    "name_variants": [
+      "Masquer (Wraith)"
+    ],
+    "rulings": [
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Immune means damage is not inflicted, even if non-preventable or outside combat. [LSJ 20010627] [LSJ 20010629] [LSJ 20090304-1]",
+        "references": [
+          {
+            "text": "[LSJ 20010627]",
+            "label": "LSJ 20010627",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/NhNCVCCDyU0/m/I5Yph3-UUPsJ"
+          },
+          {
+            "text": "[LSJ 20010629]",
+            "label": "LSJ 20010629",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/MhHKBY7II78/m/EyI_ise9M-kJ"
+          },
+          {
+            "text": "[LSJ 20090304-1]",
+            "label": "LSJ 20090304-1",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/B7EQiAVOr1Q/m/gg-GkqQBRp8J"
+          }
+        ],
+        "group": "Immune to damage"
+      }
+    ],
+    "name": "Masquer",
+    "printed_name": "Masquer"
+  },
+  {
+    "_i18n": {
+      "fr": {
+        "name": "M. Winthrop",
+        "url": "https://static.krcg.org/card/fr/mrwinthrop.jpg",
+        "card_text": "Mortel unique avec 1 point de vie.\nSon employeur reçoit +1 en interception.",
+        "sets": {
+          "Fifth Edition (Anarch)": "Cinquième édition (Anarch)"
+        }
+      },
+      "es": {
+        "name": "Sr. Winthrop",
+        "url": "https://static.krcg.org/card/es/mrwinthrop.jpg",
+        "card_text": "Mortal único con 1 de vida.\nEl empleador obtiene +1 de intercepción.",
+        "sets": {
+          "Fifth Edition (Anarch)": "Quinta Edición (Anarquista)"
+        }
+      }
+    },
+    "id": 101249,
+    "_name": "Mr. Winthrop",
+    "url": "https://static.krcg.org/card/mrwinthrop.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Unique mortal with 1 life.\nThe employer gets +1 intercept.",
+    "_set": "Jyhad:R2, VTES:R, SW:PB, CE:R2, HttB:PKia, V5A:PBh1",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Sabbat War": [
+        {
+          "release_date": "2000-10-31",
+          "precon": "Brujah antitribu",
+          "copies": 1
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Heirs to the Blood": [
+        {
+          "release_date": "2010-02-03",
+          "precon": "Kiasyd",
+          "copies": 1
+        }
+      ],
+      "Fifth Edition (Anarch)": [
+        {
+          "release_date": "2021-12-01",
+          "precon": "Banu Haqim",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/mrwinthrop.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/mrwinthrop.jpg",
+      "Sabbat War": "https://static.krcg.org/card/set/sabbat-war/mrwinthrop.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/mrwinthrop.jpg",
+      "Heirs to the Blood": "https://static.krcg.org/card/set/heirs-to-the-blood/mrwinthrop.jpg",
+      "Fifth Edition (Anarch)": "https://static.krcg.org/card/set/fifth-edition-anarch/mrwinthrop.jpg"
+    },
+    "artists": [
+      "Pete Venters",
+      "Anna Christenson"
+    ],
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Sabbat War",
+      "Camarilla Edition",
+      "Heirs to the Blood",
+      "Fifth Edition (Anarch)"
+    ],
+    "legality": "1994-08-16",
+    "name": "Mr. Winthrop",
+    "printed_name": "Mr. Winthrop"
+  },
+  {
+    "_i18n": {
+      "fr": {
+        "name": "Nuée de corbeaux",
+        "url": "https://static.krcg.org/card/fr/murderofcrows.jpg",
+        "card_text": "Animal avec 1 point de vie.\n[ani] Ce compagnon inflige 1 point de dégâts à toute portée au serviteur opposé durant chaque round de combat durant la résolution des frappes normales.\n[ANI] Comme ci-dessus, mais ce compagnon a 2 points de vie.",
+        "sets": {
+          "Fifth Edition": "Cinquième édition",
+          "Fifth Edition (Anarch)": "Cinquième édition (Anarch)"
+        },
+        "flavor_text": "Armée étrange aux cris sévères, [...]\nDispersez-vous, ralliez-vous !\nArthur Rimbaud, \"Les Corbeaux\""
+      },
+      "es": {
+        "name": "Bandada de cuervos",
+        "url": "https://static.krcg.org/card/es/murderofcrows.jpg",
+        "card_text": "Animal con 1 de vida.\n[ani] La /Bandada de cuervos/ inflige 1 de daño a distancia al siervo oponente en cada asalto de combate durante la resolución de ataques normal.\n[ANI] Como antes, pero la /Bandada de cuervos/ tiene 2 de vida.",
+        "sets": {
+          "Fifth Edition": "Quinta Edición",
+          "Fifth Edition (Anarch)": "Quinta Edición (Anarquista)"
+        },
+        "flavor_text": "Y en el fondo del hoyo y de la fosa,\n¡dispersaos!, ¡uníos!\nArthur Rimbaud, \"Los cuervos\""
+      }
+    },
+    "id": 101254,
+    "_name": "Murder of Crows",
+    "url": "https://static.krcg.org/card/murderofcrows.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "ani"
+    ],
+    "card_text": "Animal with 1 life.\n[ani] Murder of Crows inflicts 1R damage on the opposing minion each round of combat during normal strike resolution.\n[ANI] As above, but Murder of Crows has 2 life.",
+    "_set": "Jyhad:R2, VTES:R, CE:R, V5:PN2, V5A:PG2, NB:PN1",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare"
+        }
+      ],
+      "Fifth Edition": [
+        {
+          "release_date": "2020-11-30",
+          "precon": "Nosferatu",
+          "copies": 2
+        }
+      ],
+      "Fifth Edition (Anarch)": [
+        {
+          "release_date": "2021-12-01",
+          "precon": "Gangrel",
+          "copies": 2
+        }
+      ],
+      "New Blood": [
+        {
+          "release_date": "2022-04-17",
+          "precon": "Nosferatu",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/murderofcrows.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/murderofcrows.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/murderofcrows.jpg",
+      "Fifth Edition": "https://static.krcg.org/card/set/fifth-edition/murderofcrows.jpg",
+      "Fifth Edition (Anarch)": "https://static.krcg.org/card/set/fifth-edition-anarch/murderofcrows.jpg",
+      "New Blood": "https://static.krcg.org/card/set/new-blood/murderofcrows.jpg"
+    },
+    "artists": [
+      "Richard Thomas"
+    ],
+    "blood_cost": "1",
+    "flavor_text": "In cold and gray and mournful weather\nScatter, hover, dive together!\nArthur Rimbaud, \"Crows\"",
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Camarilla Edition",
+      "Fifth Edition",
+      "Fifth Edition (Anarch)",
+      "New Blood"
+    ],
+    "legality": "1994-08-16",
+    "rulings": [
+      {
+        "text": "Are neither mortal nor monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ]
+      },
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      }
+    ],
+    "name": "Murder of Crows",
+    "printed_name": "Murder of Crows"
+  },
+  {
+    "id": 101264,
+    "_name": "Nar-Sheptha",
+    "url": "https://static.krcg.org/card/narsheptha.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Banu Haqim"
+    ],
+    "card_text": "Unique wraith with 1 life.\nWhile this vampire is in combat, you get +2 hand size, and the opposing minion is considered the acting minion.",
+    "_set": "TU:C/B1",
+    "sets": {
+      "The Unaligned": [
+        {
+          "release_date": "2014-10-04",
+          "rarity": "Common"
+        },
+        {
+          "release_date": "2021-07-09",
+          "precon": "Bundle 2",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "The Unaligned": "https://static.krcg.org/card/set/the-unaligned/narsheptha.jpg"
+    },
+    "artists": [
+      "Noora Hirvonen"
+    ],
+    "pool_cost": "1",
+    "ordered_sets": [
+      "The Unaligned"
+    ],
+    "legality": "2014-10-04",
+    "rulings": [
+      {
+        "text": "If burned in combat, her effect ceases immediately and the acting minion returns to normal for the rest of the combat. [ANK 20211022]",
+        "references": [
+          {
+            "text": "[ANK 20211022]",
+            "label": "ANK 20211022",
+            "url": "https://www.vekn.net/forum/rules-questions/79422-nar-sheptha#103636"
+          }
+        ]
+      },
+      {
+        "text": "Supersedes previous effects that changed the acting minion for the combat (eg. {Deep Song}). [ANK 20211022]",
+        "references": [
+          {
+            "text": "[ANK 20211022]",
+            "label": "ANK 20211022",
+            "url": "https://www.vekn.net/forum/rules-questions/79422-nar-sheptha#103636"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Deep Song}",
+            "id": 100515,
+            "name": "Deep Song",
+            "usual_name": "Deep Song",
+            "vekn_name": "Deep Song"
+          }
+        ]
+      },
+      {
+        "text": "If combat ends and a new combat start (eg. [CEL] {Psyche!}), the opponent redraws and discard again. [LSJ 20030530]",
+        "references": [
+          {
+            "text": "[LSJ 20030530]",
+            "label": "LSJ 20030530",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SZehI8SwAc4/m/shpyPIdsHxUJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Psyche!}",
+            "id": 101507,
+            "name": "Psyche!",
+            "usual_name": "Psyche!",
+            "vekn_name": "Psyche!"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[CEL]",
+            "symbol": "C"
+          }
+        ]
+      }
+    ],
+    "name": "Nar-Sheptha",
+    "printed_name": "Nar-Sheptha"
+  },
+  {
+    "id": 101320,
+    "_name": "Omael Kuman",
+    "url": "https://static.krcg.org/card/omaelkuman.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Banu Haqim"
+    ],
+    "card_text": "Unique ghoul with 1 life.\nThe employer can burn 1 blood to set the range for the round before range is determined during the first round of combat.",
+    "_set": "LotN:R, POD:DTC",
+    "sets": {
+      "Lords of the Night": [
+        {
+          "release_date": "2007-09-26",
+          "rarity": "Rare"
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Lords of the Night": "https://static.krcg.org/card/set/lords-of-the-night/omaelkuman.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/omaelkuman.jpg"
+    },
+    "artists": [
+      "Eric Lofgren"
+    ],
+    "pool_cost": "1",
+    "ordered_sets": [
+      "Lords of the Night"
+    ],
+    "legality": "2007-09-26",
+    "rulings": [
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      },
+      {
+        "text": "Once the range is set, no other effect can be used to reset the range that round, but other pre-range effects can be played afterwards. Skip the Determine Range step for that round. [RTR 19970630] [ANK 20180720]",
+        "references": [
+          {
+            "text": "[RTR 19970630]",
+            "label": "RTR 19970630",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/KireUeOYY3c/m/t6ifm9lur1kJ"
+          },
+          {
+            "text": "[ANK 20180720]",
+            "label": "ANK 20180720",
+            "url": "https://www.vekn.net/forum/rules-questions/76840-setting-range-and-pre-range#89125"
+          }
+        ],
+        "group": "Set range"
+      },
+      {
+        "text": "If another effect was already setting that round's range (e.g. {Neutral Guard}), that effect has priority. [PIB 20120214]",
+        "references": [
+          {
+            "text": "[PIB 20120214]",
+            "label": "PIB 20120214",
+            "url": "https://www.vekn.net/forum/rules-questions/22906-re-set-the-range?start=12#22999"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Neutral Guard}",
+            "id": 101276,
+            "name": "Neutral Guard",
+            "usual_name": "Neutral Guard",
+            "vekn_name": "Neutral Guard"
+          }
+        ],
+        "group": "Set range"
+      }
+    ],
+    "name": "Omael Kuman",
+    "printed_name": "Omael Kuman"
+  },
+  {
+    "id": 101340,
+    "_name": "Owl Companion",
+    "url": "https://static.krcg.org/card/owlcompanion.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "ani"
+    ],
+    "card_text": "Animal with 1 life.\n[ani] While the employer is in combat, the opposing minion's controller plays with an open hand.\n[ANI] As above, but Owl Companion has 2 life.",
+    "_set": "Jyhad:U, VTES:U, CE:U/PN, Anarchs:PG, BH:PN, KMW:PG, LoB:PA2, Third:PTz, LotN:PR, KoT:U, NB:PN1",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Uncommon"
+        },
+        {
+          "release_date": "2002-08-19",
+          "precon": "Nosferatu",
+          "copies": 1
+        }
+      ],
+      "Anarchs": [
+        {
+          "release_date": "2003-05-19",
+          "precon": "Gangrel",
+          "copies": 1
+        }
+      ],
+      "Black Hand": [
+        {
+          "release_date": "2003-11-17",
+          "precon": "Nosferatu antitribu",
+          "copies": 1
+        }
+      ],
+      "Kindred Most Wanted": [
+        {
+          "release_date": "2005-02-21",
+          "precon": "Gangrel antitribu",
+          "copies": 1
+        }
+      ],
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "precon": "Akunanse",
+          "copies": 2
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "precon": "Tzimisce",
+          "copies": 1
+        }
+      ],
+      "Lords of the Night": [
+        {
+          "release_date": "2007-09-26",
+          "precon": "Ravnos",
+          "copies": 1
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Uncommon"
+        }
+      ],
+      "New Blood": [
+        {
+          "release_date": "2022-04-17",
+          "precon": "Nosferatu",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/owlcompanion.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/owlcompanion.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/owlcompanion.jpg",
+      "Anarchs": "https://static.krcg.org/card/set/anarchs/owlcompanion.jpg",
+      "Black Hand": "https://static.krcg.org/card/set/black-hand/owlcompanion.jpg",
+      "Kindred Most Wanted": "https://static.krcg.org/card/set/kindred-most-wanted/owlcompanion.jpg",
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/owlcompanion.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/owlcompanion.jpg",
+      "Lords of the Night": "https://static.krcg.org/card/set/lords-of-the-night/owlcompanion.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/owlcompanion.jpg",
+      "New Blood": "https://static.krcg.org/card/set/new-blood/owlcompanion.jpg"
+    },
+    "artists": [
+      "L. A. Williams",
+      "Jeff Holt"
+    ],
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Camarilla Edition",
+      "Anarchs",
+      "Black Hand",
+      "Kindred Most Wanted",
+      "Legacies of Blood",
+      "Third Edition",
+      "Lords of the Night",
+      "Keepers of Tradition",
+      "New Blood"
+    ],
+    "legality": "1994-08-16",
+    "rulings": [
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      }
+    ],
+    "name": "Owl Companion",
+    "printed_name": "Owl Companion"
+  },
+  {
+    "id": 101484,
+    "_name": "Priestess of Sekhmet",
+    "url": "https://static.krcg.org/card/priestessofsekhmet.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Ministry"
+    ],
+    "card_text": "Mortal with 1 life.\nThis Follower of Set gets +1 bleed against a Methuselah who controls a ready Camarilla vampire. While the employer is bleeding, Camarilla vampires get -1 intercept. A vampire can have only one Priestess of Sekhmet.",
+    "_set": "FN:C2, POD:DTC",
+    "sets": {
+      "Final Nights": [
+        {
+          "release_date": "2001-06-11",
+          "rarity": "Common",
+          "frequency": 2
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Final Nights": "https://static.krcg.org/card/set/final-nights/priestessofsekhmet.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/priestessofsekhmet.jpg"
+    },
+    "artists": [
+      "Drew Tucker"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Final Nights"
+    ],
+    "legality": "2001-06-11",
+    "name": "Priestess of Sekhmet",
+    "printed_name": "Priestess of Sekhmet"
+  },
+  {
+    "id": 101545,
+    "_name": "Raptor",
+    "url": "https://static.krcg.org/card/raptor.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "ani"
+    ],
+    "card_text": "Animal with 1 life.\n[ani] The employer gets +1 intercept.\n[ANI] As above, and while the employer is in combat, the opposing minion's controller gets -1 hand size.",
+    "_set": "Sabbat:U, CE:U, Third:U, NB2:PG2",
+    "sets": {
+      "Sabbat": [
+        {
+          "release_date": "1996-10-28",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "rarity": "Uncommon"
+        }
+      ],
+      "New Blood II": [
+        {
+          "release_date": "2022-08-01",
+          "precon": "Gangrel",
+          "copies": 2
+        }
+      ]
+    },
+    "scans": {
+      "Sabbat": "https://static.krcg.org/card/set/sabbat/raptor.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/raptor.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/raptor.jpg",
+      "New Blood II": "https://static.krcg.org/card/set/new-blood-ii/raptor.jpg"
+    },
+    "artists": [
+      "Ron Spencer"
+    ],
+    "blood_cost": "2",
+    "flavor_text": "If you face more than a couple, you've got real trouble. Lambach and his flock held a pack of us at bay for months.\nGangrel, Worcester 2002 Storyline",
+    "ordered_sets": [
+      "Sabbat",
+      "Camarilla Edition",
+      "Third Edition",
+      "New Blood II"
+    ],
+    "legality": "1996-10-28",
+    "rulings": [
+      {
+        "text": "If combat ends and a new combat start (eg. [CEL] {Psyche!}), the opponent redraws and discard again. [LSJ 20030530]",
+        "references": [
+          {
+            "text": "[LSJ 20030530]",
+            "label": "LSJ 20030530",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/SZehI8SwAc4/m/shpyPIdsHxUJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Psyche!}",
+            "id": 101507,
+            "name": "Psyche!",
+            "usual_name": "Psyche!",
+            "vekn_name": "Psyche!"
+          }
+        ],
+        "symbols": [
+          {
+            "text": "[CEL]",
+            "symbol": "C"
+          }
+        ]
+      },
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      }
+    ],
+    "name": "Raptor",
+    "printed_name": "Raptor"
+  },
+  {
+    "_i18n": {
+      "fr": {
+        "name": "Corbeau espion",
+        "url": "https://static.krcg.org/card/fr/ravenspy.jpg",
+        "card_text": "Animal avec 1 point de vie.\n[ani] Son employeur reçoit +1 en interception.\n[ANI] Comme ci-dessus, mais le Corbeau espion a 2 points de vie.",
+        "sets": {
+          "Sabbat Preconstructed": "Préconstruits Sabbat",
+          "First Blood": "Premier Sang",
+          "Fifth Edition": "Cinquième édition",
+          "Fifth Edition (Anarch)": "Cinquième édition (Anarch)"
+        }
+      },
+      "es": {
+        "name": "Cuervo espía",
+        "url": "https://static.krcg.org/card/es/ravenspy.jpg",
+        "card_text": "Animal con 1 de vida.\n[ani] El empleador obtiene +1 de intercepción.\n[ANI] Como antes, pero el /Cuervo espía/ tiene 2 de vida.",
+        "sets": {
+          "Sabbat Preconstructed": "Preconstruidos Sabbat",
+          "First Blood": "Primera Sangre",
+          "Fifth Edition": "Quinta Edición",
+          "Fifth Edition (Anarch)": "Quinta Edición (Anarquista)"
+        }
+      }
+    },
+    "id": 101550,
+    "_name": "Raven Spy",
+    "url": "https://static.krcg.org/card/ravenspy.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "ani"
+    ],
+    "card_text": "Animal with 1 life.\n[ani] The employer gets +1 intercept.\n[ANI] As above, but Raven Spy has 2 life.",
+    "_set": "Jyhad:U, VTES:U, CE:U/PN, Anarchs:PG2, BH:PN3, KMW:PG, Third:PTz3/SKTz2, LotN:PR3, KoT:U, SP:DoF2, FB:PN2, V5:PN2, V5A:PG2, NB:PN2",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Uncommon"
+        },
+        {
+          "release_date": "2002-08-19",
+          "precon": "Nosferatu",
+          "copies": 1
+        }
+      ],
+      "Anarchs": [
+        {
+          "release_date": "2003-05-19",
+          "precon": "Gangrel",
+          "copies": 2
+        }
+      ],
+      "Black Hand": [
+        {
+          "release_date": "2003-11-17",
+          "precon": "Nosferatu antitribu",
+          "copies": 3
+        }
+      ],
+      "Kindred Most Wanted": [
+        {
+          "release_date": "2005-02-21",
+          "precon": "Gangrel antitribu",
+          "copies": 1
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "precon": "Tzimisce",
+          "copies": 3
+        },
+        {
+          "release_date": "2006-09-04",
+          "precon": "Starter Kit Tzimisce",
+          "copies": 2
+        }
+      ],
+      "Lords of the Night": [
+        {
+          "release_date": "2007-09-26",
+          "precon": "Ravnos",
+          "copies": 3
+        }
+      ],
+      "Keepers of Tradition": [
+        {
+          "release_date": "2008-11-19",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Sabbat Preconstructed": [
+        {
+          "release_date": "2019-02-16",
+          "precon": "Den of Fiends",
+          "copies": 2
+        }
+      ],
+      "First Blood": [
+        {
+          "release_date": "2019-10-01",
+          "precon": "Nosferatu",
+          "copies": 2
+        }
+      ],
+      "Fifth Edition": [
+        {
+          "release_date": "2020-11-30",
+          "precon": "Nosferatu",
+          "copies": 2
+        }
+      ],
+      "Fifth Edition (Anarch)": [
+        {
+          "release_date": "2021-12-01",
+          "precon": "Gangrel",
+          "copies": 2
+        }
+      ],
+      "New Blood": [
+        {
+          "release_date": "2022-04-17",
+          "precon": "Nosferatu",
+          "copies": 2
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/ravenspy.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/ravenspy.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/ravenspy.jpg",
+      "Anarchs": "https://static.krcg.org/card/set/anarchs/ravenspy.jpg",
+      "Black Hand": "https://static.krcg.org/card/set/black-hand/ravenspy.jpg",
+      "Kindred Most Wanted": "https://static.krcg.org/card/set/kindred-most-wanted/ravenspy.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/ravenspy.jpg",
+      "Lords of the Night": "https://static.krcg.org/card/set/lords-of-the-night/ravenspy.jpg",
+      "Keepers of Tradition": "https://static.krcg.org/card/set/keepers-of-tradition/ravenspy.jpg",
+      "Sabbat Preconstructed": "https://static.krcg.org/card/set/sabbat-preconstructed/ravenspy.jpg",
+      "First Blood": "https://static.krcg.org/card/set/first-blood/ravenspy.jpg",
+      "Fifth Edition": "https://static.krcg.org/card/set/fifth-edition/ravenspy.jpg",
+      "Fifth Edition (Anarch)": "https://static.krcg.org/card/set/fifth-edition-anarch/ravenspy.jpg",
+      "New Blood": "https://static.krcg.org/card/set/new-blood/ravenspy.jpg"
+    },
+    "artists": [
+      "Dan Frazier",
+      "Jeff Holt"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Camarilla Edition",
+      "Anarchs",
+      "Black Hand",
+      "Kindred Most Wanted",
+      "Third Edition",
+      "Lords of the Night",
+      "Keepers of Tradition",
+      "Sabbat Preconstructed",
+      "First Blood",
+      "Fifth Edition",
+      "Fifth Edition (Anarch)",
+      "New Blood"
+    ],
+    "legality": "1994-08-16",
+    "rulings": [
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      }
+    ],
+    "name": "Raven Spy",
+    "printed_name": "Raven Spy"
+  },
+  {
+    "id": 101556,
+    "_name": "Razor Bat",
+    "url": "https://static.krcg.org/card/razorbat.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Gargoyle"
+    ],
+    "card_text": "Gargoyle creature with 2 life.\nThe Gargoyle with this retainer gets +1 intercept. When the Gargoyle with this retainer is in combat, the opposing minion takes 1R damage during the initial strike resolution phase of each round, at long or close range.",
+    "_set": "BL:C1, LoB:C, HttB:PGar3",
+    "sets": {
+      "Bloodlines": [
+        {
+          "release_date": "2001-12-03",
+          "rarity": "Common",
+          "frequency": 1
+        }
+      ],
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "rarity": "Common"
+        }
+      ],
+      "Heirs to the Blood": [
+        {
+          "release_date": "2010-02-03",
+          "precon": "Gargoyles",
+          "copies": 3
+        }
+      ]
+    },
+    "scans": {
+      "Bloodlines": "https://static.krcg.org/card/set/bloodlines/razorbat.jpg",
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/razorbat.jpg",
+      "Heirs to the Blood": "https://static.krcg.org/card/set/heirs-to-the-blood/razorbat.jpg"
+    },
+    "artists": [
+      "Jeff Holt"
+    ],
+    "pool_cost": "2",
+    "flavor_text": "But as I approached the window, this... winged rat erupted in a tempest of chittering and flapping, alerting the Tremere and scratching at my back.\nChristanius Lionel, Nosferatu antitribu",
+    "ordered_sets": [
+      "Bloodlines",
+      "Legacies of Blood",
+      "Heirs to the Blood"
+    ],
+    "legality": "2001-12-03",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      }
+    ],
+    "name": "Razor Bat",
+    "printed_name": "Razor Bat"
+  },
+  {
+    "id": 101576,
+    "_name": "Redcap Wilder",
+    "url": "https://static.krcg.org/card/redcapwilder.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "myt"
+    ],
+    "card_text": "Changeling with 2 life.\n[myt] Vampires with capacity less than 7 must burn a blood to attempt to block the minion with this retainer.\n[MYT] As above, but the cost to employ this retainer is reduced by 1 blood.",
+    "_set": "LoB:R",
+    "sets": {
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/redcapwilder.jpg"
+    },
+    "artists": [
+      "James Stowe"
+    ],
+    "blood_cost": "2",
+    "ordered_sets": [
+      "Legacies of Blood"
+    ],
+    "legality": "2005-11-14",
+    "name": "Redcap Wilder",
+    "printed_name": "Redcap Wilder"
+  },
+  {
+    "id": 101612,
+    "_name": "Resplendent Protector",
+    "url": "https://static.krcg.org/card/resplendentprotector.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Toreador"
+    ],
+    "card_text": "Mortal with 1 life.\nThe minion with this retainer may prevent 1 damage each combat.",
+    "_set": "Jyhad:R2, VTES:R, CE:R",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/resplendentprotector.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/resplendentprotector.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/resplendentprotector.jpg"
+    },
+    "artists": [
+      "Michael Weaver",
+      "Kieran Yanner"
+    ],
+    "flavor_text": "Graunt that no Hobgoblins fright me,\nNo hungrie devils rise up and bite me.\nJohn Day, 17th c. prayer",
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Camarilla Edition"
+    ],
+    "legality": "1994-08-16",
+    "name": "Resplendent Protector",
+    "printed_name": "Resplendent Protector"
+  },
+  {
+    "id": 101628,
+    "_name": "Revenant",
+    "url": "https://static.krcg.org/card/revenant.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Tzimisce"
+    ],
+    "card_text": "Ghoul with 2 life.\nThe employer gets +1 intercept.",
+    "_set": "Sabbat:U, SW:PT, Third:U/PTz/SKTz1, POD:DTC, V5C:PTz3",
+    "sets": {
+      "Sabbat": [
+        {
+          "release_date": "1996-10-28",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Sabbat War": [
+        {
+          "release_date": "2000-10-31",
+          "precon": "Tzimisce",
+          "copies": 1
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "rarity": "Uncommon"
+        },
+        {
+          "release_date": "2006-09-04",
+          "precon": "Tzimisce",
+          "copies": 1
+        },
+        {
+          "release_date": "2006-09-04",
+          "precon": "Starter Kit Tzimisce",
+          "copies": 1
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ],
+      "Fifth Edition (Companion)": [
+        {
+          "release_date": "2024-01-01",
+          "precon": "Tzimisce",
+          "copies": 3
+        }
+      ]
+    },
+    "scans": {
+      "Sabbat": "https://static.krcg.org/card/set/sabbat/revenant.jpg",
+      "Sabbat War": "https://static.krcg.org/card/set/sabbat-war/revenant.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/revenant.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/revenant.jpg",
+      "Fifth Edition (Companion)": "https://static.krcg.org/card/set/fifth-edition-companion/revenant.jpg"
+    },
+    "artists": [
+      "Pete Venters"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Sabbat",
+      "Sabbat War",
+      "Third Edition",
+      "Fifth Edition (Companion)"
+    ],
+    "legality": "1996-10-28",
+    "rulings": [
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Revenant",
+    "printed_name": "Revenant"
+  },
+  {
+    "id": 101644,
+    "_name": "Robert Carter",
+    "url": "https://static.krcg.org/card/robertcarter.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Unique ghoul with 1 life.\nDuring your unlock phase, Carter's employer burns 1 blood, or Carter is burned. The vampire with this retainer gets +2 bleed.",
+    "_set": "Gehenna:R, Third:PTr",
+    "sets": {
+      "Gehenna": [
+        {
+          "release_date": "2004-05-17",
+          "rarity": "Rare"
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "precon": "Tremere antitribu",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Gehenna": "https://static.krcg.org/card/set/gehenna/robertcarter.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/robertcarter.jpg"
+    },
+    "artists": [
+      "Lawrence Snelly"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Gehenna",
+      "Third Edition"
+    ],
+    "legality": "2004-05-17",
+    "rulings": [
+      {
+        "text": "Ghouls are monsters, not mortal. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Ghoul"
+      }
+    ],
+    "name": "Robert Carter",
+    "printed_name": "Robert Carter"
+  },
+  {
+    "id": 101734,
+    "_name": "Shade",
+    "url": "https://static.krcg.org/card/shade.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "obt"
+    ],
+    "card_text": "Demon with 2 life.\n[obt] Shade inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range.\n[OBT] As above, but Shade has 3 life.",
+    "_set": "Sabbat:U, SW:PL, POD:DTC",
+    "sets": {
+      "Sabbat": [
+        {
+          "release_date": "1996-10-28",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Sabbat War": [
+        {
+          "release_date": "2000-10-31",
+          "precon": "Lasombra",
+          "copies": 1
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Sabbat": "https://static.krcg.org/card/set/sabbat/shade.jpg",
+      "Sabbat War": "https://static.krcg.org/card/set/sabbat-war/shade.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/shade.jpg"
+    },
+    "artists": [
+      "Stuart Beel"
+    ],
+    "blood_cost": "1",
+    "flavor_text": "Yet even your darkest shade a canvas forms\nWhereon my eye must multiply in swarms\nFamiliar looks of shapes no longer there.\nCharles Baudelaire, \"Obsession\"",
+    "ordered_sets": [
+      "Sabbat",
+      "Sabbat War"
+    ],
+    "legality": "1996-10-28",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      }
+    ],
+    "name": "Shade",
+    "printed_name": "Shade"
+  },
+  {
+    "id": 101750,
+    "_name": "Shaman",
+    "url": "https://static.krcg.org/card/shaman.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Unique mage with 2 life. Requires a ready Laibon.\nThis Laibon has +1 intercept. When acting, this Laibon can shuffle this retainer back into his owner's library to get +1 stealth.",
+    "_set": "LoB:R",
+    "sets": {
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/shaman.jpg"
+    },
+    "artists": [
+      "Jeremy McHugh"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Legacies of Blood"
+    ],
+    "legality": "2005-11-14",
+    "name": "Shaman",
+    "printed_name": "Shaman"
+  },
+  {
+    "id": 101853,
+    "_name": "Spiritual Protector",
+    "url": "https://static.krcg.org/card/spiritualprotector.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Giovanni"
+    ],
+    "card_text": "Unique wraith with 1 life.\nSpiritual Protector is immune to non-aggravated damage. Minions blocking or blocked by the employer cannot use equipment during the resulting combat.",
+    "_set": "DS:C2, Tenth:B, POD:DTC",
+    "sets": {
+      "Dark Sovereigns": [
+        {
+          "release_date": "1995-12-15",
+          "rarity": "Common",
+          "frequency": 2
+        }
+      ],
+      "Tenth Anniversary": [
+        {
+          "release_date": "2004-12-13",
+          "precon": "Tin B",
+          "copies": 1
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Dark Sovereigns": "https://static.krcg.org/card/set/dark-sovereigns/spiritualprotector.jpg",
+      "Tenth Anniversary": "https://static.krcg.org/card/set/tenth-anniversary/spiritualprotector.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/spiritualprotector.jpg"
+    },
+    "artists": [
+      "Max Shade Fellwalker"
+    ],
+    "blood_cost": "3",
+    "ordered_sets": [
+      "Dark Sovereigns",
+      "Tenth Anniversary"
+    ],
+    "legality": "1995-12-15",
+    "rulings": [
+      {
+        "text": "Does not restrict the opposing minion if no block occurred. [TOM 19951208-2]",
+        "references": [
+          {
+            "text": "[TOM 19951208-2]",
+            "label": "TOM 19951208-2",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/UqLxnP1C_Wg/m/yZRM6DLarm4J"
+          }
+        ]
+      },
+      {
+        "text": "Does not restrict the ability of retainers to use equipment. [RTR 19960112]",
+        "references": [
+          {
+            "text": "[RTR 19960112]",
+            "label": "RTR 19960112",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/d3n3StNS7no/m/k2NmZFUl9fAJ"
+          }
+        ]
+      },
+      {
+        "text": "Immune means damage is not inflicted, even if non-preventable or outside combat. [LSJ 20010627] [LSJ 20010629] [LSJ 20090304-1]",
+        "references": [
+          {
+            "text": "[LSJ 20010627]",
+            "label": "LSJ 20010627",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/NhNCVCCDyU0/m/I5Yph3-UUPsJ"
+          },
+          {
+            "text": "[LSJ 20010629]",
+            "label": "LSJ 20010629",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/MhHKBY7II78/m/EyI_ise9M-kJ"
+          },
+          {
+            "text": "[LSJ 20090304-1]",
+            "label": "LSJ 20090304-1",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/B7EQiAVOr1Q/m/gg-GkqQBRp8J"
+          }
+        ],
+        "group": "Immune to damage"
+      }
+    ],
+    "name": "Spiritual Protector",
+    "printed_name": "Spiritual Protector"
+  },
+  {
+    "id": 101873,
+    "_name": "Stone Dog",
+    "url": "https://static.krcg.org/card/stonedog.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Gargoyle"
+    ],
+    "card_text": "Gargoyle creature with 4 life.\nThe Gargoyle with this retainer can enter combat with a ready minion controlled by another Methuselah as a Ⓓ action. When the Gargoyle with this retainer is in combat, the opposing minion takes 1 damage during the initial strike resolution phase of each round when the range is close.",
+    "_set": "BL:R2, LoB:R",
+    "sets": {
+      "Bloodlines": [
+        {
+          "release_date": "2001-12-03",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    "scans": {
+      "Bloodlines": "https://static.krcg.org/card/set/bloodlines/stonedog.jpg",
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/stonedog.jpg"
+    },
+    "artists": [
+      "Mike Danza"
+    ],
+    "pool_cost": "3",
+    "flavor_text": "Be on your guard against a silent dog and still water.\nLatin proverb",
+    "ordered_sets": [
+      "Bloodlines",
+      "Legacies of Blood"
+    ],
+    "legality": "2001-12-03",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "The action provided by this card is considered to be an action requiring the listed clan/sect/capacity/title (e.g. the action provided by {Open War} is considered an action that requires an Anarch, the action provided by {The Gate of Acheron} is considered an action that requires Hecata). [LSJ 20080604]",
+        "references": [
+          {
+            "text": "[LSJ 20080604]",
+            "label": "LSJ 20080604",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/9usl4idp-pY/m/NMUFLXR3LZEJ"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Open War}",
+            "id": 101324,
+            "name": "Open War",
+            "usual_name": "Open War",
+            "vekn_name": "Open War"
+          },
+          {
+            "text": "{The Gate of Acheron}",
+            "id": 102290,
+            "name": "The Gate of Acheron",
+            "usual_name": "The Gate of Acheron",
+            "vekn_name": "Gate of Acheron, The"
+          }
+        ],
+        "group": "Action requirements from a card in play"
+      }
+    ],
+    "name": "Stone Dog",
+    "printed_name": "Stone Dog"
+  },
+  {
+    "id": 101914,
+    "_name": "Swarm",
+    "url": "https://static.krcg.org/card/swarm.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Animal with 1 life. Requires a ready Laibon.\nPut the Swarm on any ready minion (employing the Swarm is a +1 stealth Ⓓ action if that minion is controlled by another Methuselah). If this action is blocked, put the Swarm on the acting minion instead (no cost is paid). During this minion's unlock phase, if the Swarm has more than 1 life, it burns a life; otherwise, it steals 1 blood or life from this minion. A minion may have only one Swarm.",
+    "_set": "LoB:C",
+    "sets": {
+      "Legacies of Blood": [
+        {
+          "release_date": "2005-11-14",
+          "rarity": "Common"
+        }
+      ]
+    },
+    "scans": {
+      "Legacies of Blood": "https://static.krcg.org/card/set/legacies-of-blood/swarm.jpg"
+    },
+    "artists": [
+      "Brian LeBlanc"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Legacies of Blood"
+    ],
+    "legality": "2005-11-14",
+    "rulings": [
+      {
+        "text": "If the action to employ the Swarm is blocked, the Swarm goes on the acting minion immediately, before combat, if any. [LSJ 20090601]",
+        "references": [
+          {
+            "text": "[LSJ 20090601]",
+            "label": "LSJ 20090601",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bKo8zb6lBeU/m/R6rVeXZN8DUJ"
+          }
+        ]
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      },
+      {
+        "text": "The option to place the card on another minion can only be used when playing the card normally; for any other action or put into play effect, the card is placed on the playing minion. [LSJ 20090824] [LSJ 20051121]",
+        "references": [
+          {
+            "text": "[LSJ 20090824]",
+            "label": "LSJ 20090824",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vWBysQ7L4fM/m/SA1wFRHusXAJ"
+          },
+          {
+            "text": "[LSJ 20051121]",
+            "label": "LSJ 20051121",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/51XITiJtdjo/m/A9jSHsxBX8QJ"
+          }
+        ],
+        "group": "Retainers and equipment put on different minion"
+      },
+      {
+        "text": "The type of the action (equip/employ) does not change regardless of the target. [ANK 20230408] [LSJ 20050313]",
+        "references": [
+          {
+            "text": "[ANK 20230408]",
+            "label": "ANK 20230408",
+            "url": "https://www.vekn.net/forum/rules-questions/80438-the-british-museum-london-bloodstone#107810"
+          },
+          {
+            "text": "[LSJ 20050313]",
+            "label": "LSJ 20050313",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/eSShNquHnXI/m/4H7zIau2DjoJ"
+          }
+        ],
+        "group": "Retainers and equipment put on different minion"
+      },
+      {
+        "text": "If the action is blocked, *all* effects that would be triggered by a successful block (eg. {Banshee Ironwail}) must be applied (ordered by the acting Methuselah).  Other effects and modifiers (eg. {Crypt's Sons}, {Change of Target}) can only be used after all triggered effects have been handled. [ANK 20220116] [ANK 20211207] [ANK 20210627]",
+        "references": [
+          {
+            "text": "[ANK 20220116]",
+            "label": "ANK 20220116",
+            "url": "https://www.vekn.net/forum/rules-questions/79600-unleash-hell-s-fury-and-other-delayed-triggered-effects#104488"
+          },
+          {
+            "text": "[ANK 20211207]",
+            "label": "ANK 20211207",
+            "url": "https://www.vekn.net/forum/rules-questions/79528-crypt-s-sons-versus-unleash-hell-s-fury?start=6#104139"
+          },
+          {
+            "text": "[ANK 20210627]",
+            "label": "ANK 20210627",
+            "url": "https://www.vekn.net/forum/rules-questions/79192-mirror-walk-and-slave?start=12#102578"
+          }
+        ],
+        "cards": [
+          {
+            "text": "{Banshee Ironwail}",
+            "id": 100133,
+            "name": "Banshee Ironwail",
+            "usual_name": "Banshee Ironwail",
+            "vekn_name": "Banshee Ironwail"
+          },
+          {
+            "text": "{Crypt's Sons}",
+            "id": 100476,
+            "name": "Crypt's Sons",
+            "usual_name": "Crypt's Sons",
+            "vekn_name": "Crypt's Sons"
+          },
+          {
+            "text": "{Change of Target}",
+            "id": 100323,
+            "name": "Change of Target",
+            "usual_name": "Change of Target",
+            "vekn_name": "Change of Target"
+          }
+        ],
+        "group": "Triggered by block"
+      }
+    ],
+    "name": "Swarm",
+    "printed_name": "Swarm"
+  },
+  {
+    "id": 102360,
+    "_name": "Szlachta Assistant",
+    "url": "https://static.krcg.org/card/szlachtaassistant.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Tzimisce"
+    ],
+    "card_text": "Ghoul with 2 life.\nThe employer can burn this retainer to reduce the cost of a ghoul ally requiring a Tzimisce they recruit by 2 blood or pool.",
+    "_set": "NB3C:PT4",
+    "sets": {
+      "New Blood III": [
+        {
+          "release_date": "2026-02-28",
+          "precon": "Tzimisce",
+          "copies": 4
+        }
+      ]
+    },
+    "scans": {
+      "New Blood III": "https://static.krcg.org/card/set/new-blood-iii/szlachtaassistant.jpg"
+    },
+    "artists": [
+      "Felipe Headley"
+    ],
+    "ordered_sets": [
+      "New Blood III"
+    ],
+    "legality": "2026-02-28",
+    "name": "Szlachta Assistant",
+    "printed_name": "Szlachta Assistant"
+  },
+  {
+    "id": 102361,
+    "_name": "Szlachta Bodyguard",
+    "url": "https://static.krcg.org/card/szlachtabodyguard.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Tzimisce"
+    ],
+    "card_text": "Ghoul with 2 life.\nThe employer can lock this retainer to prevent 1 damage in combat. You can burn this retainer to have an action directed at a minion you control fail.",
+    "_set": "NB3C:PT2",
+    "sets": {
+      "New Blood III": [
+        {
+          "release_date": "2026-02-28",
+          "precon": "Tzimisce",
+          "copies": 2
+        }
+      ]
+    },
+    "scans": {
+      "New Blood III": "https://static.krcg.org/card/set/new-blood-iii/szlachtabodyguard.jpg"
+    },
+    "artists": [
+      "Pablo D. Hidalgo"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "New Blood III"
+    ],
+    "legality": "2026-02-28",
+    "name": "Szlachta Bodyguard",
+    "printed_name": "Szlachta Bodyguard"
+  },
+  {
+    "id": 101943,
+    "_name": "Tasha Morgan",
+    "url": "https://static.krcg.org/card/tashamorgan.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Unique mortal with 1 life.\nThe employer gets +1 bleed.",
+    "_set": "Jyhad:R2, VTES:R, SW:R, CE:R2, Promo-20250620",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Rare"
+        }
+      ],
+      "Sabbat War": [
+        {
+          "release_date": "2000-10-31",
+          "rarity": "Rare"
+        }
+      ],
+      "Camarilla Edition": [
+        {
+          "release_date": "2002-08-19",
+          "rarity": "Rare",
+          "frequency": 2
+        }
+      ],
+      "2025 CC Promo": [
+        {
+          "release_date": "2025-06-20",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/tashamorgan.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/tashamorgan.jpg",
+      "Sabbat War": "https://static.krcg.org/card/set/sabbat-war/tashamorgan.jpg",
+      "Camarilla Edition": "https://static.krcg.org/card/set/camarilla-edition/tashamorgan.jpg",
+      "2025 CC Promo": "https://static.krcg.org/card/set/promo/tashamorgan.jpg"
+    },
+    "artists": [
+      "Chris McLoughlin",
+      "Christopher Rush"
+    ],
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Sabbat War",
+      "Camarilla Edition",
+      "2025 CC Promo"
+    ],
+    "legality": "1994-08-16",
+    "name": "Tasha Morgan",
+    "printed_name": "Tasha Morgan"
+  },
+  {
+    "id": 102344,
+    "_name": "Twisted Bloodhound",
+    "url": "https://static.krcg.org/card/twistedbloodhound.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "card_text": "Ghoul with 3 life.\nThe employer can enter combat with a minion as a Ⓓ action.",
+    "_set": "SV5:PCaine2",
+    "sets": {
+      "Sabbat V5": [
+        {
+          "release_date": "2025-10-26",
+          "precon": "Path of Caine",
+          "copies": 2
+        }
+      ]
+    },
+    "scans": {
+      "Sabbat V5": "https://static.krcg.org/card/set/sabbat-v5/twistedbloodhound.jpg"
+    },
+    "artists": [
+      "Peter Scholtz"
+    ],
+    "pool_cost": "1",
+    "flavor_text": "It was not a pure bloodhound and it was not a pure mastiff; but it appeared to be a combination of the two—gaunt, savage, and as large as a small lioness...\nArthur Conan Doyle, \"The Hound of the Baskervilles\"",
+    "ordered_sets": [
+      "Sabbat V5"
+    ],
+    "legality": "2025-10-26",
+    "name": "Twisted Bloodhound",
+    "printed_name": "Twisted Bloodhound"
+  },
+  {
+    "id": 102107,
+    "_name": "Vengeful Spirit",
+    "url": "https://static.krcg.org/card/vengefulspirit.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Harbinger of Skulls"
+    ],
+    "card_text": "Wraith with 2 life.\nThe employer gets +1 bleed. Vengeful Spirit inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range.",
+    "_set": "LK:4",
+    "sets": {
+      "Lost Kindred": [
+        {
+          "release_date": "2018-06-09",
+          "copies": 4
+        }
+      ]
+    },
+    "scans": {
+      "Lost Kindred": "https://static.krcg.org/card/set/lost-kindred/vengefulspirit.jpg"
+    },
+    "artists": [
+      "Ginés Quiñonero-Santiago"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Lost Kindred"
+    ],
+    "legality": "2018-06-09",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      }
+    ],
+    "name": "Vengeful Spirit",
+    "printed_name": "Vengeful Spirit"
+  },
+  {
+    "id": 102191,
+    "_name": "Wolf Companion",
+    "url": "https://static.krcg.org/card/wolfcompanion.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "disciplines": [
+      "ani"
+    ],
+    "card_text": "Animal with 2 life.\n[ani] When the minion with this retainer is in combat, the opposing minion takes 1 damage during strike resolution (if the range is close).\n[ANI] As above, but Wolf Companion has 3 life.",
+    "_set": "Jyhad:U2, VTES:U, Sabbat:U, SW:PT, KMW:PG, Third:PTz2/SKTz1",
+    "sets": {
+      "Jyhad": [
+        {
+          "release_date": "1994-08-16",
+          "rarity": "Uncommon",
+          "frequency": 2
+        }
+      ],
+      "Vampire: The Eternal Struggle": [
+        {
+          "release_date": "1995-09-15",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Sabbat": [
+        {
+          "release_date": "1996-10-28",
+          "rarity": "Uncommon"
+        }
+      ],
+      "Sabbat War": [
+        {
+          "release_date": "2000-10-31",
+          "precon": "Tzimisce",
+          "copies": 1
+        }
+      ],
+      "Kindred Most Wanted": [
+        {
+          "release_date": "2005-02-21",
+          "precon": "Gangrel antitribu",
+          "copies": 1
+        }
+      ],
+      "Third Edition": [
+        {
+          "release_date": "2006-09-04",
+          "precon": "Tzimisce",
+          "copies": 2
+        },
+        {
+          "release_date": "2006-09-04",
+          "precon": "Starter Kit Tzimisce",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Jyhad": "https://static.krcg.org/card/set/jyhad/wolfcompanion.jpg",
+      "Vampire: The Eternal Struggle": "https://static.krcg.org/card/set/vampire-the-eternal-struggle/wolfcompanion.jpg",
+      "Sabbat": "https://static.krcg.org/card/set/sabbat/wolfcompanion.jpg",
+      "Sabbat War": "https://static.krcg.org/card/set/sabbat-war/wolfcompanion.jpg",
+      "Kindred Most Wanted": "https://static.krcg.org/card/set/kindred-most-wanted/wolfcompanion.jpg",
+      "Third Edition": "https://static.krcg.org/card/set/third-edition/wolfcompanion.jpg"
+    },
+    "artists": [
+      "Melissa Benson",
+      "Zina Saunders"
+    ],
+    "blood_cost": "1",
+    "flavor_text": "It is you -- my equal, my companion and close friend.\nPsalms 55:13 (NLT)",
+    "ordered_sets": [
+      "Jyhad",
+      "Vampire: The Eternal Struggle",
+      "Sabbat",
+      "Sabbat War",
+      "Kindred Most Wanted",
+      "Third Edition"
+    ],
+    "legality": "1994-08-16",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "The discipline level used to recruit it decides which version it is (inferior or superior). This does not change once it is in play. [RTR 19941109] [ANK 20180612]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          }
+        ],
+        "group": "Retainer with discipline level"
+      },
+      {
+        "text": "Is neither a mortal nor a monster. [ANK 20200203-2] [LSJ 20060515]",
+        "references": [
+          {
+            "text": "[ANK 20200203-2]",
+            "label": "ANK 20200203-2",
+            "url": "https://www.vekn.net/forum/rules-questions/78415-is-ghoul-mortal#98872"
+          },
+          {
+            "text": "[LSJ 20060515]",
+            "label": "LSJ 20060515",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bzusnKlnYr8/m/OSMvzE7YjokJ"
+          }
+        ],
+        "group": "Animal"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      }
+    ],
+    "name": "Wolf Companion",
+    "printed_name": "Wolf Companion"
+  },
+  {
+    "id": 102210,
+    "_name": "Zombie",
+    "url": "https://static.krcg.org/card/zombie.jpg",
+    "types": [
+      "Retainer"
+    ],
+    "clans": [
+      "Giovanni"
+    ],
+    "card_text": "Zombie with 2 life.\nZombie inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range. This vampire can burn this retainer to gain 2 blood as a +1 stealth action.",
+    "_set": "DS:C2, FN:PG, POD:DTC",
+    "sets": {
+      "Dark Sovereigns": [
+        {
+          "release_date": "1995-12-15",
+          "rarity": "Common",
+          "frequency": 2
+        }
+      ],
+      "Final Nights": [
+        {
+          "release_date": "2001-06-11",
+          "precon": "Giovanni",
+          "copies": 1
+        }
+      ],
+      "Print on Demand": [
+        {
+          "precon": "DriveThruCards",
+          "copies": 1
+        }
+      ]
+    },
+    "scans": {
+      "Dark Sovereigns": "https://static.krcg.org/card/set/dark-sovereigns/zombie.jpg",
+      "Final Nights": "https://static.krcg.org/card/set/final-nights/zombie.jpg",
+      "Print on Demand": "https://static.krcg.org/card/set/print-on-demand/zombie.jpg"
+    },
+    "artists": [
+      "Daniel Gelon"
+    ],
+    "blood_cost": "1",
+    "ordered_sets": [
+      "Dark Sovereigns",
+      "Final Nights"
+    ],
+    "legality": "1995-12-15",
+    "rulings": [
+      {
+        "text": "The damage is environmental, the retainer is the damage source. Immunity to retainer or retainer type works against it. [ANK 20180612] [ANK 20211127]",
+        "references": [
+          {
+            "text": "[ANK 20180612]",
+            "label": "ANK 20180612",
+            "url": "https://www.vekn.net/forum/rules-questions/76717-retainers-damage-and-disciplines#88129"
+          },
+          {
+            "text": "[ANK 20211127]",
+            "label": "ANK 20211127",
+            "url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=6#104017"
+          }
+        ],
+        "group": "Retainer doing damage"
+      },
+      {
+        "text": "Damage is inflicted even against a dodge. A \"strike: combat ends\" ends combat before damage is applied, as will a combattant going to torpor during first strike. [RTR 19941109] [TOM 19951216] [PIB 20140324] [ANK 20200422]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          },
+          {
+            "text": "[TOM 19951216]",
+            "label": "TOM 19951216",
+            "url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0G-jqB_fcyE/m/8jUhfCXRtPUJ"
+          },
+          {
+            "text": "[PIB 20140324]",
+            "label": "PIB 20140324",
+            "url": "https://www.vekn.net/forum/rules-questions/60259-carrion-crows-first-strike-strikes-not-anaesthetic-touch?start=0#60260"
+          },
+          {
+            "text": "[ANK 20200422]",
+            "label": "ANK 20200422",
+            "url": "https://www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680"
+          }
+        ],
+        "group": "Environmental damage"
+      },
+      {
+        "text": "Does not gain additional strikes from its owner. [RTR 19941109]",
+        "references": [
+          {
+            "text": "[RTR 19941109]",
+            "label": "RTR 19941109",
+            "url": "https://groups.google.com/d/msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ"
+          }
+        ],
+        "group": "Retainer that strike"
+      }
+    ],
+    "name": "Zombie",
+    "printed_name": "Zombie"
+  }
+]
