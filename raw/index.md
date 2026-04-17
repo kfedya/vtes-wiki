@@ -24,9 +24,29 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
 
 ## Sources
 
-_(No sources ingested yet. First entry will be appended here.)_
-
 ### Rulebooks
+
+## src-001 — VTES Fifth Edition Rulebook (EN)
+- type: rulebook
+- date: 2023-10-01
+- author_or_channel: Black Chantry Productions
+- topic: Official Fifth Edition rulebook v1.1 — components, card types, turn sequence, sects, glossary, FAQ/rulings, quick reference. 56 pages.
+- url: https://blackchantry.com/Vampire%20The%20Eternal%20Struggle%20Fifth%20Edition%20rulebook%20ENG.pdf
+- added: 2026-04-17
+- pages_touched:
+  - wiki/rulings/game-overview.md
+  - wiki/entities/card-types/crypt.md
+  - wiki/entities/card-types/library.md
+  - wiki/entities/card-types/master.md
+  - wiki/entities/card-types/action.md
+  - wiki/entities/card-types/action-modifier.md
+  - wiki/entities/card-types/reaction.md
+  - wiki/entities/card-types/combat-card.md
+  - wiki/entities/card-types/political-action.md
+  - wiki/entities/card-types/ally.md
+  - wiki/entities/card-types/retainer.md
+  - wiki/entities/card-types/equipment.md
+
 ### Rulings
 ### krcg snapshots
 ### Articles

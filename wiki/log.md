@@ -12,3 +12,5 @@ Append-only chronology of wiki activity. Each entry starts with `## [YYYY-MM-DD]
 ---
 
 ## [2026-04-17] init | Wiki scaffolded from brainstorm spec (docs/superpowers/specs/2026-04-17-vtes-wiki-design.md)
+
+## [2026-04-17] ingest src-001 | VTES 5E Rulebook — stage 1 foundations (pp. 1–16) — touched 12 pages
