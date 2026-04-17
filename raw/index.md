@@ -35,6 +35,23 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
 - added: 2026-04-17
 - pages_touched:
   - wiki/rulings/game-overview.md
+  - wiki/rulings/unlock-phase.md
+  - wiki/rulings/master-phase.md
+  - wiki/rulings/minion-phase.md
+  - wiki/rulings/bleed.md
+  - wiki/rulings/hunt.md
+  - wiki/rulings/equip.md
+  - wiki/rulings/employ-retainer.md
+  - wiki/rulings/recruit-ally.md
+  - wiki/rulings/leave-torpor.md
+  - wiki/rulings/rescue-from-torpor.md
+  - wiki/rulings/diablerise-action.md
+  - wiki/rulings/become-anarch.md
+  - wiki/rulings/block-resolution.md
+  - wiki/rulings/politics.md
+  - wiki/rulings/political-action.md
+  - wiki/rulings/referendum.md
+  - wiki/rulings/voting.md
   - wiki/entities/card-types/crypt.md
   - wiki/entities/card-types/library.md
   - wiki/entities/card-types/master.md
@@ -42,7 +59,7 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/entities/card-types/action-modifier.md
   - wiki/entities/card-types/reaction.md
   - wiki/entities/card-types/combat-card.md
-  - wiki/entities/card-types/political-action.md
+  - wiki/entities/card-types/political-action-card.md
   - wiki/entities/card-types/ally.md
   - wiki/entities/card-types/retainer.md
   - wiki/entities/card-types/equipment.md

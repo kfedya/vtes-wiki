@@ -25,7 +25,7 @@ Minion card sub-types covered by this wiki:
 - [[action-modifier]] — tweak an in-progress action.
 - [[reaction]] — respond to another Methuselah's action.
 - [[combat-card]] — used inside combat (strikes, maneuvers, etc.).
-- [[political-action]] — call a referendum as an action (vampires only).
+- [[political-action-card]] — call a referendum as an action (vampires only).
 - [[ally]] — put a non-vampire minion into play.
 - [[equipment]] — attach to the acting minion.
 - [[retainer]] — attach to the acting minion, has its own life.
