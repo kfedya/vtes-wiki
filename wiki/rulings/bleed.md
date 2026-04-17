@@ -52,12 +52,18 @@ No. The action is "successful" (resolved unblocked), but the bleed itself is not
 **A locked vampire under a wake effect (On the Qui Vive) — can they play Deflection?**
 Yes, even at basic. Deflection at basic will lock them — but they are already locked, so the lock has no further effect — and redirect the bleed [src-001 p. 48].
 
+## Action-Announcement Choice: Basic vs Superior
+Some bleed-enabling cards let the acting vampire choose **at announcement** which version of the action they take. You **cannot do both at the same time**:
+- [Enchant Kindred](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Enchant%20Kindred) / [Govern the Unaligned](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Govern%20the%20Unaligned) — basic = bleed at 0 stealth; superior = give blood at 1 stealth. Choose when the action is announced [src-001 p. 48].
+- If the vampire unlocks (via Freak Drive / Majesty) and takes another action, they **cannot play the same card again this turn**, even at a different level [src-001 pp. 48–49].
+
 ## Common Cards Involved
 - [Conditioning](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Conditioning) — Dominate modifier, "(limited)" bleed increase; see [Aire of Elation ruling](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aire%20of%20Elation).
-- [Deflection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deflection) — redirect the bleed; see also [[reaction]] and "change of target reopens blocks".
+- [Deflection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deflection) — redirect the bleed; see also [[reaction]] and [[target-redirection]].
 - [Telepathic Misdirection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Telepathic%20Misdirection) — See Deflection.
-- [Spying Mission](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Spying%20Mission) — superior playable only after the bleed is known to succeed for 1+ (i.e., after reductions/redirects resolve) [src-001 p. 51].
+- [Spying Mission](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Spying%20Mission) — superior playable only after the bleed is known to succeed for 1+ (i.e., after reductions/redirects resolve) [src-001 p. 51]. If the acting vampire already has a Spying Mission, the previous copy stays and the new one stacks — next successful bleed vs the same Methuselah increases by 2 per copy [src-001 p. 51].
 - [Foreshadowing Destruction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Foreshadowing%20Destruction) — quirk: against a target with ≥ 10 pool it is "lingering" and does **not** count as increasing the bleed that action; a limited modifier can still be played [src-001 p. 49].
+- [Enchant Kindred](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Enchant%20Kindred) / [Govern the Unaligned](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Govern%20the%20Unaligned) — basic vs superior chosen at announcement; once per vampire per turn [src-001 pp. 48–49].
 
 ## Common Mistakes
 - Playing a bleed modifier at announcement instead of after "as-announced" effects.
@@ -66,4 +72,4 @@ Yes, even at basic. Deflection at basic will lock them — but they are already 
 - Playing Deflection before declining to block (you must decline first).
 
 ## Sources
-- src-001 — VTES Fifth Edition Rulebook, p. 20 (Bleed), p. 26 (target change reopens blocks), p. 46 (Bleed FAQ), pp. 48–51 (card rulings for Aire of Elation, Conditioning, Deflection, Foreshadowing Destruction, Perfect Paragon, Spying Mission, Telepathic Misdirection).
+- src-001 — VTES Fifth Edition Rulebook, p. 20 (Bleed), p. 26 (target change reopens blocks), p. 46 (Bleed FAQ), pp. 48–51 (card rulings for Aire of Elation, Conditioning, Deflection, Enchant Kindred, Foreshadowing Destruction, Govern the Unaligned, Perfect Paragon, Spying Mission, Telepathic Misdirection).

@@ -52,14 +52,18 @@ At the end of the game the winner is the Methuselah with the **most victory poin
 ## Alternative: Withdrawal
 A Methuselah with an exhausted library can choose to **withdraw** during unlock phase — see [[withdraw]] [src-001 p. 38 Advanced].
 
+## Self-Ouster Edge Case
+- [[wiki/cards/smiling-jack-the-anarch|Smiling Jack, The Anarch]] forces its controller to move 1 pool to the card in their unlock phase — **even if doing so ousts them** [src-001 p. 51]. This is the canonical case where a Methuselah ousts themselves directly and immediately.
+
 ## Common Mistakes
 - Awarding 6 pool to a predator who was ousted by the same action as their prey — they get the VP, not the pool.
 - Assuming the last-Methuselah bonus VP requires winning outright — it only requires being the last remaining.
 - Forgetting to remove an ousted Methuselah's controlled rival cards and return them at end of game.
+- Letting a Smiling Jack controller skip the 1-pool payment on the turn it would oust them — they cannot.
 
 ## Related Pages
 - [[withdraw]] — withdrawal alternative.
 - [[game-overview]] — object of the game, setup.
 
 ## Sources
-- src-001 — VTES Fifth Edition Rulebook, pp. 37–38 (Ending the Game, simultaneous ouster exception, prey shift), p. 46 (multi-ouster VP & pool FAQ).
+- src-001 — VTES Fifth Edition Rulebook, pp. 37–38 (Ending the Game, simultaneous ouster exception, prey shift), p. 46 (multi-ouster VP & pool FAQ), p. 51 (Smiling Jack, The Anarch).

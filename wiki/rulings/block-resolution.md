@@ -82,6 +82,14 @@ A minion who attempts to block and **fails** is **not locked**. They can still p
 
 Faceless Night does **not** retroactively lock minions who previously attempted to block.
 
+## "Replace First, Then Decide" — Optional-Block Cards
+Some reaction/wake-like cards present their effect **before** the block decision, and the rule is consistent: **replace the card first**, then decide [src-001 p. 50]:
+- [On the Qui Vive](https://codex-of-the-damned.org/en/card-search/library/index.html?card=On%20the%20Qui%20Vive) — if you wake, nothing forces you to block. Replace before deciding.
+- [Guard Dogs](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Guard%20Dogs) — nothing forces you to block with the vampire playing Guard Dogs. Replace first [src-001 p. 49].
+
+## Action Directed Against the Playing Methuselah (Master Cards)
+A master card is **controlled by the Methuselah who played it**, not by the bearer's controller. Consequence: an action to burn a master card (e.g., [Haven Uncovered](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Haven%20Uncovered), [[wiki/cards/pentex-subversion|Pentex™ Subversion]]) is **directed against the Methuselah who played the master** — blocks come from *their* minions, not the bearer's controller's minions [src-001 pp. 49–50].
+
 ## Wake Effects
 A **wake** effect lets a locked vampire act as though unlocked **for the duration of the current action** — they can attempt to block and/or play reaction cards [src-001 glossary p. 44].
 
@@ -103,6 +111,9 @@ A **wake** effect lets a locked vampire act as though unlocked **for the duratio
 - [Faceless Night](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Faceless%20Night) — lock-on-declare mechanic [src-001 p. 49].
 - [Daring the Dawn](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Daring%20the%20Dawn) — makes action unblockable; playable before or during block attempts [src-001 p. 48].
 - [Second Tradition: Domain](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Second%20Tradition:%20Domain) — locked-vampire forced-block; caveats above [src-001 p. 50].
+- [Guard Dogs](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Guard%20Dogs) — retainer; "replace first, then decide" [src-001 p. 49].
+- [Haven Uncovered](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Haven%20Uncovered) — master; burn-action directed against playing Methuselah [src-001 p. 49].
+- [[wiki/cards/pentex-subversion|Pentex™ Subversion]] — master; bearer can still play reactions even though they cannot block [src-001 p. 50].
 
 ## Common Mistakes
 - Locking a blocker the instant they declare a block, before resolution — they only lock if the block succeeds.
@@ -112,4 +123,4 @@ A **wake** effect lets a locked vampire act as though unlocked **for the duratio
 - Assuming a wake effect unlocks the vampire — it doesn't; they just act as though unlocked for this action.
 
 ## Sources
-- src-001 — VTES Fifth Edition Rulebook, pp. 25–27 (Resolve Any Block Attempts, Detailed Course of an Action), p. 46 (Stealth FAQ), pp. 48–51 (card rulings — Cats' Guidance, Cloak the Gathering, Daring the Dawn, Eyes of Argus, Faceless Night, On the Qui Vive, Second Tradition: Domain, Wake with Evening's Freshness), p. 44 (Wake glossary entry).
+- src-001 — VTES Fifth Edition Rulebook, pp. 25–27 (Resolve Any Block Attempts, Detailed Course of an Action), p. 46 (Stealth FAQ), pp. 48–52 (card rulings — Cats' Guidance, Cloak the Gathering, Daring the Dawn, Eyes of Argus, Faceless Night, Guard Dogs, Haven Uncovered, On the Qui Vive, Pentex Subversion, Second Tradition: Domain, Wake with Evening's Freshness), p. 44 (Wake glossary entry).

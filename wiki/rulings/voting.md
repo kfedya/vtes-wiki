@@ -79,6 +79,9 @@ A vampire can have at most **one title**. If a titled vampire gains a new title,
 
 A vampire whose clan or sect changes to one inappropriate for their title **loses the benefit** of the title until their clan/sect realigns. If they gain a new title or their title is contested before then, they immediately yield the old title.
 
+### Title-Granting Cards Overwrite Prior Titles
+- [Toreador Justicar](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Toreador%20Justicar) — can target a Toreador who is **already titled**. In that case they lose the previous title and become justicar [src-001 p. 51]. The general "one title at a time" rule handles the replacement automatically.
+
 ## Common Mistakes
 - Letting a vampire **in torpor** cast votes — they cannot.
 - Letting a Methuselah burn two separate political action cards from hand during the same referendum — only one per Methuselah per referendum.
@@ -87,4 +90,4 @@ A vampire whose clan or sect changes to one inappropriate for their title **lose
 - Treating vote gains from the Edge or political action cards as belonging to the acting vampire — they belong to the **Methuselah**.
 
 ## Sources
-- src-001 — VTES Fifth Edition Rulebook, p. 28 (Gaining Votes), pp. 39–40 (Sects and titles), p. 34 (torpor — abstain), p. 46 (FAQ), p. 51 (Ventrue Headquarters).
+- src-001 — VTES Fifth Edition Rulebook, p. 28 (Gaining Votes), pp. 39–40 (Sects and titles), p. 34 (torpor — abstain), p. 46 (FAQ), pp. 51 (Toreador Justicar, Ventrue Headquarters).

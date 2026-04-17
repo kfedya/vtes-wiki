@@ -70,8 +70,10 @@ If during any step either combatant is no longer **ready** — for example, beca
 - **Immortal Grapple timing:** must wait until no more maneuvers are played before being played. [Immortal Grapple](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Immortal%20Grapple) [src-001 p. 49].
 - **Roundhouse is a hand strike** — therefore it works with Immortal Grapple (which confines the round to hand strikes) [src-001 p. 50].
 - **Hidden Strength** cannot be played to "cycle for press" when there is no damage to prevent [src-001 p. 49].
-- **Freak Drive after blocked action** is played **after** combat; can even be played if the acting vampire is now in torpor, provided they have blood to pay [src-001 p. 49].
+- **Freak Drive after blocked action** is played **after** combat; can even be played if the acting vampire is now in torpor, provided they have blood to pay [src-001 p. 49]. See also [[post-combat-effects]].
 - **Deep Song at superior:** if action not blocked, target minion is treated as the acting minion in the resulting combat — they play cards first [src-001 p. 48].
+- **The Barrens** — can be used at **any time, including in combat**, if you are in dire need of a more useful card [src-001 p. 47].
+- **[[wiki/cards/theft-of-vitae|Theft of Vitae]]** — usable at any range; steal is not damage (can't be prevented); strike: combat ends resolves first (you lose the steal if combat ends); steal resolves before mend [src-001 p. 51].
 
 ## Common Cards Involved
 - [.44 Magnum](https://codex-of-the-damned.org/en/card-search/library/index.html?card=.44%20Magnum) — weapon, maneuver + ranged strike; commitment rule [src-001 p. 47].
@@ -80,6 +82,8 @@ If during any step either combatant is no longer **ready** — for example, beca
 - [Freak Drive](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Freak%20Drive) — post-combat unlock; acting vampire in torpor edge case [src-001 p. 49].
 - [Hidden Strength](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Hidden%20Strength) — cannot be used as a press-cycle [src-001 p. 49].
 - [Deep Song](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deep%20Song) — target-as-acting in unblocked case [src-001 p. 48].
+- [The Barrens](https://codex-of-the-damned.org/en/card-search/library/index.html?card=The%20Barrens) — master; any-time-including-combat cycle [src-001 p. 47].
+- [[wiki/cards/theft-of-vitae|Theft of Vitae]] — Blood Sorcery; steal-blood timing specifics [src-001 p. 51].
 
 ## Common Mistakes
 - Forgetting that combat ends resolves **before** first strike.
@@ -89,4 +93,4 @@ If during any step either combatant is no longer **ready** — for example, beca
 - Allowing a minion to play two maneuvers (or two presses) in a row — they cancel and are prohibited.
 
 ## Sources
-- src-001 — VTES Fifth Edition Rulebook, pp. 28–33 (Combat, Combat Sequence, Retainers and Combat, First Strike), p. 47 (.44 Magnum), pp. 48–50 (Deep Song, Freak Drive, Hidden Strength, Immortal Grapple, Resist Earth's Grasp, Roundhouse), p. 42 (Impulse glossary).
+- src-001 — VTES Fifth Edition Rulebook, pp. 28–33 (Combat, Combat Sequence, Retainers and Combat, First Strike), p. 47 (.44 Magnum, The Barrens), pp. 48–50 (Deep Song, Freak Drive, Hidden Strength, Immortal Grapple, Resist Earth's Grasp, Roundhouse), p. 51 (Theft of Vitae), p. 42 (Impulse glossary).

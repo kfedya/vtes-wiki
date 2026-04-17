@@ -46,10 +46,15 @@ Full diablerie resolution arrives in stage-3 ingest; see [[diablerise-action]] f
 ## Votes vs Ballots
 The rulebook distinguishes **votes** (default unit) from **ballots** (used inside sub-referendums like the Prisci block). For most purposes they work identically: both count toward the main tally. Prisci-block mechanics are covered in stage-4 (sect ingest).
 
+## Referendum Terms — Card-Specific Rules
+- [Kine Resources Contested](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Kine%20Resources%20Contested) — **cannot assign all 4 points to a single Methuselah**. You can assign points to yourself if you wish (or if no other choice exists) [src-001 p. 49].
+- [Consanguineous Boon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Consanguineous%20Boon) — must choose an **existing clan**, even if no vampires of that clan are in play [src-001 p. 48].
+- [Ancilla Empowerment](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Ancilla%20Empowerment) — **every Methuselah loses pool, including you** (the referendum's caller) [src-001 p. 47].
+
 ## Common Cards Involved — Timing Subtleties
-- [Bewitching Oration](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bewitching%20Oration) — play only after terms have been declared. Gained votes need not be cast immediately; you can wait for others to cast and then choose direction [src-001 p. 47].
+- [Bewitching Oration](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bewitching%20Oration) — play only after terms have been declared. Gained votes need not be cast immediately; you can wait for others to cast and then choose direction (useful to avoid a Scalpel Tongue) [src-001 p. 47].
 - [Scalpel Tongue](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Scalpel%20Tongue) — must wait until a vampire has cast votes before targeting them; abstaining vampires are not valid targets [src-001 p. 50].
-- [Voter Captivation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Voter%20Captivation) — played **after** action resolution. Cannot rescue you from being ousted at 0 pool as a result of the referendum — you must already be ousted by then [src-001 p. 52].
+- [Voter Captivation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Voter%20Captivation) — played **after** action resolution. Cannot rescue you from being ousted at 0 pool as a result of the referendum — you must already be ousted by then [src-001 p. 52]. See also [[post-combat-effects#voter-captivation]].
 - [Protected District](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Protected%20District) — see Bewitching Oration [src-001 p. 50].
 
 ## Common Mistakes
@@ -59,4 +64,4 @@ The rulebook distinguishes **votes** (default unit) from **ballots** (used insid
 - Playing Bewitching Oration at action announcement — it must wait for terms to be declared (i.e., after the political action succeeds).
 
 ## Sources
-- src-001 — VTES Fifth Edition Rulebook, pp. 27–28 (The Political Action — Referendum), p. 35 (Blood Hunt referendum restrictions), pp. 46–47 (FAQ — voting against own referendum, Bewitching Oration, Scalpel Tongue, Voter Captivation).
+- src-001 — VTES Fifth Edition Rulebook, pp. 27–28 (The Political Action — Referendum), p. 35 (Blood Hunt referendum restrictions), p. 46 (voting against own referendum), p. 47 (Ancilla Empowerment, Bewitching Oration), p. 48 (Consanguineous Boon), pp. 49–50 (Kine Resources Contested, Protected District, Scalpel Tongue), p. 52 (Voter Captivation).

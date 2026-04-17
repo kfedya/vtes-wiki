@@ -82,6 +82,16 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/entities/sects/anarch.md
   - wiki/entities/sects/independent.md
   - wiki/entities/sects/laibon.md
+  - wiki/rulings/stealth-modifiers.md
+  - wiki/rulings/target-redirection.md
+  - wiki/rulings/post-combat-effects.md
+  - wiki/rulings/hunting-grounds.md
+  - wiki/rulings/cards-removed-in-5e.md
+  - wiki/cards/pentex-subversion.md
+  - wiki/cards/vessel.md
+  - wiki/cards/smiling-jack-the-anarch.md
+  - wiki/cards/theft-of-vitae.md
+  - wiki/meta/backlog.md
 
 ### Rulings
 ### krcg snapshots

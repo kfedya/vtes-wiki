@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-17 | Pages: 48 | Sources: 1
+Last updated: 2026-04-17 | Pages: 58 | Sources: 1
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -60,6 +60,13 @@ Catalogue of every page in the wiki. LLM reads this first when answering a query
 ### Traits
 - [[traits]] — Black Hand, Blood Cursed, Circle, Flight, Infernal (1-pool unlock), Red List, Scarce (3-pool penalty), Slave, Sterile.
 
+### Card-interaction mechanics (cross-cutting)
+- [[stealth-modifiers]] — stealth modifier card rulings: Cloak the Gathering, Perfect Paragon, Swallowed by the Night, Lost in Crowds, Bonding; escalation-when-needed; printed action-card stealth is not transferable.
+- [[target-redirection]] — Deflection vs Change of Target vs Mirror Walk; who locks; "stuck" minions; Creeping Sabotage loop.
+- [[post-combat-effects]] — Freak Drive / Voter Captivation / Taste of Vitae timing and ordering after action or combat.
+- [[hunting-grounds]] — Academic template shared by all 5E hunting grounds + Arcane Library / Art Museum / Wasserschloss.
+- [[cards-removed-in-5e]] — Into Thin Air, Torn Signpost, Minion Tap — referenced but not included.
+
 ## Playgroup
 
 _(no pages yet)_
@@ -97,7 +104,10 @@ _(no pages yet)_
 
 ## Cards (problem cards only)
 
-_(no pages yet)_
+- [[wiki/cards/pentex-subversion|pentex-subversion]] — master; bearer can't self-burn; action directed against playing Methuselah; bearer keeps reactions though can't block.
+- [[wiki/cards/vessel|vessel]] — master; Blood Doll burn optional-but-announced; wait-a-turn; cross-Methuselah controller-vs-user split.
+- [[wiki/cards/smiling-jack-the-anarch|smiling-jack-the-anarch]] — master; mandatory pool even if ousts; mix blood/pool across vampires.
+- [[wiki/cards/theft-of-vitae|theft-of-vitae]] — combat Blood Sorcery; any range; not-damage; strike:CE first; steal-before-mend; simultaneous mutual steal.
 
 ## Archetypes
 
@@ -109,7 +119,7 @@ _(no pages yet)_
 
 ## Meta
 
-_(no pages yet)_
+- [[meta/backlog|backlog]] — forward-looking design questions (card-storage model, krcg.org snapshot workflow).
 
 ## Collection
 

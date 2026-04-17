@@ -29,6 +29,7 @@ A retainer that inflicts damage (e.g., Murder of Crows, Carrion Crows) deals **e
 ## Common Cards Involved
 - [Murder of Crows](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Murder%20of%20Crows) — retainer that inflicts environmental damage (works like Carrion Crows) [src-001 p. 50].
 - [Underbridge Stray](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Underbridge%20Stray) — example retainer from rulebook illustrations.
+- [[wiki/cards/pentex-subversion|Pentex™ Subversion]] — attaches like a retainer but acts against the bearer; the bearer cannot burn it themselves [src-001 p. 50].
 
 ## Common Mistakes
 - Treating retainers as transferable like equipment — they are not.
