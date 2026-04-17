@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 70 | Sources: 2
+Last updated: 2026-04-18 | Pages: 75 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -77,7 +77,11 @@ _(no pages yet)_
 ## Entities
 
 ### Clans
-_(no pages yet)_
+- [[entities/clans/malkavian|malkavian]] — Auspex/Dominate/Obfuscate; Camarilla intercept-bleed + stealth-bleed; madness-themed library.
+- [[entities/clans/nosferatu|nosferatu]] — Animalism/Obfuscate/Potence; Camarilla stealth-bleed, retainer swarm, grapple combat.
+- [[entities/clans/toreador|toreador]] — Auspex/Celerity/Presence; Camarilla vote + intercept-wall; Alexandra / Villon / Rafael de Corazon.
+- [[entities/clans/tremere|tremere]] — Auspex/Blood Sorcery/Dominate; Camarilla wall + bleed-bounce; THA ranged-combat.
+- [[entities/clans/ventrue|ventrue]] — Dominate/Fortitude/Presence; Camarilla grinder-prince archetype; resilient vote + bleed.
 
 ### Disciplines
 - [[entities/disciplines/animalism|animalism]] — `[ani]`; animal retainers + swarm combat; in-clan for Gangrel, Nosferatu.
