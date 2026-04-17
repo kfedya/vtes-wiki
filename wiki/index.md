@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 60 | Sources: 2
+Last updated: 2026-04-18 | Pages: 61 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -130,7 +130,7 @@ _(no pages yet)_
 
 ## Mechanics Index
 
-_(no pages yet)_
+- [[mechanics-index/burn-equipment-to-prevent-block|burn-equipment-to-prevent-block]] — equipment with a burn-cost that prevents or sidesteps a block: Concoction of Vitality, Flaming Candle, Ambulance; with Canopic Jar as mirror case.
 
 ## Card Database
 

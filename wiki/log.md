@@ -24,3 +24,5 @@ Append-only chronology of wiki activity. Each entry starts with `## [YYYY-MM-DD]
 ## [2026-04-18] ingest src-001 | VTES 5E Rulebook — stage 5 lore glossary + quick reference (pp. 45, 53) — touched 5 pages (2 new + 3 updates); opens lore/ layer; clan/discipline entity stubs deferred to backlog pending krcg source; src-001 fully ingested
 
 ## [2026-04-18] ingest src-002 | krcg vtes.json snapshot — card-db v1 established, schema v2
+
+## [2026-04-18] query | "all equipment that prevent a block at burn-cost" — filed as wiki/mechanics-index/burn-equipment-to-prevent-block.md; first mechanic-index page; validates end-to-end card-db query path (jq + regex + semantic cleanup)
