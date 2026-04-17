@@ -92,6 +92,8 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/cards/smiling-jack-the-anarch.md
   - wiki/cards/theft-of-vitae.md
   - wiki/meta/backlog.md
+  - wiki/lore/wod-glossary.md
+  - wiki/rulings/quick-reference.md
 
 ### Rulings
 ### krcg snapshots

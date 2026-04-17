@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-17 | Pages: 58 | Sources: 1
+Last updated: 2026-04-18 | Pages: 60 | Sources: 1
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -67,6 +67,9 @@ Catalogue of every page in the wiki. LLM reads this first when answering a query
 - [[hunting-grounds]] — Academic template shared by all 5E hunting grounds + Arcane Library / Art Museum / Wasserschloss.
 - [[cards-removed-in-5e]] — Into Thin Air, Torn Signpost, Minion Tap — referenced but not included.
 
+### Reference
+- [[quick-reference]] — icon cheat sheet for disciplines, clans, card types, and other symbols from the rulebook Quick Reference page.
+
 ## Playgroup
 
 _(no pages yet)_
@@ -115,7 +118,7 @@ _(no pages yet)_
 
 ## Lore
 
-_(no pages yet)_
+- [[lore/wod-glossary|wod-glossary]] — World of Darkness setting terms: Amaranth, Antediluvian, Caine, Camarilla, Gehenna, Inner Circle, Kindred, Kine, Masquerade, Methuselah, Praxis, Traditions, Vitae, and more.
 
 ## Meta
 
