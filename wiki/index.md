@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 113 | Sources: 2
+Last updated: 2026-04-18 | Pages: 127 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -77,18 +77,32 @@ _(no pages yet)_
 ## Entities
 
 ### Clans
+- [[entities/clans/abomination|abomination]] — legacy niche Vampire-Werewolf hybrid bloodline; Obfuscate/Protean/Potence; 4 crypt entries; always Scarce+Sterile.
+- [[entities/clans/ahrimane|ahrimane]] — legacy Gangrel offshoot; Animalism/Presence/Spiritus; Sabbat shamans.
+- [[entities/clans/baali|baali]] — legacy infernalist bloodline; Daimoinon/Obfuscate/Presence; Independent; many carry the Infernal trait.
 - [[entities/clans/banu-haqim|banu-haqim]] — V5 rebrand of Assamite; Blood Sorcery/Celerity/Obfuscate (legacy Quietus); Independent/Camarilla split.
+- [[entities/clans/blood-brother|blood-brother]] — legacy Sabbat bloodline; single-clan Sanguinus + Fortitude/Potence; circle trait gates group-combat cards.
 - [[entities/clans/brujah|brujah]] — Celerity/Potence/Presence; Camarilla with growing Anarch tilt; rush-combat + vote.
+- [[entities/clans/caitiff|caitiff]] — clanless; no in-clan disciplines; every discipline out-of-clan; Anarch Convert is iconic 1-cap starter.
+- [[entities/clans/daughter-of-cacophony|daughter-of-cacophony]] — legacy Toreador offshoot; single-clan Melpominee + Fortitude/Presence; song-bleed.
 - [[entities/clans/gangrel|gangrel]] — Animalism/Fortitude/Protean; Independent/Anarch/Camarilla split; wall + native-weapon combat.
+- [[entities/clans/gargoyle|gargoyle]] — legacy Tremere-created bloodline; Fortitude/Potence/Visceratika; Flight trait; Tremere-slave.
+- [[entities/clans/giovanni|giovanni]] — legacy Italian necromancer merchant-family; Dominate/Necromancy/Potence; Independent; consolidated into Hecata in V5.
+- [[entities/clans/harbinger-of-skulls|harbinger-of-skulls]] — legacy Sabbat necromancy bloodline; Auspex/Fortitude/Necromancy; consolidated into Hecata in V5.
 - [[entities/clans/hecata|hecata]] — V5 consolidation of Giovanni/Samedi/Harbinger of Skulls/Cappadocian/Nagaraja; Auspex/Fortitude/Oblivion; Independent.
+- [[entities/clans/kiasyd|kiasyd]] — legacy Lasombra-Fae bloodline; Dominate/Mytherceria/Obtenebration; Sabbat.
 - [[entities/clans/lasombra|lasombra]] — Dominate/Oblivion/Potence (legacy Obtenebration); Sabbat founder with V5 Camarilla faction.
 - [[entities/clans/malkavian|malkavian]] — Auspex/Dominate/Obfuscate; Camarilla intercept-bleed + stealth-bleed; madness-themed library.
 - [[entities/clans/ministry|ministry]] — V5 rebrand of Followers of Set; Obfuscate/Presence/Protean (legacy Serpentis); Independent.
+- [[entities/clans/nagaraja|nagaraja]] — legacy Asian necromancer bloodline; Auspex/Dominate/Necromancy; consolidated into Hecata in V5.
 - [[entities/clans/nosferatu|nosferatu]] — Animalism/Obfuscate/Potence; Camarilla stealth-bleed, retainer swarm, grapple combat.
+- [[entities/clans/pander|pander]] — Sabbat-aligned Caitiff; no in-clan disciplines; semi-clan status in Sabbat lore.
 - [[entities/clans/ravnos|ravnos]] — Animalism/Chimerstry/Presence (legacy Fortitude); Independent wanderers; stealth-bleed + swarm.
 - [[entities/clans/salubri|salubri]] — Auspex/Dominate/Fortitude (legacy Obeah/Valeren); small-and-tanky wall; near-extinct.
+- [[entities/clans/samedi|samedi]] — legacy Haitian voodoo bloodline; Fortitude/Obfuscate/Thanatosis; Independent; consolidated into Hecata in V5.
 - [[entities/clans/toreador|toreador]] — Auspex/Celerity/Presence; Camarilla vote + intercept-wall; Alexandra / Villon / Rafael de Corazon.
 - [[entities/clans/tremere|tremere]] — Auspex/Blood Sorcery/Dominate; Camarilla wall + bleed-bounce; THA ranged-combat.
+- [[entities/clans/true-brujah|true-brujah]] — legacy tiny bloodline (10 crypt); single-clan Temporis + Potence/Presence; Independent stoics.
 - [[entities/clans/tzimisce|tzimisce]] — Animalism/Dominate/Vicissitude; Sabbat fleshcrafters; wall + natural-weapon combat.
 - [[entities/clans/ventrue|ventrue]] — Dominate/Fortitude/Presence; Camarilla grinder-prince archetype; resilient vote + bleed.
 
