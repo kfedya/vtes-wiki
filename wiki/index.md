@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 85 | Sources: 2
+Last updated: 2026-04-18 | Pages: 95 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -103,6 +103,16 @@ _(no pages yet)_
 - [[entities/disciplines/obtenebration|obtenebration]] — `[obt]`; legacy Lasombra shadow discipline; grapple combat + stealth; partly replaced by Oblivion in V5.
 - [[entities/disciplines/potence|potence]] — `[pot]`; hand-strike damage + grapple; in-clan for Brujah, Nosferatu.
 - [[entities/disciplines/presence|presence]] — `[pre]`; vote boost + Majesty combat-ends; in-clan for Ventrue, Toreador.
+- [[entities/disciplines/protean|protean]] — `[pro]`; legacy shapeshifting / native-weapon / earth-meld discipline; in-clan for Gangrel.
+- [[entities/disciplines/quietus|quietus]] — `[qui]`; legacy Assamite Silent Death; blood poisons + silent combat; in-clan for Banu Haqim (largely superseded by Blood Sorcery in V5).
+- [[entities/disciplines/sanguinus|sanguinus]] — `[san]`; legacy Blood Brother coordination discipline; single-clan; Circle-gated multi-minion combat.
+- [[entities/disciplines/serpentis|serpentis]] — `[ser]`; legacy Followers of Set temptation / snake-form discipline; in-clan for Ministry.
+- [[entities/disciplines/spiritus|spiritus]] — `[spi]`; legacy Ahrimane spirit-communion discipline; intercept reactions + totem modifiers.
+- [[entities/disciplines/temporis|temporis]] — `[tem]`; legacy True Brujah time-manipulation discipline; action-replay + recurring modifiers.
+- [[entities/disciplines/thanatosis|thanatosis]] — `[thn]`; legacy Samedi decay discipline; disease combat + corpse allies.
+- [[entities/disciplines/valeren|valeren]] — `[val]`; legacy Salubri warrior tradition; aggravated-damage combat; sibling of Obeah.
+- [[entities/disciplines/vicissitude|vicissitude]] — `[vic]`; legacy Tzimisce fleshcrafting discipline; natural-weapon combat + face-swap.
+- [[entities/disciplines/visceratika|visceratika]] — `[vis]`; legacy Gargoyle stone discipline; damage-prevent combat + castle reactions.
 
 ### Sects
 - [[entities/sects/camarilla|camarilla]] — primogen/prince/justicar/Inner Circle; unique titles by clan; city-contest rules.
