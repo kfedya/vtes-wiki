@@ -30,3 +30,5 @@ Append-only chronology of wiki activity. Each entry starts with `## [YYYY-MM-DD]
 ## [2026-04-18] query | "core 5E discipline stubs from card-db" — filed 9 new wiki/entities/disciplines/*.md pages
 
 ## [2026-04-18] query | "core 5E clan stubs from card-db" — filed 5 new wiki/entities/clans/*.md pages; closes clan/discipline entity-stub backlog item
+
+## [2026-04-18] query | "legacy vampire disciplines stubs from card-db, part 1" — filed 10 new wiki/entities/disciplines/*.md pages (abombwe, chimerstry, daimoinon, dementation, melpominee, mytherceria, necromancy, obeah, oblivion, obtenebration)

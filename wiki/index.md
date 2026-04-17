@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 75 | Sources: 2
+Last updated: 2026-04-18 | Pages: 85 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -84,13 +84,23 @@ _(no pages yet)_
 - [[entities/clans/ventrue|ventrue]] — Dominate/Fortitude/Presence; Camarilla grinder-prince archetype; resilient vote + bleed.
 
 ### Disciplines
+- [[entities/disciplines/abombwe|abombwe]] — `[abo]`; legacy Laibon predator-totem discipline; in-clan for Akunanse.
 - [[entities/disciplines/animalism|animalism]] — `[ani]`; animal retainers + swarm combat; in-clan for Gangrel, Nosferatu.
 - [[entities/disciplines/auspex|auspex]] — `[aus]`; premier intercept discipline; in-clan for Malkavian, Toreador.
 - [[entities/disciplines/blood-sorcery|blood-sorcery]] — `[tha]`; V5 rebrand of Thaumaturgy; ranged combat + blood rituals; in-clan for Tremere, Banu Haqim.
 - [[entities/disciplines/celerity|celerity]] — `[cel]`; additional strikes + dodges; in-clan for Brujah, Toreador.
+- [[entities/disciplines/chimerstry|chimerstry]] — `[chi]`; legacy illusion discipline; stealth-bleed + illusory combat; in-clan for Ravnos.
+- [[entities/disciplines/daimoinon|daimoinon]] — `[dai]`; legacy infernal discipline; Condemnation curses + hellfire combat; in-clan for Baali.
+- [[entities/disciplines/dementation|dementation]] — `[dem]`; legacy Malkavian madness; bleed + bleed-bounce; in-clan for Malkavian (legacy/antitribu).
 - [[entities/disciplines/dominate|dominate]] — `[dom]`; bleed increase + bleed bounce (Deflection); in-clan for Ventrue, Lasombra.
 - [[entities/disciplines/fortitude|fortitude]] — `[for]`; damage prevention + sun-cover; in-clan for Ventrue, Gangrel.
+- [[entities/disciplines/melpominee|melpominee]] — `[mel]`; legacy voice/song discipline; in-clan for Daughters of Cacophony (single-clan).
+- [[entities/disciplines/mytherceria|mytherceria]] — `[myt]`; legacy faerie-tainted discipline; in-clan for Kiasyd (single-clan).
+- [[entities/disciplines/necromancy|necromancy]] — `[nec]`; legacy death magic; bleed-bounce + ghost combat; in-clan for Giovanni, Harbinger of Skulls, Nagaraja; partly superseded by Oblivion in V5.
+- [[entities/disciplines/obeah|obeah]] — `[obe]`; legacy Salubri healer tradition; blood-return + damage-prevent; in-clan for Salubri.
 - [[entities/disciplines/obfuscate|obfuscate]] — `[obf]`; +stealth action modifiers; in-clan for Nosferatu, Malkavian.
+- [[entities/disciplines/oblivion|oblivion]] — `[obl]`; V5 shadow-and-death consolidation; in-clan for Hecata, Lasombra; partly supersedes Obtenebration + Necromancy.
+- [[entities/disciplines/obtenebration|obtenebration]] — `[obt]`; legacy Lasombra shadow discipline; grapple combat + stealth; partly replaced by Oblivion in V5.
 - [[entities/disciplines/potence|potence]] — `[pot]`; hand-strike damage + grapple; in-clan for Brujah, Nosferatu.
 - [[entities/disciplines/presence|presence]] — `[pre]`; vote boost + Majesty combat-ends; in-clan for Ventrue, Toreador.
 
