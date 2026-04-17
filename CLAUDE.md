@@ -46,7 +46,7 @@ status: draft | verified | disputed
 ---
 ```
 
-- `type` — must match the top-level category the page lives in.
+- `type` — must match the top-level `wiki/` category the page lives under. Pages nested inside `wiki/entities/*/` (clans, disciplines, sects, card-types, sets) all use `type: entity`.
 - `tags` — free-form, kebab-case. Re-use existing tags where possible; check `wiki/index.md` before inventing new ones.
 - `sources` — list of source IDs backing the page's claims. Every ruling-layer statement needs at least one source.
 - `last_verified` — date the LLM last cross-checked the page against its sources. Bump on every substantive update.
