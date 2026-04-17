@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 146 | Sources: 2
+Last updated: 2026-04-18 | Pages: 147 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -216,6 +216,7 @@ _(no pages yet)_
 ## Mechanics Index
 
 - [[mechanics-index/burn-equipment-to-prevent-block|burn-equipment-to-prevent-block]] — equipment with a burn-cost that prevents or sidesteps a block: Concoction of Vitality, Flaming Candle, Ambulance; with Canopic Jar as mirror case.
+- [[mechanics-index/ignore-block-restrictions|ignore-block-restrictions]] — cards that let any vampire block regardless of prey/predator/target restriction: Eagle's Sight [AUS], Falcon's Eye [SPI]; Lord of Serenity on the acting side. Confirmed by VEKN RD.
 
 ## Card Database
 

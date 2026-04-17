@@ -1,9 +1,9 @@
 ---
 type: ruling
 tags: [block, stealth, intercept, reaction, wake, directed, undirected, redirect]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
-status: draft
+status: verified
 ---
 
 # Block Resolution
@@ -26,6 +26,27 @@ Actions not directed at another Methuselah (or targeting the acting Methuselah's
 - Then the **predator**.
 
 Political actions are **always undirected** [src-001 p. 26].
+
+## Cards That Ignore Block Restrictions (Cross-Table Blocks)
+
+The rulebook rule ("only target blocks directed actions, only prey/predator block undirected") has an important exception: specific cards let any vampire block any action, regardless of whose Methuselah controls them. The cards carry the canonical phrase:
+
+> "…ignoring the normal prey, predator or target restrictions for blocking actions."
+
+Known cards with this effect (src-002 snapshot):
+- [Eagle's Sight](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eagle%27s%20Sight) at **[AUS]** superior — Auspex reaction; any vampire with AUS attempts to block.
+- [Falcon's Eye](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Falcon%27s%20Eye) at **[SPI]** superior — Spiritus equivalent; Ahrimanes.
+
+Practical effect: on a directed action (e.g., bleed, directed rescue-from-torpor, steal-equipment), **any Methuselah with a ready unlocked AUS/SPI-superior vampire can intervene**, not just the target. This is confirmed by VEKN Rules Director and moderation:
+
+> "Other Methuselahs can also block that (D) action with Eagle's Sight or similar effects." — Pascal Bertrand (moderator)
+> "Globally yes." — Ankha (Rules Director)
+
+Source: [vekn.net/forum/rules-questions/45737-rescue-vampire-from-torpor](https://www.vekn.net/forum/rules-questions/45737-rescue-vampire-from-torpor).
+
+A full card list lives at [[mechanics-index/ignore-block-restrictions|ignore-block-restrictions]].
+
+**Not a wake effect** — these cards still require a ready unlocked vampire. To override the lock requirement too, combine with a wake effect (e.g., [On the Qui Vive](https://codex-of-the-damned.org/en/card-search/library/index.html?card=On%20the%20Qui%20Vive), [Forced Awakening](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Forced%20Awakening)).
 
 ## Retrying and Declining
 - A minion can attempt to block as many times as they wish **as long as another minion is not already blocking**.
