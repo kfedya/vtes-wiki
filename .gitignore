@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Obsidian vault user state (keep vault-level config, drop user-local state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+
+# Editor caches
+.idea/
+.vscode/
+*.swp
