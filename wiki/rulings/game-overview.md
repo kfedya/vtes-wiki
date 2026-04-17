@@ -2,7 +2,7 @@
 type: ruling
 tags: [overview, setup, turn-sequence, golden-rule, glossary]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 

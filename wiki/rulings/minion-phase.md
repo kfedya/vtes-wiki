@@ -2,7 +2,7 @@
 type: ruling
 tags: [phase, minion, actions, sequencing, mandatory, stuck]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 

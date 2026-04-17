@@ -2,7 +2,7 @@
 type: ruling
 tags: [phase, unlock, edge, contested-cards, contested-titles, burn-option]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 
@@ -17,7 +17,7 @@ The first phase of a Methuselah's turn. They **unlock all their cards** (turn th
    - **Edge** — if you hold the Edge, you may gain 1 pool from the blood bank.
    - **Contest payments** — pay 1 pool per contested unique card you are contesting, and 1 blood per vampire contesting a title (or yield — see below).
    - **Burn-option cards** — see Advanced below.
-   - Card-specific unlock-phase triggers (Blood Doll, Vessel, Smiling Jack, Anarch Troublemaker, etc.).
+   - Card-specific unlock-phase triggers ([Blood Doll](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blood%20Doll), [[wiki/cards/vessel|Vessel]], [[wiki/cards/smiling-jack-the-anarch|Smiling Jack]], [Anarch Troublemaker](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Anarch%20Troublemaker), etc.).
 
 ## Contested Cards (Advanced)
 Some cards are marked **unique** in card text, and every crypt card is inherently unique [src-001].
@@ -46,8 +46,8 @@ Some cards carry a **burn option** icon. A Methuselah may discard-and-replace su
 
 ## Common Cards Involved
 - [Blood Doll](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blood%20Doll) — moves blood during unlock.
-- [Vessel](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Vessel) — moves blood once per unlock phase (per the "During X, do Y" template).
-- [Smiling Jack, The Anarch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Smiling%20Jack,%20The%20Anarch) — **mandatory** 1 pool to the card during unlock, even if it ousts you [src-001 p. 50].
+- [[wiki/cards/vessel|Vessel]] — moves blood once per unlock phase (per the "During X, do Y" template).
+- [[wiki/cards/smiling-jack-the-anarch|Smiling Jack, The Anarch]] — **mandatory** 1 pool to the card during unlock, even if it ousts you [src-001 p. 50].
 - [Anarch Troublemaker](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Anarch%20Troublemaker) — play during master phase; effect triggers next turn [src-001 p. 47].
 
 ## Common Mistakes

@@ -2,7 +2,7 @@
 type: ruling
 tags: [phase, discard, event, hand, draw]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 

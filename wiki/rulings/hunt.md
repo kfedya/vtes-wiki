@@ -2,7 +2,7 @@
 type: ruling
 tags: [action, hunt, mandatory, undirected, capacity]
 sources: [src-001]
-last_verified: 2026-04-17
+last_verified: 2026-04-18
 status: draft
 ---
 
@@ -38,7 +38,7 @@ This matters for table politics: blood transfer isn't automatically adversarial,
 ## Common Cards Involved
 - Any hunt-enhancing action card (e.g., [Bum's Rush](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bum%27s%20Rush) is **not** a hunt action — careful — it's a combat-forcing action; genuine hunt-enhancers like [Deep Sleep] exist in other sets).
 - [Life in the City](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Life%20in%20the%20City) — blood gift usable across Methuselahs [src-001 p. 49].
-- [Smiling Jack, The Anarch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Smiling%20Jack,%20The%20Anarch) — unrelated to hunt but relevant to pool loss — see [[wiki/cards/smiling-jack-the-anarch|smiling-jack-the-anarch]].
+- [[wiki/cards/smiling-jack-the-anarch|Smiling Jack, The Anarch]] — unrelated to hunt but relevant to pool loss.
 
 ## Common Mistakes
 - Letting a 0-blood vampire skip hunting to take another action, or to "save" for later — they can't. Mandatory.
