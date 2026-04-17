@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 95 | Sources: 2
+Last updated: 2026-04-18 | Pages: 104 | Sources: 2
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -91,9 +91,14 @@ _(no pages yet)_
 - [[entities/disciplines/celerity|celerity]] — `[cel]`; additional strikes + dodges; in-clan for Brujah, Toreador.
 - [[entities/disciplines/chimerstry|chimerstry]] — `[chi]`; legacy illusion discipline; stealth-bleed + illusory combat; in-clan for Ravnos.
 - [[entities/disciplines/daimoinon|daimoinon]] — `[dai]`; legacy infernal discipline; Condemnation curses + hellfire combat; in-clan for Baali.
+- [[entities/disciplines/defense|defense]] — `[def]`; Imbued virtue; Defender creed tanking / protection; Imbued-only.
 - [[entities/disciplines/dementation|dementation]] — `[dem]`; legacy Malkavian madness; bleed + bleed-bounce; in-clan for Malkavian (legacy/antitribu).
 - [[entities/disciplines/dominate|dominate]] — `[dom]`; bleed increase + bleed bounce (Deflection); in-clan for Ventrue, Lasombra.
 - [[entities/disciplines/fortitude|fortitude]] — `[for]`; damage prevention + sun-cover; in-clan for Ventrue, Gangrel.
+- [[entities/disciplines/innocence|innocence]] — `[inn]`; Imbued virtue; Innocent creed concealment + conviction-generation; Imbued-only.
+- [[entities/disciplines/judgment|judgment]] — `[jud]`; Imbued virtue; Judge creed monster-hunt combat entry + conviction-recovery; Imbued-only.
+- [[entities/disciplines/maleficia|maleficia]] — `[mal]`; library-only combo code; "not a Discipline" — infernal curses (Barrenness, Greater/Minor Curse, Evil Eye) combo with Daimoinon.
+- [[entities/disciplines/martyrdom|martyrdom]] — `[mar]`; Imbued virtue; Martyr creed self-sacrifice + damage-sharing; Imbued-only.
 - [[entities/disciplines/melpominee|melpominee]] — `[mel]`; legacy voice/song discipline; in-clan for Daughters of Cacophony (single-clan).
 - [[entities/disciplines/mytherceria|mytherceria]] — `[myt]`; legacy faerie-tainted discipline; in-clan for Kiasyd (single-clan).
 - [[entities/disciplines/necromancy|necromancy]] — `[nec]`; legacy death magic; bleed-bounce + ghost combat; in-clan for Giovanni, Harbinger of Skulls, Nagaraja; partly superseded by Oblivion in V5.
@@ -105,14 +110,18 @@ _(no pages yet)_
 - [[entities/disciplines/presence|presence]] — `[pre]`; vote boost + Majesty combat-ends; in-clan for Ventrue, Toreador.
 - [[entities/disciplines/protean|protean]] — `[pro]`; legacy shapeshifting / native-weapon / earth-meld discipline; in-clan for Gangrel.
 - [[entities/disciplines/quietus|quietus]] — `[qui]`; legacy Assamite Silent Death; blood poisons + silent combat; in-clan for Banu Haqim (largely superseded by Blood Sorcery in V5).
+- [[entities/disciplines/redemption|redemption]] — `[red]`; Imbued virtue; Redeemer creed recovery + conviction-search; Imbued-only.
 - [[entities/disciplines/sanguinus|sanguinus]] — `[san]`; legacy Blood Brother coordination discipline; single-clan; Circle-gated multi-minion combat.
 - [[entities/disciplines/serpentis|serpentis]] — `[ser]`; legacy Followers of Set temptation / snake-form discipline; in-clan for Ministry.
 - [[entities/disciplines/spiritus|spiritus]] — `[spi]`; legacy Ahrimane spirit-communion discipline; intercept reactions + totem modifiers.
+- [[entities/disciplines/striga|striga]] — `[str]`; library-only combo code; "not a Discipline" — Gargoyle-servitor-themed cards (Masca, Fractura, Hexe, Scobax, Strix).
 - [[entities/disciplines/temporis|temporis]] — `[tem]`; legacy True Brujah time-manipulation discipline; action-replay + recurring modifiers.
 - [[entities/disciplines/thanatosis|thanatosis]] — `[thn]`; legacy Samedi decay discipline; disease combat + corpse allies.
 - [[entities/disciplines/valeren|valeren]] — `[val]`; legacy Salubri warrior tradition; aggravated-damage combat; sibling of Obeah.
+- [[entities/disciplines/vengeance|vengeance]] — `[ven]`; Imbued virtue; Avenger creed bleed pressure + monster-hunting; Imbued-only.
 - [[entities/disciplines/vicissitude|vicissitude]] — `[vic]`; legacy Tzimisce fleshcrafting discipline; natural-weapon combat + face-swap.
-- [[entities/disciplines/visceratika|visceratika]] — `[vis]`; legacy Gargoyle stone discipline; damage-prevent combat + castle reactions.
+- [[entities/disciplines/visceratika|visceratika]] — `[vis]`; legacy Gargoyle stone discipline; damage-prevent combat + castle reactions. `vis` ≠ `viz` (Vision).
+- [[entities/disciplines/vision|vision]] — `[viz]`; Imbued virtue; Visionary creed scry + foresight reactions; Imbued-only.
 
 ### Sects
 - [[entities/sects/camarilla|camarilla]] — primogen/prince/justicar/Inner Circle; unique titles by clan; city-contest rules.

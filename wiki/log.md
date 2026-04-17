@@ -34,3 +34,5 @@ Append-only chronology of wiki activity. Each entry starts with `## [YYYY-MM-DD]
 ## [2026-04-18] query | "legacy vampire disciplines stubs from card-db, part 1" — filed 10 new wiki/entities/disciplines/*.md pages (abombwe, chimerstry, daimoinon, dementation, melpominee, mytherceria, necromancy, obeah, oblivion, obtenebration)
 
 ## [2026-04-18] query | "legacy vampire disciplines stubs from card-db, part 2" — filed 10 new wiki/entities/disciplines/*.md pages (protean, quietus, sanguinus, serpentis, spiritus, temporis, thanatosis, valeren, vicissitude, visceratika)
+
+## [2026-04-18] query | "Imbued virtues + discipline-code investigation (str, mal, viz, flight)" — filed 9 new wiki/entities/disciplines/*.md pages (defense, innocence, judgment, martyrdom, redemption, vengeance, vision + combo-code stubs striga, maleficia); updated traits.md with FLIGHT card-db representation; closes the discipline-stub front

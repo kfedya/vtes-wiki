@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [traits, black-hand, blood-cursed, circle, flight, infernal, red-list, scarce, slave, sterile]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -22,6 +22,22 @@ Each **Blood Brother** is identified with a particular **circle**. A vampire wit
 
 ## Flight
 Allows a minion to play or use cards requiring **Flight** [src-001 p. 41].
+
+### Card-db representation
+In the `card-db/` JSON shards, **Flight is stored in the `disciplines[]` array as the token `FLIGHT`** (always upper-case) on library cards that require or grant it [src-002]. It is *not* a real discipline — it is a **trait gate**. `[FLIGHT]` clauses on cards mean "only a minion with the Flight trait may use this clause", in the same way a Discipline clause would gate on a discipline.
+
+Library cards using `[FLIGHT]` in the src-002 snapshot (9):
+- Action Modifier — [As the Crow](https://codex-of-the-damned.org/en/card-search/library/index.html?card=As%20the%20Crow), [Soar](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Soar).
+- Action — [Dive Bomb](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Dive%20Bomb).
+- Combat — [Circle](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Circle), [Pounce](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Pounce), [Roll](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Roll), [Swoop](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Swoop).
+- Reaction — [Patrol](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Patrol), [Winged Second](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Winged%20Second).
+
+Flight is granted by Gargoyle crypt text, by master: Discipline cards, and by the library cards [Create Gargoyle](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Create%20Gargoyle) (Gargoyle ally with basic Visceratika and Flight) and [Hatchling](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Hatchling) (optional one-shot Flight gain) [src-002].
+
+Query:
+```
+jq -rs '[.[][] | select(.disciplines[]? | ascii_downcase == "flight")] | .[] | .name' card-db/library/*.json
+```
 
 ## Infernal
 An infernal minion **does not unlock as normal** during the unlock phase. During its controller's unlock phase, they may **burn 1 pool** to unlock that infernal minion [src-001 p. 41].
