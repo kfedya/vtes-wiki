@@ -379,4 +379,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-022 — Codex of the Damned: Forced Ball (runner-up archetype + decklist)
+- type: deck-list
+- date: 2025-01-11
+- author_or_channel: Codex of the Damned (editorial) / Filippo Tomov (deck player, Italian Tour Trento 2025, TWDA id 11913)
+- topic: Toreador Camarilla political/vote — Toreador Grand Ball × 7 (Master: host unblockable on political actions) primary defence in lieu of stealth. Diana Iadanza × 3 (ability bypasses Delaying Tactics). FOR-based Toreador crypt (Catalina Vega × 2, Flávio Gonçalves × 2, Mkhokheli × 2, + singletons) enables Forced March × 4 action-chain. Referendum chain: Kine Resources Contested × 6 + Parity Shift × 4 + Conservative Agitation × 2 + Consanguineous Boon × 2 + Camarilla's Iron Fist × 2 + Banishment + Anarchist Uprising. Vote-amp: Voter Captivation × 5 + Perfect Paragon × 4 + Scalpel Tongue × 4 + Bewitching Oration × 3 + Awe × 2. Bloat: Villein × 6 + Ashur Tablets × 6 + Parthenon × 2 + Protected Resources × 2 + Art Museum + Papillon. Defence: Telepathic Misdirection × 6 + Second Tradition: Domain × 2 + Majesty × 6. Sargon Fragment + Heart of Nizchetus.
+- url: https://codex-of-the-damned.org/en/archetypes/runner-ups/forced-ball.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/forced-ball.md
+  - wiki/entities/clans/toreador.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

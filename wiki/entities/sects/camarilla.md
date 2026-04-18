@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, camarilla, title, primogen, prince, justicar, inner-circle, voting]
-sources: [src-001, src-006, src-011, src-013, src-015, src-017]
+sources: [src-001, src-006, src-011, src-013, src-015, src-017, src-022]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -37,6 +37,7 @@ See [[voting]] for the full sources-of-votes table.
 - [[archetypes/mistress|Mistress]] — Tremere-led Camarilla vote & bleed; Mistress Fanchon Inner Circle signature Alastor/Helicopter combo (1 pool via her ability); 32-master pile with Villein × 7 + Ashur Tablets × 6; Obedience × 4 + Deflection × 4 defence [src-013].
 - [[archetypes/princess-toolbox|Princess Toolbox]] — Tremere Camarilla intercept-wall toolbox; Carna, The Princess Witch triple-discipline host; 39-reaction wall (Deflection × 8, Eyes of Argus × 8, etc.); Magic of the Smith × 6 equipment tutor; Theft of Vitae × 4 grind [src-015].
 - [[archetypes/stanislava|Stanislava]] — Gangrel-led Camarilla stealth-vote/bleed; Stanislava × 5 Inner Circle flagship (cap 11, +2 bleed, allies can't block); Zillah's Valley × 8 ramp; Kine Resources Contested × 6 + Protean stealth/combat bail [src-017].
+- [[archetypes/forced-ball|Forced Ball]] — runner-up Toreador Camarilla political/vote; Toreador Grand Ball × 7 makes host unblockable on political actions; Diana Iadanza's anti-Delaying Tactics ability; FOR Forced March chain [src-022].
 
 ## Related Pages
 - [[voting]] — full vote mechanics.
@@ -51,3 +52,4 @@ See [[voting]] for the full sources-of-votes table.
 - src-013 — Codex of the Damned — Mistress archetype (Tremere-led Camarilla Inner Circle vote & bleed; Alastor/Helicopter combo).
 - src-015 — Codex of the Damned — Princess Toolbox archetype (Tremere Camarilla intercept-wall toolbox; Carna Princess Witch + 39-reaction wall).
 - src-017 — Codex of the Damned — Stanislava archetype (Gangrel-led Camarilla stealth-vote/bleed; Inner Circle flagship).
+- src-022 — Codex of the Damned — Forced Ball archetype (Toreador Camarilla political via Grand Ball; runner-up).

@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 167 | Sources: 21
+Last updated: 2026-04-18 | Pages: 168 | Sources: 22
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -218,6 +218,7 @@ _(no pages yet)_
 - [[archetypes/tupdogs|tupdogs]] — Top-Tier Sabbat rush; Tupdog × 21 cap-1 Gargoyle (Tremere-antitribu-slave) disposable rush minions + Rock Cat × 10 ally support; Graverobbing × 8 steals prey-torpored vampires; 37-card combat pile. GP Milan 2024 (Danilo Torrisi, TWDA id 10853).
 - [[archetypes/capuchin-toolbox|capuchin-toolbox]] — Runner-up multi-clan endurance toolbox; The Capuchin (Harbinger of Skulls cap 11) + Malkavian + Tremere sharing AUS/DOM; 10-bounce wall (Deflection/TM/My Enemy's Enemy/Murmur) + 11-intercept (Eyes of Argus × 9); Bonding + Under My Skin bleed escalation. Hungarian NC LC Prep 2025 (Richard Stefan Utner, TWDA id 11991).
 - [[archetypes/dementation-bleed|dementation-bleed]] — Runner-up Sabbat Malkavian antitribu stealth-and-bleed; Kindred Spirits × 15 DEM bleed payload + Eyes of Chaos × 8 + Confusion × 8 amp; Telepathic Misdirection × 10 AUS bounce; Coma × 4 combat deterrent. Eternal Vigilance I 2024 (Jonathan da Silva Goudard, TWDA id 11567).
+- [[archetypes/forced-ball|forced-ball]] — Runner-up Toreador Camarilla political/vote; Toreador Grand Ball × 7 (Master: host unblockable on political actions); Diana Iadanza × 3 key vampire (ability bypasses Delaying Tactics); Forced March × 4 action-chain via FOR; Kine Resources Contested × 6 + Parity Shift × 4 referendum spam. Italian Tour Trento 2025 (Filippo Tomov, TWDA id 11913).
 
 ## Lore
 
