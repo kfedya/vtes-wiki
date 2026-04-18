@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, camarilla, title, primogen, prince, justicar, inner-circle, voting]
-sources: [src-001, src-006]
+sources: [src-001, src-006, src-011]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -33,6 +33,7 @@ See [[voting]] for the full sources-of-votes table.
 
 ## Notable Camarilla archetypes
 - [[archetypes/haqim-royalty|Haqim Royalty]] — Banu Haqim Camarilla toolbox with Prince + Justicar titles; leans on [[rulings/block-resolution|Second Tradition: Domain]] for defence and Haqim's Law: Retribution for bleed amplification via combat-card discards [src-006].
+- [[archetypes/lutz-politics|Lutz Politics]] — multi-clan Camarilla stealth-vote; Lutz von Hohenzollern (Inner Circle) + Undele (Malkavian Justicar) + Dmitra Ilyanova (Brujah Justicar) crypt for raw vote totals; Kine Resources Contested / Conservative Agitation / Banishment referendum chain; Perfect Paragon × 6 + Voter Captivation × 8 vote stack [src-011].
 
 ## Related Pages
 - [[voting]] — full vote mechanics.
@@ -43,3 +44,4 @@ See [[voting]] for the full sources-of-votes table.
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 27–28 (vote totals), p. 39 (Camarilla).
 - src-006 — Codex of the Damned — Haqim Royalty archetype (Banu Haqim Camarilla Prince/Justicar toolbox).
+- src-011 — Codex of the Damned — Lutz Politics archetype (multi-clan Camarilla stealth-vote; Inner Circle + Justicar + Prince titles).

@@ -227,4 +227,17 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-011 — Codex of the Damned: Lutz Politics (top-tier archetype + decklist)
+- type: deck-list
+- date: 2023-06-24
+- author_or_channel: Codex of the Damned (editorial) / Kelly Schultz (deck player, NAC 2023, TWDA id 10735)
+- topic: Camarilla stealth-vote + political-bleed — multi-clan crypt Lutz von Hohenzollern × 3 (Inner Circle, 3 votes) + Undele × 3 (Malkavian Justicar, 3 votes) + Dmitra Ilyanova × 2 (Brujah Justicar, 3 votes). Zillah's Valley × 5 influence ramp; Minion Tap × 7 legacy bloat + Voter Captivation × 8 vote-bonus-+-pool. Perfect Paragon × 6 + Elder Impersonation × 3 + Bewitching Oration × 2 + Awe × 2 vote stack. Referendum chain: Kine Resources Contested × 6 + Banishment × 3 + Conservative Agitation × 3 + singletons (Political Stranglehold, Ancient Influence, Ancilla Empowerment, Reins of Power, Anarchist Uprising, Honor the Elders, Neonate Breach, Disputed Territory). Stealth for undirected politics: Lost in Crowds × 5 + Forgotten Labyrinth × 3 + Faceless Night × 1. Defence = only Force of Personality × 6. Variants: Auspex (Johnson Gonçalves), Protected Resources (Teemu Sainomaa / Michael Holmström), Petra (Jens Johansson), Maris Lutz (Danilo Torrisi 2016 EC), Helicopter (Fabien Garcia 2014 EC FCQ), AD&D (Otso Saariluoma 2010).
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/lutz-politics.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/lutz-politics.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
