@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, anarch, title, baron, become-anarch]
-sources: [src-001, src-004, src-005, src-007, src-008, src-009, src-016, src-023]
+sources: [src-001, src-004, src-005, src-007, src-008, src-009, src-016, src-023, src-025]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -37,6 +37,7 @@ During the polling step of a referendum, a Methuselah gains **2 votes** for each
 - [[archetypes/govern-resistance|Govern Resistance]] — top-tier Tzimisce Anarch Baron toolbox; Govern the Unaligned × 12 + Organized Resistance × 7 wall; Anarch-gated intercept and Baron voting [src-009].
 - [[archetypes/ravnos-bonds|Ravnos Bonds]] — top-tier V5 Ravnos Anarch stealth-and-bleed; Break the Bonds × 16 (CHI action: bleed + recruit another Ravnos from hand); Anarch Railroad cycle [src-016].
 - [[archetypes/infernal-barons|Infernal Barons]] — runner-up Anarch Baali/Ministry vote; Arishat Baron + Xeper (+1 vote per infernal); Condemnation: Mute × 5 control opposing votes; Anarch-gated defence (Organized Resistance, Bait and Switch) [src-023].
+- [[archetypes/protean-barons|Protean Barons]] — runner-up multi-clan Anarch Baron toolbox; Protean Master × 6 grants `[pro]` to any host + Childe of the Revolution × 8 swarm + 16 Organized Resistance wall [src-025].
 
 ## Related Pages
 - [[become-anarch]] — action profile.
@@ -52,3 +53,4 @@ During the polling step of a referendum, a Methuselah gains **2 votes** for each
 - src-009 — Codex of the Damned — Govern Resistance archetype (Tzimisce Anarch Baron toolbox; Govern the Unaligned + Organized Resistance).
 - src-016 — Codex of the Damned — Ravnos Bonds archetype (V5 Ravnos Anarch stealth-bleed; Break the Bonds + Anarch Railroad).
 - src-023 — Codex of the Damned — Infernal Barons archetype (runner-up Anarch Baali/Ministry vote; Arishat Baron + Condemnation: Mute).
+- src-025 — Codex of the Damned — Protean Barons archetype (runner-up multi-clan Anarch Baron toolbox; Protean Master + Childe of the Revolution swarm).

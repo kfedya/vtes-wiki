@@ -420,4 +420,17 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-025 — Codex of the Damned: Protean Barons (runner-up archetype + decklist)
+- type: deck-list
+- date: 2024-10-19
+- author_or_channel: Codex of the Damned (editorial) / Vincent Ripoll — Ankha, current VEKN Rules Director (deck player, French NC 2024, TWDA id 11754)
+- topic: Multi-clan Anarch Baron toolbox — wide 1-of Anarch Baron crypt (Gangrel/Ministry/Tzimisce/Ravnos/Brujah mix). Protean × 6 (Master: grants `[pro]` inferior to bearer) lets any Baron access Earth Meld × 8 + Earth Control × 4 + Form of the Bat × 4 + Donnybrook × 6 aggravated. Childe of the Revolution × 8 swarm-growth. 16-copy Organized Resistance wall + Bait and Switch × 6 + Protection Racket × 2. Bloat Villein × 6 + Anarch package (Anarch Free Press, Carfax Abbey × 2, Papillon, Garibaldi-Meucci Museum × 2). Light votes: Revolutionary Council, Eat the Rich, Constant Revolution. Closes Runner-up batch. Variants: Simo Tiippana original, Tommi Hakomaa Death Star (Ashur + Form of Mist + Revolutionary Council), Diego Rodrigues Rush (Bum's Rush + Open War).
+- url: https://codex-of-the-damned.org/en/archetypes/runner-ups/protean-barons.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/protean-barons.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
