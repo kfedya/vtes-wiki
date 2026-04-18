@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, legacy, antitribu, malkavian, sabbat, dementation]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-021]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -35,6 +35,10 @@ Primarily **[[entities/sects/sabbat|Sabbat]]** — the defining feature of the a
 - Crypt vampires with `[DEM]` at superior: **26**
 - Crypt vampires with `[OBF]` at superior: **24**
 
+## Typical deck archetypes
+
+- [[archetypes/dementation-bleed|Dementation Bleed]] — runner-up Sabbat Malkavian antitribu stealth-and-bleed; Kindred Spirits × 15 payload + Confusion/Eyes of Chaos bleed amp; Telepathic Misdirection × 10 bounce; Coma × 4 combat deterrent [src-021].
+
 ## Notable members
 
 - **Louhi** (cap 10, group 4) — `pro/ANI/AUS/DEM/OBF/THA`.
@@ -58,3 +62,4 @@ jq '.[] | select(.clans[]? == "Malkavian antitribu") | .name' card-db/crypt.json
 
 - src-001 — VTES 5E Rulebook (Sabbat sect rules, p. 40).
 - src-002 — krcg vtes.json snapshot 2026-04-18.
+- src-021 — Codex of the Damned — Dementation Bleed archetype (runner-up Sabbat stealth-and-bleed with DEM Kindred Spirits engine).

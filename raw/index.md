@@ -365,4 +365,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-021 — Codex of the Damned: Dementation Bleed (runner-up archetype + decklist)
+- type: deck-list
+- date: 2024-07-07
+- author_or_channel: Codex of the Damned (editorial) / Jonathan da Silva Goudard (deck player, Eternal Vigilance I, TWDA id 11567)
+- topic: Malkavian antitribu stealth-and-bleed — Sabbat, DEM/OBF/AUS. Core: Kindred Spirits × 15 (DEM action: bleed + stealth). Bleed amp: Confusion × 8 (DEM), Eyes of Chaos × 8 (DEM). Stealth stack: Cloak the Gathering × 5 + Elder Impersonation × 6 + Faceless Night × 4 + Lost in Crowds × 4 + Spying Mission × 2 + Swallowed by the Night × 2. Defence: Telepathic Misdirection × 10 (AUS bounce — 2/3 crypt has AUS), Eyes of Argus × 4 + On the Qui Vive × 4 + My Enemy's Enemy × 2. Coma × 4 combat deterrent. Wide crypt (Rodolfo/Morel/Midget × 2 each + Persephone/Colonel/Uncle George/Jackie/Marta/Cassandra × 1). Variants: Alessandro Donati 2022 Italian NC lower-cap DEM-only, Louhi-focused.
+- url: https://codex-of-the-damned.org/en/archetypes/runner-ups/dementation-bleed.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/dementation-bleed.md
+  - wiki/entities/clans/malkavian-antitribu.md
+  - wiki/entities/sects/sabbat.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
