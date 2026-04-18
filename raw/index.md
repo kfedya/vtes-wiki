@@ -352,4 +352,17 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-020 — Codex of the Damned: Capuchin Toolbox (runner-up archetype + decklist)
+- type: deck-list
+- date: 2025-01-19
+- author_or_channel: Codex of the Damned (editorial) / Richard Stefan Utner (deck player, Hungarian NC LC Prep 2025, TWDA id 11991); recent archetype creation, 3 tournament wins to date
+- topic: Multi-clan endurance toolbox — The Capuchin × 5 (Harbinger of Skulls G5 cap 11) + Abraham Mellon × 4 (Malkavian G6 cap 8) + Gerald Windham × 3 (Tremere G5 cap 9), all sharing AUS/DOM. Extreme bleed defence (10 bounces: Deflection × 4 + Telepathic Misdirection × 2 + My Enemy's Enemy × 2 + Murmur of the False Will × 2). Heavy intercept (11: Eyes of Argus × 9 + Eagle's Sight × 2). Bleed amp: Bonding × 5 + Under My Skin × 5 + Crocodile's Tongue × 2 penalise blockers. Freak Drive × 4 post-action unlock. Unflinching Persistence × 7 + Theft of Vitae × 4 combat. Hand regularly exceeds 10 cards due to Dreams × 2 + Auspex cycle.
+- url: https://codex-of-the-damned.org/en/archetypes/runner-ups/capuchin-toolbox.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/capuchin-toolbox.md
+  - wiki/entities/clans/harbinger-of-skulls.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

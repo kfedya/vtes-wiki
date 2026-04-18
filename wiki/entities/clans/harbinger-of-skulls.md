@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, legacy, harbinger-of-skulls, cappadocian-descendants, hecata-consolidated, sabbat-bloodline]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-020]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -49,6 +49,7 @@ Printed sect is dominantly **Sabbat** — most Harbinger card_text opens with `S
 - **Harbinger wall / intercept** — NEC reactions (Spectral Divination) + AUS reactions + FOR damage-prevent; extremely resilient.
 - **Sabbat Necromancy combat** — NEC rituals with Sabbat title support (bishop/archbishop/priscus printed on Harbingers).
 - **Harbinger + Hecata fusion** — legacy Harbingers paired with V5 Hecata for double-spectrum Necromancy + Oblivion.
+- [[archetypes/capuchin-toolbox|Capuchin Toolbox]] — runner-up multi-clan endurance toolbox headlined by The Capuchin (cap 11, AUS/DOM/NEC); 10 bounces + 11 intercept + Bonding/Under My Skin bleed escalation; hand over 10 cards [src-020].
 
 ## Query
 
@@ -77,3 +78,4 @@ jq -s '[.[][] | select((.name // "" | test("Harbinger of Skulls"; "i")) or (.car
 
 - src-001 — VTES 5E Rulebook (V5 Hecata consolidation, p. 53).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-020 — Codex of the Damned — Capuchin Toolbox archetype (runner-up multi-clan endurance toolbox led by The Capuchin).
