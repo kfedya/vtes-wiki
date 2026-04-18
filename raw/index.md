@@ -214,4 +214,17 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-010 — Codex of the Damned: Living Museum (top-tier archetype + decklist)
+- type: deck-list
+- date: 2025-03-10
+- author_or_channel: Codex of the Damned (editorial) / Keith Lim (deck player, 2024 AU/NZ Championship, TWDA id 11686); archetype invented by Darby Keeney ("Darby dance")
+- topic: Tzimisce stealth-and-bleed — Living Manse × 7 (VIC equipment-location, +1 bleed, burn-to-end-combat) + The British Museum, London × 5 (after successful non-electronic/non-vehicle/non-weapon equip, the acting minion may unlock once per turn) chain-equip unlock engine. Govern the Unaligned × 8 crypt ramp; Conditioning × 2 DOM amp; Deflection × 6 DOM bounce + Bait and Switch × 4 + Guard Dogs × 4 retainer intercept (J. S. Simmons, Tasha Morgan); Heart of Nizchetus × 2 smoothing; Heidelberg Castle equipment-move double-dip; NRA PAC × 1 end-of-turn re-unlock ("Darby dance"). Combat bail Earth Meld × 4 / Form of Mist × 4 / Obedient Flesh × 2. Variants: Darby Keeney latest (Dominate Kine, Cooler, Palatial Estate, Powerbase: Savannah).
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/living-museum.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/living-museum.md
+  - wiki/entities/clans/tzimisce.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
