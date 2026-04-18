@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-core, tremere, camarilla]
-sources: [src-001, src-002, src-013]
+sources: [src-001, src-002, src-013, src-015]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -45,6 +45,7 @@ Primarily **Camarilla** — 24 of 91 Tremere vampires print `Camarilla.` in full
 - **Tremere bleed / govern** — DOM bleed modifiers (Conditioning, Govern the Unaligned) with AUS reactions for defense; extremely resilient.
 - **Blood Sorcery combat / ranged** — THA-based ranged combat cards (Theft of Vitae, Apportation, Rego Motus), with AUS reaction backup.
 - [[archetypes/mistress|Mistress]] — top-tier Tremere Camarilla vote & bleed; Mistress Fanchon Inner Circle; Alastor/Helicopter combo; 32-master pile; Obedience × 4 + Deflection × 4 defence [src-013].
+- [[archetypes/princess-toolbox|Princess Toolbox]] — top-tier Tremere intercept-wall toolbox; Carna, The Princess Witch × 4 triple-discipline host; 39-reaction wall; Magic of the Smith × 6 equipment tutor; Theft of Vitae grind [src-015].
 
 ## Query
 
@@ -74,3 +75,4 @@ jq -s '[.[][] | select((.name // "" | test("Tremere"; "i")) or (.card_text // ""
 - src-001 — VTES 5E Rulebook (core-5 clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
 - src-013 — Codex of the Damned — Mistress archetype (top-tier Tremere/multi-clan Camarilla vote & bleed; Mistress Fanchon Inner Circle Alastor/Helicopter combo).
+- src-015 — Codex of the Damned — Princess Toolbox archetype (top-tier Tremere intercept-wall toolbox; Carna Princess Witch + 39-reaction wall).

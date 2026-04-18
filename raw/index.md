@@ -281,4 +281,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-015 — Codex of the Damned: Princess Toolbox (top-tier archetype + decklist)
+- type: deck-list
+- date: 2023-07-02
+- author_or_channel: Codex of the Damned (editorial) / Marius Iscru (deck player, Swiss NC 2023, TWDA id 10550)
+- topic: Tremere Camarilla intercept-wall toolbox — Carna, The Princess Witch × 4 (cap 8, AUS/DOM/THA triple) as host for the densest reaction suite in top-tier play (39 reaction cards: Deflection × 8 + Eyes of Argus × 8 + Enhanced Senses × 4 + Eagle's Sight × 4 + Telepathic Misdirection × 4 + On the Qui Vive × 3 + Forced Awakening × 3 + Delaying Tactics × 3 + My Enemy's Enemy × 2). Magic of the Smith × 6 equipment tutor (Heart of Nizchetus × 2 filter; Sniper Rifle × 2 / .44 Magnum × 2 grind; Ivory Bow, Kevlar Vest, Sawed-Off Shotgun, Sport Bike, Bowl of Convergence). Vessel × 6 + The Rack × 2 + Smiling Jack × 3 bloat/tax. Theft of Vitae × 4 + Rego Motum × 4 ranged combat. Conditioning × 2 + Anonymous Freight × 2 soft finisher. Variants: Toolbox + Govern, Royalty, Infernal (Valerius), V5, Oliver (Thrace anti-Form-of-Mist).
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/princess-toolbox.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/princess-toolbox.md
+  - wiki/entities/clans/tremere.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

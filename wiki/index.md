@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 160 | Sources: 14
+Last updated: 2026-04-18 | Pages: 161 | Sources: 15
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -211,6 +211,7 @@ _(no pages yet)_
 - [[archetypes/malk-22|malk-22]] — Top-Tier V5 Malkavian stealth-and-bleed (modern descendant of Malk' 94); Govern × 17 ramp → pure DOM/OBF bleed attack with Conditioning × 7 + 30 stealth modifiers; Wash × 3 masked-bleed; zero combat cards. Nacional España 2023 Sevilla (Arnau Diez Sans, TWDA id 10419).
 - [[archetypes/mistress|mistress]] — Top-Tier Tremere Camarilla vote & bleed; Mistress Fanchon Inner Circle signature Alastor/Helicopter combo (1 pool); 32-master pile (Villein × 7, Ashur Tablets × 6); Parity Shift × 3 + Banishment × 3 payload; Obedience × 4 + Deflection × 4 defence. EC 2023 Day 1 (Otso Saariluoma, TWDA id 10909).
 - [[archetypes/nephandii|nephandii]] — Top-Tier Sabbat allies-swarm; Antonio d'Erlette × 6 Sabbat-gated Mage-ally recruit (4 transfers → Nephandus in play); Nephandus × 10 bleed payload + Target Vitals × 8 damage rider; Deflection × 7 defence. English NC 2024 (Tomasz Kloczko, TWDA id 11521).
+- [[archetypes/princess-toolbox|princess-toolbox]] — Top-Tier Tremere Camarilla intercept-wall toolbox; Carna, The Princess Witch × 4 triple AUS/DOM/THA host; 39-reaction wall (Deflection × 8 + Eyes of Argus × 8 + Enhanced Senses × 4 + Eagle's Sight × 4 + Telepathic Misdirection × 4); Magic of the Smith × 6 equipment tutor; Theft of Vitae × 4 grind. Swiss NC 2023 (Marius Iscru, TWDA id 10550).
 
 ## Lore
 

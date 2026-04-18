@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, camarilla, title, primogen, prince, justicar, inner-circle, voting]
-sources: [src-001, src-006, src-011, src-013]
+sources: [src-001, src-006, src-011, src-013, src-015]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -35,6 +35,7 @@ See [[voting]] for the full sources-of-votes table.
 - [[archetypes/haqim-royalty|Haqim Royalty]] — Banu Haqim Camarilla toolbox with Prince + Justicar titles; leans on [[rulings/block-resolution|Second Tradition: Domain]] for defence and Haqim's Law: Retribution for bleed amplification via combat-card discards [src-006].
 - [[archetypes/lutz-politics|Lutz Politics]] — multi-clan Camarilla stealth-vote; Lutz von Hohenzollern (Inner Circle) + Undele (Malkavian Justicar) + Dmitra Ilyanova (Brujah Justicar) crypt for raw vote totals; Kine Resources Contested / Conservative Agitation / Banishment referendum chain; Perfect Paragon × 6 + Voter Captivation × 8 vote stack [src-011].
 - [[archetypes/mistress|Mistress]] — Tremere-led Camarilla vote & bleed; Mistress Fanchon Inner Circle signature Alastor/Helicopter combo (1 pool via her ability); 32-master pile with Villein × 7 + Ashur Tablets × 6; Obedience × 4 + Deflection × 4 defence [src-013].
+- [[archetypes/princess-toolbox|Princess Toolbox]] — Tremere Camarilla intercept-wall toolbox; Carna, The Princess Witch triple-discipline host; 39-reaction wall (Deflection × 8, Eyes of Argus × 8, etc.); Magic of the Smith × 6 equipment tutor; Theft of Vitae × 4 grind [src-015].
 
 ## Related Pages
 - [[voting]] — full vote mechanics.
@@ -47,3 +48,4 @@ See [[voting]] for the full sources-of-votes table.
 - src-006 — Codex of the Damned — Haqim Royalty archetype (Banu Haqim Camarilla Prince/Justicar toolbox).
 - src-011 — Codex of the Damned — Lutz Politics archetype (multi-clan Camarilla stealth-vote; Inner Circle + Justicar + Prince titles).
 - src-013 — Codex of the Damned — Mistress archetype (Tremere-led Camarilla Inner Circle vote & bleed; Alastor/Helicopter combo).
+- src-015 — Codex of the Damned — Princess Toolbox archetype (Tremere Camarilla intercept-wall toolbox; Carna Princess Witch + 39-reaction wall).
