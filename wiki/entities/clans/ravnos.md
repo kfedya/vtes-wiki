@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, ravnos, independent, anarch]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-016]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -46,6 +46,7 @@ Overwhelmingly **Independent** — 20 of 78 vampires print `Independent.` in ful
 - **Chimerstry stealth-bleed** — CHI illusion-based stealth modifiers + CHI trickery combat; legacy Ravnos classic.
 - **Animal swarm / Raven Spy** — ANI retainer swarm with Raven Spy intercept; fits Independent sect.
 - **Fortitude wall** — FOR damage-prevent with ANI reactions; resilient defensive Ravnos.
+- [[archetypes/ravnos-bonds|Ravnos Bonds]] — top-tier V5 Ravnos Anarch stealth-and-bleed; Break the Bonds × 16 bleed-and-recruit engine; Memory Rift × 10 OBF stealth; Dabbler × 4 triple-discipline economy [src-016].
 
 ## Query
 
@@ -75,3 +76,4 @@ jq -s '[.[][] | select((.name // "" | test("Ravnos"; "i")) or (.card_text // "" 
 
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-016 — Codex of the Damned — Ravnos Bonds archetype (top-tier V5 Ravnos Anarch stealth-and-bleed; Break the Bonds engine).

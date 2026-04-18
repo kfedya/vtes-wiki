@@ -295,4 +295,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-016 — Codex of the Damned: Ravnos Bonds (top-tier archetype + decklist)
+- type: deck-list
+- date: 2024-09-28
+- author_or_channel: Codex of the Damned (editorial) / Simone Parmeggiani (deck player, EC 2024 Day 1, TWDA id 11668)
+- topic: V5 Ravnos Anarch stealth-and-bleed — Break the Bonds × 16 (CHI action: bleed + recruit another Ravnos from hand on success). Crypt wide pool of G6 Ravnos (Sreelekha × 2, Roberto Rivamonte × 2, Gathii × 2, + 6 singletons). Stealth: Memory Rift × 10 (OBF/AUS, doesn't clog hand) + Lost in Crowds × 3 + Faceless Night × 3 + Elder Impersonation × 4 + Spying Mission × 4 + Veil the Legions × 3 + True Love's Face × 2. Bleed amp: Visions of Gehenna × 8 (CHI +1 bleed) + Power of One × 4 (POT splash) + Public Trust × 4 (PRE). Wave finisher: Week of Nightmares × 2 + Club Illusion. Economy: Dabbler × 4 triple-discipline reward (CHI/OBF/PRE). Defence: Visions of Zapathasura × 5 is the ONLY bleed-defence; Delaying Tactics × 2 anti-vote; Narrow Minds event; Wash × 2 anti-intercept-location. Zero combat cards.
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/ravnos-bonds.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/ravnos-bonds.md
+  - wiki/entities/clans/ravnos.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
