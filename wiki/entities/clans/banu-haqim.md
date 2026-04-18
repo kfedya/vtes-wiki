@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, banu-haqim, assamite, v5-rebrand, independent, camarilla]
-sources: [src-001, src-002, src-006]
+sources: [src-001, src-002, src-006, src-027]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -52,6 +52,7 @@ Nearly even split between **Independent** (7) and **Camarilla** (7) on printed s
 - **Sorcerer-Assassin (V5 direction)** — THA ranged combat + CEL reactions; blood-sorcery rituals replacing legacy Quietus poisons.
 - **Legacy Quietus combat** — QUI combat cards (Silent Death, Taste of Death) paired with CEL/OBF; still strong given crypt depth.
 - [[archetypes/haqim-royalty|Haqim Royalty]] — top-tier Camarilla toolbox; Prince/Justicar crypt + 38-card combat module doubling as Haqim's Law: Retribution bleed fuel [src-006].
+- [[archetypes/kalinda|Kalinda]] — new-kid Camarilla stealth-and-bleed; Kalinda (G6) bleed-then-unlock ability; Protected District × 7 defence; Haqim's Law: Retribution × 6 bleed amp via combat-card discard [src-027].
 
 ## Related
 
@@ -67,3 +68,4 @@ Nearly even split between **Independent** (7) and **Camarilla** (7) on printed s
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
 - src-006 — Codex of the Damned — Haqim Royalty archetype (top-tier Camarilla toolbox).
+- src-027 — Codex of the Damned — Kalinda archetype (new-kid Camarilla stealth-and-bleed via Kalinda G6 + Protected District + Haqim's Law: Retribution).

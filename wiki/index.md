@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 172 | Sources: 26
+Last updated: 2026-04-18 | Pages: 173 | Sources: 27
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -223,6 +223,7 @@ _(no pages yet)_
 - [[archetypes/lasombra-nocturn|lasombra-nocturn]] — Runner-up Lasombra stealth-and-bleed; Nocturn × 12 dual-purpose OBL ally; Govern × 12 ramp; DOM bleed amp (Conditioning × 4, Empowering the Puppet King × 4, Command of the Beast × 4); OBL stealth (Shadow Play × 6, Shroud of Absence × 4); Deflection × 8 bounce. Mexican NC 2023 (Eduardo García, TWDA id 11066).
 - [[archetypes/protean-barons|protean-barons]] — Runner-up multi-clan Anarch Baron toolbox; Protean × 6 Master grants `[pro]` to hosts; Childe of the Revolution × 8 swarm; 16 Organized Resistance wall; Earth Meld × 8 + Donnybrook × 6 combat; close cousin of Gangrel Thing (fewer intercepts, more votes). French NC 2024 (Vincent Ripoll / Ankha, TWDA id 11754).
 - [[archetypes/baron-debate|baron-debate]] — New-kid Brujah Anarch Baron wall; Brujah Debate × 8 stacks on Aline Gädeke (highest-cap Baron) for strength/maneuvers; 18 Organized Resistance wall; Childe of the Revolution × 4 swarm; Dust Up × 6 + Immortal Grapple × 4 combat. Week of Nightmares 2024 (Jorge Delgado, TWDA id 11663).
+- [[archetypes/kalinda|kalinda]] — New-kid Banu Haqim Camarilla stealth-and-bleed; Kalinda (G6) × 4 bleed-then-unlock; Protected District × 7 defence; Haqim's Law: Retribution × 6 combat-card-to-bleed; Swallowed by the Night × 9 stealth/combat dual. New Years Blood 2025 (Bram Van Stappen, TWDA id 11997).
 
 ## Lore
 

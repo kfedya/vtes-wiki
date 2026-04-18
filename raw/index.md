@@ -447,4 +447,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-027 — Codex of the Damned: Kalinda (new-kid archetype + decklist)
+- type: deck-list
+- date: 2025-01-12
+- author_or_channel: Codex of the Damned (editorial) / Bram Van Stappen (deck player, New Years Blood 2025, TWDA id 11997)
+- topic: Banu Haqim Camarilla stealth-and-bleed — Kalinda (G6) × 4 ability bleed-then-unlock; Protected District × 7 defensive block-reaction; Haqim's Law: Retribution × 6 Master (discard combat card for +1 bleed). OBF stealth: Lost in Crowds × 7 + Faceless Night × 3 + Cloak the Gathering × 2 + Elder Impersonation × 2 + Spying Mission × 2 + Domain of Evernight. Swallowed by the Night × 9 + Resist Earth's Grasp × 2 dual stealth/combat-feed for Retribution. Combat Hunger of Marduk × 5 + Pursuit × 4 + Infernal Pursuit × 2. Political: Camarilla's Iron Fist × 3 + Banu Haqim Justicar. Economy: Villein × 4 + Ashur Tablets × 6 + Wider View × 2 + Alamut + Coven. Metagame angle: looks like Haqim Royalty so opponents fear combat. Variants: more Alamut, Web of Knives Recruit splash.
+- url: https://codex-of-the-damned.org/en/archetypes/new-kids/kalinda.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/kalinda.md
+  - wiki/entities/clans/banu-haqim.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
