@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, camarilla, title, primogen, prince, justicar, inner-circle, voting]
-sources: [src-001]
+sources: [src-001, src-006]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -31,6 +31,9 @@ If a vampire with a title gains another title, they **lose the first** even if t
 ## Vote Sources — Summary
 See [[voting]] for the full sources-of-votes table.
 
+## Notable Camarilla archetypes
+- [[archetypes/haqim-royalty|Haqim Royalty]] — Banu Haqim Camarilla toolbox with Prince + Justicar titles; leans on [[rulings/block-resolution|Second Tradition: Domain]] for defence and Haqim's Law: Retribution for bleed amplification via combat-card discards [src-006].
+
 ## Related Pages
 - [[voting]] — full vote mechanics.
 - [[referendum]] — three-step referendum framework.
@@ -39,3 +42,4 @@ See [[voting]] for the full sources-of-votes table.
 
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 27–28 (vote totals), p. 39 (Camarilla).
+- src-006 — Codex of the Damned — Haqim Royalty archetype (Banu Haqim Camarilla Prince/Justicar toolbox).

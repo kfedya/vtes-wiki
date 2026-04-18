@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, banu-haqim, assamite, v5-rebrand, independent, camarilla]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-006]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -51,6 +51,7 @@ Nearly even split between **Independent** (7) and **Camarilla** (7) on printed s
 - **Banu Haqim stealth-bleed** — OBF stealth modifiers + CEL reactions; bleeds through with cheap Quietus combat for defense.
 - **Sorcerer-Assassin (V5 direction)** — THA ranged combat + CEL reactions; blood-sorcery rituals replacing legacy Quietus poisons.
 - **Legacy Quietus combat** — QUI combat cards (Silent Death, Taste of Death) paired with CEL/OBF; still strong given crypt depth.
+- [[archetypes/haqim-royalty|Haqim Royalty]] — top-tier Camarilla toolbox; Prince/Justicar crypt + 38-card combat module doubling as Haqim's Law: Retribution bleed fuel [src-006].
 
 ## Related
 
@@ -65,3 +66,4 @@ Nearly even split between **Independent** (7) and **Camarilla** (7) on printed s
 
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-006 — Codex of the Damned — Haqim Royalty archetype (top-tier Camarilla toolbox).

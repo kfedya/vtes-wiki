@@ -158,4 +158,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-006 — Codex of the Damned: Haqim Royalty (top-tier archetype + decklist)
+- type: deck-list
+- date: 2024-11-03
+- author_or_channel: Codex of the Damned (editorial) / Gyula Erdős (deck player, "Beauty challenge" 2024, TWDA id 11674)
+- topic: Banu Haqim Camarilla toolbox — Prince/Justicar crypt (Kassandra Tassaki × 3, Kasim Bayar × 2, Oluwafunmilayo × 2) leveraging Second Tradition: Domain × 9 for defence; 38-card THA/CEL combat module (Hunger of Marduk × 9, Pursuit family × 12, Psyche! × 5) doubles as Haqim's Law: Retribution bleed fuel (discard a combat card for +1 bleed). Bloat via Villein × 5, Anathema, Priority Contract × 2. Ashur Tablets × 9 + Infernal Pursuit × 5 rebuild engine. Variants: Biothaumaturgic splash, Alamut/Black Throne politics, Embrace/Progeny swarm. Classified by Codex as one of 4 ⭐ "Top Dog" current-meta archetypes.
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/haqim-royalty.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/haqim-royalty.md
+  - wiki/entities/clans/banu-haqim.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
