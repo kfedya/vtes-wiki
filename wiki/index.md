@@ -217,6 +217,7 @@ _(no pages yet)_
 
 - [[mechanics-index/burn-equipment-to-prevent-block|burn-equipment-to-prevent-block]] — equipment with a burn-cost that prevents or sidesteps a block: Concoction of Vitality, Flaming Candle, Ambulance; with Canopic Jar as mirror case.
 - [[mechanics-index/ignore-block-restrictions|ignore-block-restrictions]] — cards that let any vampire block regardless of prey/predator/target restriction: Eagle's Sight [AUS], Falcon's Eye [SPI]; Lord of Serenity on the acting side. Confirmed by VEKN RD.
+- [[mechanics-index/combat-enders-to-torpor|combat-enders-to-torpor]] — cards that end combat AND send a vampire to torpor: strikes (Coma, Entombment, Touch of Oblivion), Master out-of-turn (Rötschreck, with "both-minions-still-ready" caveat), title-sac Reaction (Legacy of Power); self-torpor variants + redirectors (Decapitate/Amaranth/Ahriman's Demesne) + end-of-round senders.
 
 ## Card Database
 

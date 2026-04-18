@@ -170,10 +170,12 @@ A single ingest typically touches 3–10 wiki pages.
 
 **Workflow:**
 1. Identify the narrowest shard(s) from the structured filter.
+   - **Caveat — do not over-narrow by card type.** Effects that *look* combat-bound can live on Master (out-of-turn), Reaction, Event, Equipment, or Power cards. Example: "combat ends + torpor" includes the Master out-of-turn [Rötschreck](https://codex-of-the-damned.org/en/card-search/library/index.html?card=R%C3%B6tschreck) and the Reaction [Legacy of Power](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Legacy%20of%20Power), neither in `combat.json`. When the query is about a game-state mechanic (combat outcome, blocks, torpor, votes, oust, pool, hunt, referendum) rather than a card type, **search every `card-db/library/*.json` shard** (and `crypt.json` if crypt abilities are in scope) and filter by `types` attribute only if the user explicitly asked for a specific card type.
 2. Apply attribute filter (`types`, `disciplines`, `cost`, `clans`, `capacity`, `group`) via `jq` or in-context.
 3. If semantic, apply a coarse regex over `card_text`, then do LLM semantic cleanup on survivors.
-4. Return list with card text + krcg links.
-5. If reusable, offer to file `wiki/mechanics-index/<slug>.md`.
+4. Before finalising, sanity-check against well-known exemplar cards the user might mention — if an obvious card is missing from your list, widen the search.
+5. Return list with card text + krcg links.
+6. If reusable, offer to file `wiki/mechanics-index/<slug>.md`.
 
 ## Page templates
 
