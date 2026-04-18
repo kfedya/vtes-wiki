@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, lasombra, sabbat, camarilla]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-024]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -50,6 +50,7 @@ Historically **Sabbat** — 13 of 69 vampires print `Sabbat.` in full, reflectin
 - **Sabbat Lasombra vote-and-bleed** — DOM bleed + Obtenebration/Oblivion combat; Sabbat title stack (bishop/archbishop/cardinal).
 - **Shadow combat wall** — OBT/OBL shadow combat (Shadow Play, Arms of the Abyss) with POT hand-damage when pressed.
 - **V5 Camarilla Lasombra** — Dominate bleed-bounce (Deflection) with Oblivion combat cards; Camarilla prince/primogen titles.
+- [[archetypes/lasombra-nocturn|Lasombra Nocturn]] — runner-up Lasombra stealth-and-bleed; Nocturn × 12 dual-purpose ally (bleed-boost / combat protection); Govern × 12 ramp + DOM bleed amp (Conditioning, Empowering the Puppet King, Command of the Beast); OBL stealth (Shadow Play, Shroud of Absence) [src-024].
 
 ## Query
 
@@ -79,3 +80,4 @@ jq -s '[.[][] | select((.name // "" | test("Lasombra"; "i")) or (.card_text // "
 
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-024 — Codex of the Damned — Lasombra Nocturn archetype (runner-up Lasombra stealth-and-bleed via Nocturn ally).

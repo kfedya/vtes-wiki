@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 169 | Sources: 23
+Last updated: 2026-04-18 | Pages: 170 | Sources: 24
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -220,6 +220,7 @@ _(no pages yet)_
 - [[archetypes/dementation-bleed|dementation-bleed]] — Runner-up Sabbat Malkavian antitribu stealth-and-bleed; Kindred Spirits × 15 DEM bleed payload + Eyes of Chaos × 8 + Confusion × 8 amp; Telepathic Misdirection × 10 AUS bounce; Coma × 4 combat deterrent. Eternal Vigilance I 2024 (Jonathan da Silva Goudard, TWDA id 11567).
 - [[archetypes/forced-ball|forced-ball]] — Runner-up Toreador Camarilla political/vote; Toreador Grand Ball × 7 (Master: host unblockable on political actions); Diana Iadanza × 3 key vampire (ability bypasses Delaying Tactics); Forced March × 4 action-chain via FOR; Kine Resources Contested × 6 + Parity Shift × 4 referendum spam. Italian Tour Trento 2025 (Filippo Tomov, TWDA id 11913).
 - [[archetypes/infernal-barons|infernal-barons]] — Runner-up Anarch Baali/Ministry vote; Arishat × 4 Baron + Xeper (+1 vote per infernal); Condemnation: Mute × 5 strip opponents' vote capacity; Kine Resources Contested × 11 referendum chain. AUSNZ Continental 2022 (Ke Carlton, TWDA id 10276).
+- [[archetypes/lasombra-nocturn|lasombra-nocturn]] — Runner-up Lasombra stealth-and-bleed; Nocturn × 12 dual-purpose OBL ally; Govern × 12 ramp; DOM bleed amp (Conditioning × 4, Empowering the Puppet King × 4, Command of the Beast × 4); OBL stealth (Shadow Play × 6, Shroud of Absence × 4); Deflection × 8 bounce. Mexican NC 2023 (Eduardo García, TWDA id 11066).
 
 ## Lore
 

@@ -407,4 +407,17 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-024 — Codex of the Damned: Lasombra Nocturn (runner-up archetype + decklist)
+- type: deck-list
+- date: 2023-11-26
+- author_or_channel: Codex of the Damned (editorial) / Eduardo García (deck player, Mexican NC 2023, TWDA id 11066)
+- topic: Lasombra stealth-and-bleed — Govern × 12 ramp; Nocturn × 12 OBL ally (dual-purpose: boost bleed or protect from combat); DOM bleed amp (Conditioning × 4 + Empowering the Puppet King × 4 + Command of the Beast × 4 + Foreshadowing Destruction × 2); OBL stealth (Shadow Play × 6 + Shroud of Absence × 4 + Tenebrous Form × 2); Deflection × 8 DOM bounce + On the Qui Vive × 6 + Redirection × 2 OBL redirect + Pulling Strings + Delaying Tactics; combat Oubliette × 4 + Entombment × 2 + Shadow Body × 2; Vessel × 2 + Blood Doll × 2 + Path of Night × 2 economy. Can deliver 7-damage bleeds by prioritising bleed amp over stealth volume. Variants: Brutal (Arms of the Abyss + Entombment), Black Hand (G3/G4 support), Kiasyd (related Lasombra-Fae bloodline).
+- url: https://codex-of-the-damned.org/en/archetypes/runner-ups/lasombra-nocturn.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/lasombra-nocturn.md
+  - wiki/entities/clans/lasombra.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
