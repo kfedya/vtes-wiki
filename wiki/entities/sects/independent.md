@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, independent, title, votes]
-sources: [src-001]
+sources: [src-001, src-018]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -17,9 +17,13 @@ Some Independent vampires start with **votes**, as listed on card text. Treat th
 ## Legacy Status
 Independent is grouped with the "Other Vampire Sects" section of the rulebook and relates to cards from sets released prior to Fifth Edition [src-001 p. 40]. These cards remain fully compatible with 5E.
 
+## Notable Independent archetypes
+- [[archetypes/the-unnamed|The unnamed]] — top-tier Baali Independent stealth-bleed / bloat; The unnamed × 5 cap-10 (+2 pool per bleed), Infernal; Enkil Cog + Homunculus double-bleed engine [src-018].
+
 ## Related Pages
 - [[voting]] — vote mechanics, including title-less vote sources.
 - [[camarilla]], [[sabbat]], [[anarch]], [[laibon]] — other sects.
 
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 39 (Independent), p. 40 (legacy context).
+- src-018 — Codex of the Damned — The unnamed archetype (Baali Independent Infernal stealth-bleed).

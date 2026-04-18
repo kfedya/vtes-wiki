@@ -323,4 +323,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-018 — Codex of the Damned: The unnamed (top-tier archetype + decklist)
+- type: deck-list
+- date: 2024-06-21
+- author_or_channel: Codex of the Damned (editorial) / Darby Keeney (deck player, Origins Friday 2 2024, TWDA id 11442)
+- topic: Baali Independent stealth-and-bleed / bloat — The unnamed × 5 (G6 cap 10 Infernal: +2 pool after successful bleed) flagship; support crypt The Horde × 3 (non-unique cap-3, lock to give infernal +1 bleed — bypasses bleed-reducers like POB/Visions of Zapathasura) + Xeper, Sultan of Lepers × 2 (+1 vote per ready infernal; steal allies) + Annazir, Arishat. Engine: Enkil Cog × 3 (double action) + Homunculus × 3 (retainer +1 bleed) + Flurry of Action × 6 unlock chain + Instantaneous Transformation × 6 stealth/action. Bloat Tend the Flock × 6 flex (1 pool + influence OR 4 pool). Stealth OBF (Swallowed by the Night × 5, Lost in Crowds × 2, Faceless Night × 2, Elder Impersonation × 2) + I am Legion × 3 (DAI/OBF bounce-cancel + pool). Finisher Unleash Hell's Fury × 3 (DAI/PRE +1 bleed + mode). Infernal allies: Infernal Servitor × 3, Veneficti, Mylan Horseed, D'habi Revenant retainer. Defence: Eluding the Arms of Morpheus × 4, Majesty × 3, Form of the Bat × 2, Sense the Sin × 2. Variants: Anarch (Platinum Protocol hybrid — Lukáš Simandl Austrian Open), Hell Rising, Maleficia, Coven-focused.
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/the-unnamed.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/the-unnamed.md
+  - wiki/entities/clans/baali.md
+  - wiki/entities/sects/independent.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

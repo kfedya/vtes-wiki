@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, legacy, baali, infernal, independent]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-018]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -45,6 +45,7 @@ Printed sect is almost uniformly **Independent** [src-002]. Baali-combo decks le
 - **Baali demonism / curse** — DAI condemnation + curse cards ([[entities/disciplines/maleficia|Maleficia]] combo: Barrenness, Greater Curse) to lock down rivals. OBF stealth-bleed fills the action engine.
 - **Baali vote** — PRE votes at superior + Daimoinon combat intercept / debuff. Lean Independent-title vote counts.
 - **Infernal-heavy grind** — accept the 1-pool unlock tax to field multiple Infernal Baali with agenda-driving card text.
+- [[archetypes/the-unnamed|The unnamed]] — top-tier Baali stealth-and-bleed; The unnamed × 5 cap-10 (+2 pool per bleed); Enkil Cog + Homunculus double-bleed; Flurry of Action × 6 unlock chain; The Horde × 3 bypass of bleed-reducers [src-018].
 
 ## Query
 
@@ -77,3 +78,4 @@ jq -r '.[] | select(.clans[]? == "Baali") | select(.card_text // "" | test("Infe
 
 - src-001 — VTES 5E Rulebook (clan list, p. 53 Quick Reference icons; Infernal trait p. 41).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-018 — Codex of the Damned — The unnamed archetype (top-tier Baali Independent stealth-bleed / bloat).
