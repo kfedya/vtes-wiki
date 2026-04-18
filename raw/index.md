@@ -144,4 +144,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-005 — Codex of the Damned: Gangrel Thing (top-tier archetype + decklist)
+- type: deck-list
+- date: 2024-09-27
+- author_or_channel: Codex of the Damned (editorial) / Marius Iscru (deck player, 2024 VtES European "Last Chance" Qualifier, TWDA id 11667)
+- topic: Gangrel Anarch wall / grind-bleed archetype — 9 Gangrel Anarch Barons, Thing × 5 to fan out 4–6 minions, Organized Resistance × 9 + Deep Ecology × 5 intercept wall, Bait and Switch × 5 bounce, Earth Meld / Form of Mist combat bail, Smiling Jack + Constant Revolution payload, Reckless Agitation / Monkey Wrench lunge; Brutal / Council Propaganda / Renegade variants referenced. Classified by Codex as one of 4 ⭐ "Top Dog" current-meta archetypes.
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/gangrel-thing.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/gangrel-thing.md
+  - wiki/entities/clans/gangrel.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

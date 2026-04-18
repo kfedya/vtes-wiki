@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, gangrel, independent, anarch, camarilla]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-005]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -44,6 +44,7 @@ Heavily split: **Independent** (13 printed) and **Camarilla** (10) are the leadi
 - **Gangrel wall / weenie-wall** — ANI reactions (On the Qui Vive, Cats' Guidance) + FOR damage-prevent; tanks combat and intercepts bleeds.
 - **Protean combat / native weapons** — PRO Flesh of Marble + Form of Mist + native-weapon strikes for resilient slow aggression.
 - **Anarch Gangrel swarm** — cheap Anarch Gangrels leveraging animal retainers (Raven Spy) and baron-title politics.
+- [[archetypes/gangrel-thing|Gangrel Thing]] — top-tier grind-bleed / intercept wall using Thing × 5 to fan out Anarch Barons; Codex-classified ⭐ Top Dog [src-005].
 
 ## Query
 
@@ -73,3 +74,4 @@ jq -s '[.[][] | select((.name // "" | test("Gangrel"; "i")) or (.card_text // ""
 
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-005 — Codex of the Damned — Gangrel Thing archetype (top-tier Anarch Baron wall).
