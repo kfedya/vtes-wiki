@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [combat, strike-effects, hand-strike, dodge, combat-ends, first-strike, steal-blood, destroy-equipment, steal-equipment]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -83,5 +83,17 @@ Chrysanthemum (capacity 5, 4 blood) fights an Underbridge Stray ally (2 life). A
 - Ordering first strike before combat ends.
 - Forgetting that a destroyed weapon may still be used up to the instant the strike resolves.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label (RTR/LSJ/ANK/PIB).
+
+### [Taste of Vitae](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Taste%20of%20Vitae)
+- Must be played **after the press step** is handled, and **can** be played **even if the round ended prematurely** [src-002, RTR 20001020, LSJ 20001024, RTR 20030519].
+- Can be played **before or after** end-of-round effects and "when the combat would end" effects (e.g., [Telepathic Tracking](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Telepathic%20Tracking)). Can be played **after [Psyche!](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Psyche%21)** [src-002, LSJ 20021113, ANK 20191219, ANK 20180910-1].
+- Can be played **even if the opposing minion was burned** during combat [src-002, LSJ 20031201-2].
+
+### Cross-reference
+- Hidden Strength's "X can be higher than strictly needed (prevents up to X+1)" ruling is surfaced in [[combat#hidden-strength]].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 33–34 (Strike Effects sidebar, First Strike, Destroy/Steal Equipment, Steal Blood), p. 48 (Carrion Crows), p. 49 (Murder of Crows, Hidden Strength), p. 50 (Roundhouse), p. 51 (Swallowed by the Night, Taste of Vitae, Theft of Vitae).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
