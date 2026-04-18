@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [action, bleed, edge, directed, limited, redirect]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -71,5 +71,16 @@ Some bleed-enabling cards let the acting vampire choose **at announcement** whic
 - Expecting the Edge from a 0-bleed "successful" action.
 - Playing Deflection before declining to block (you must decline first).
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label (RTR/LSJ/ANK/PIB) for traceability.
+
+- **[Foreshadowing Destruction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Foreshadowing%20Destruction)** — if its bleed bonus is **lost during the action** (e.g., the bleed is [Deflection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deflection)'d to another target and thereby the target's pool crosses the 10-threshold), FD **stops counting against the (limited) limit**, so an additional bleed modifier can be played [src-002, RTR 20191031, ANK 20211019-2].
+- **[Spying Mission](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Spying%20Mission)** — once SM is burned to increase a bleed, **no further cards or effects can be played** (including [Archon Investigation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Archon%20Investigation)) until after action resolution [src-002, LSJ 19980105].
+- **Spying Mission** — if SM is cancelled (e.g., [Direct Intervention](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Direct%20Intervention)), **it is too late for the target to play reactions**. If the cancellation cost ousts a player, resolve the oust **before** resolving the bleed [src-002, LSJ 20050607, LSJ 20050608].
+- **[Deflection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deflection)** / **[Telepathic Misdirection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Telepathic%20Misdirection)** — playable when **failing to block because of stealth** (failing to block is still "declining to block") [src-002, ANK 20211003].
+- **Deflection / Telepathic Misdirection** — must be played **before action resolution**; specifically, **cannot be played after a Spying Mission on the vampire triggers** [src-002, LSJ 19980105].
+- **Deflection / Telepathic Misdirection** — cannot redirect a bleed to a Methuselah who would be an **invalid target** for a bleed [src-002, PIB 20130711].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 20 (Bleed), p. 26 (target change reopens blocks), p. 46 (Bleed FAQ), pp. 48–51 (card rulings for Aire of Elation, Conditioning, Deflection, Enchant Kindred, Foreshadowing Destruction, Govern the Unaligned, Perfect Paragon, Spying Mission, Telepathic Misdirection).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
