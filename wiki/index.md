@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 164 | Sources: 18
+Last updated: 2026-04-18 | Pages: 165 | Sources: 19
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -215,6 +215,7 @@ _(no pages yet)_
 - [[archetypes/ravnos-bonds|ravnos-bonds]] — Top-Tier V5 Ravnos Anarch stealth-and-bleed; Break the Bonds × 16 (CHI bleed + recruit Ravnos from hand); Memory Rift × 10 OBF stealth; Visions of Gehenna × 8 bleed amp; Dabbler × 4 triple-disc economy; zero combat cards. EC 2024 Day 1 (Simone Parmeggiani, TWDA id 11668).
 - [[archetypes/stanislava|stanislava]] — Top-Tier Camarilla Gangrel Inner Circle stealth-vote/bleed; Stanislava × 5 flagship cap-11 (+2 bleed, allies can't block); Zillah's Valley × 8 ramp + Kine Resources Contested × 6 + Protean (Form of Mist × 7, Earth Meld × 5, Earth Control × 6) stealth/combat bail. UK NC 2023 (Mikey Ferguson, TWDA id 10998).
 - [[archetypes/the-unnamed|the-unnamed]] — Top-Tier Baali Independent stealth-and-bleed / bloat; The unnamed × 5 cap-10 (+2 pool per bleed); Enkil Cog + Homunculus double-bleed; Flurry of Action × 6 unlock chain; The Horde × 3 bypass of bleed-reducers; Tend the Flock × 6 flex bloat. Origins Friday 2 2024 (Darby Keeney, TWDA id 11442).
+- [[archetypes/tupdogs|tupdogs]] — Top-Tier Sabbat rush; Tupdog × 21 cap-1 Gargoyle (Tremere-antitribu-slave) disposable rush minions + Rock Cat × 10 ally support; Graverobbing × 8 steals prey-torpored vampires; 37-card combat pile. GP Milan 2024 (Danilo Torrisi, TWDA id 10853).
 
 ## Lore
 

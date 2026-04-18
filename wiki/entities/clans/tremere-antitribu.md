@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, legacy, antitribu, tremere, sabbat]
-sources: [src-001, src-002, src-014]
+sources: [src-001, src-002, src-014, src-019]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -38,6 +38,7 @@ Primarily **[[entities/sects/sabbat|Sabbat]]** — the defining feature of the a
 ## Typical deck archetypes
 
 - [[archetypes/nephandii|Nephandii]] — top-tier Sabbat allies-swarm built around Antonio d'Erlette's Mage-ally recruit ability; Nephandus × 10 + Target Vitals × 8 payload; Ashur Tablets × 9 + Liquidation × 4 economy [src-014].
+- [[archetypes/tupdogs|Tupdogs]] — top-tier Sabbat rush; Tremere-antitribu hosts enable Tupdog slaves (cap-1 Gargoyles) for repeated rushes + Rock Cat allies + Graverobbing [src-019].
 
 ## Notable members
 
@@ -62,3 +63,4 @@ jq '.[] | select(.clans[]? == "Tremere antitribu") | .name' card-db/crypt.json
 - src-001 — VTES 5E Rulebook (Sabbat sect rules, p. 40).
 - src-002 — krcg vtes.json snapshot 2026-04-18.
 - src-014 — Codex of the Damned — Nephandii archetype (top-tier Sabbat Mage-ally swarm via Antonio d'Erlette).
+- src-019 — Codex of the Damned — Tupdogs archetype (top-tier Sabbat rush via Tremere-antitribu-hosted Tupdog slaves + Rock Cat allies).

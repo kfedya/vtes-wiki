@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, legacy, gargoyle, tremere-bloodline, flight, single-clan-discipline]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-019]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -45,6 +45,7 @@ Printed sect is mixed: several **Camarilla** Gargoyles (many printed as **Tremer
 - **Gargoyle wall / stone-combat** — VIS damage-prevent combat (Earth Meld, Stone Strength) + POT hand-strike; ANI / Create Gargoyle allies for swarm support.
 - **Flight beat-stick** — stack FLIGHT library cards (Soar, Swoop, Pounce) for hyper-mobile combat.
 - **Tremere-Gargoyle combined crypt** — use Tremere master to anchor Tremere-slave Gargoyles; THA + VIS combat overlap.
+- [[archetypes/tupdogs|Tupdogs]] — top-tier Sabbat rush archetype; Tupdog × 21 (cap-1 non-unique Tremere-antitribu-slave Gargoyle) as disposable rush minions + Rock Cat × 10 ally support; Graverobbing × 8 steals prey torpored vampires [src-019].
 
 ## Query
 
@@ -76,3 +77,4 @@ jq -r '.[] | select(.clans[]? == "Gargoyle") | select(.card_text // "" | test("F
 
 - src-001 — VTES 5E Rulebook (clan list; Flight trait p. 41).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-019 — Codex of the Damned — Tupdogs archetype (top-tier Sabbat rush using Tupdog + Rock Cat + Graverobbing).

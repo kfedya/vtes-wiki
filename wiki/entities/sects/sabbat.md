@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, sabbat, title, bishop, archbishop, priscus, cardinal, regent, legacy]
-sources: [src-001, src-014]
+sources: [src-001, src-014, src-019]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -50,6 +50,7 @@ Same rule as Camarilla — see [[camarilla#title-loss-on-sectclan-change]] [src-
 
 ## Notable Sabbat archetypes
 - [[archetypes/nephandii|Nephandii]] — top-tier Sabbat allies-swarm using Antonio d'Erlette (Tremere antitribu) as Mage-ally recruit engine; 10 × Nephandus + Target Vitals × 8 payload. Antonio's Sabbat-gated ability is the core mechanic [src-014].
+- [[archetypes/tupdogs|Tupdogs]] — top-tier Sabbat rush using Tremere antitribu hosts + Tupdog × 21 (cap-1 Gargoyle Tremere-antitribu-slave) for disposable rushes. Rock Cat × 10 allies + Graverobbing × 8 steals prey-torpored vampires [src-019].
 
 ## Related Pages
 - [[voting]] — full vote mechanics.
@@ -59,3 +60,4 @@ Same rule as Camarilla — see [[camarilla#title-loss-on-sectclan-change]] [src-
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 39 (title loss), p. 40 (Sabbat, Prisci Block, antitribu).
 - src-014 — Codex of the Damned — Nephandii archetype (Sabbat Mage-ally swarm; Antonio d'Erlette Sabbat-gated recruit ability).
+- src-019 — Codex of the Damned — Tupdogs archetype (Sabbat rush via Tupdog cap-1 Tremere-antitribu-slave + Rock Cat + Graverobbing).

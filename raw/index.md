@@ -337,4 +337,19 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-019 — Codex of the Damned: Tupdogs (top-tier archetype + decklist)
+- type: deck-list
+- date: 2023-12-09
+- author_or_channel: Codex of the Damned (editorial) / Danilo Torrisi (deck player, GP Milan Season 2024, TWDA id 10853)
+- topic: Sabbat rush — Tupdog × 21 (cap-1 non-unique Gargoyle Tremere-antitribu-slave; each burns end-of-minion-phase) as disposable rush minions enabled by Tremere antitribu hosts (Antonio d'Erlette, Esoara, Janine, Mosfair, Ember Wright, Keith Moody, Saiz × 1 each). Combat pile 37 cards: Immortal Grapple × 10 + Raking Talons × 9 + Brick by Brick × 8 + Disarm × 6 + Roundhouse × 4. Rock Cat × 10 (cap-4 ally, 3 life 2 strength, ends combat on press) supplementary threats. Graverobbing × 8 (Sabbat action) steals prey's torpored vampires. Autarkis Persecution × 8 political pool-damage/gain. Ashur Tablets × 6 + Info Highway × 3 + Dreams × 3 economy. Deflection × 6 + As the Crow × 6 (ANI bypass of block restrictions for Rock Cat) + Secure Haven + Fame defence. Closes Batch B (11 Top Tier archetypes).
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/tupdogs.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/tupdogs.md
+  - wiki/entities/clans/gargoyle.md
+  - wiki/entities/clans/tremere-antitribu.md
+  - wiki/entities/sects/sabbat.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
