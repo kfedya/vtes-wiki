@@ -143,5 +143,52 @@ A **wake** effect lets a locked vampire act as though unlocked **for the duratio
 - Using an action card's printed stealth value to "pool" stealth into another action — you can't; printed stealth is the starting value for that action only.
 - Assuming a wake effect unlocks the vampire — it doesn't; they just act as though unlocked for this action.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label (RTR/LSJ/ANK/PIB/TOM).
+
+### [Cloak the Gathering](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Cloak%20the%20Gathering)
+- **Multiple copies** can be played by **different minions** on the same action — stealth stacks [src-002, ANK 20200515].
+
+### [Daring the Dawn](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Daring%20the%20Dawn)
+- If the action is **blocked**, the self-damage is applied **after combat** resolves [src-002, RTR 19980623].
+- The damage **is** applied whenever the action **reaches resolution** — even if the action ends before combat (e.g., via [Mirror Walk](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mirror%20Walk), [Change of Target](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Change%20of%20Target), [Red Herring](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Red%20Herring)) or has no effect (e.g., because the cost cannot be paid) [src-002, ANK 20220331, ANK 20210124, LSJ 20020927, LSJ 20021115, ANK 20221011-2].
+- The damage is **not** applied if the action is **cancelled before resolution** (e.g., by [Tangle Atropos' Hand](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Tangle%20Atropos%27%20Hand), [The Kiss of Ra](https://codex-of-the-damned.org/en/card-search/library/index.html?card=The%20Kiss%20of%20Ra)) [src-002, ANK 20220401, ANK 20211015, ANK 20210124].
+
+### [Faceless Night](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Faceless%20Night)
+- A minion who was **already attempting to block** when Faceless Night is played **cannot back out** of the attempt [src-002, LSJ 20081202].
+- The aspirant blocker is locked **at resolution**. Before the lock, they can still play [Deflection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deflection) (and even re-attempt to block if deflected back), and they can play [Guard Dogs](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Guard%20Dogs) — **before the lock, not after** [src-002, ANK 20171017, ANK 20230305].
+
+### [Cats' Guidance](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Cats%27%20Guidance)
+- Is played **after all combats** on the action have been handled [src-002, RTR 19980623, LSJ 20040219, ANK 20221130].
+
+### [Eagle's Sight](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eagle%27s%20Sight) / [Falcon's Eye](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Falcon%27s%20Eye) (cross-table block enablers)
+- These cards **only** override the "who may block" restriction. Every **other** requirement to block still applies. In particular, [Blood Bond](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blood%20Bond), [Day Operation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Day%20Operation), [Seduction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Seduction), and a **prior decision not to block** are **not** circumvented [src-002, RTR 19950413, RTR 20020501].
+- Apply to **one block attempt only**. If the action later continues as if unblocked (e.g., via [Form of Mist](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Form%20of%20Mist)), a **new copy** is needed [src-002, LSJ 20030227].
+
+### Wake-family ([On the Qui Vive](https://codex-of-the-damned.org/en/card-search/library/index.html?card=On%20the%20Qui%20Vive), [Wake with Evening's Freshness](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Wake%20with%20Evening%27s%20Freshness), [Eyes of Argus](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eyes%20of%20Argus), [Forced Awakening](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Forced%20Awakening))
+Shared rulings across the wake/permanent-wake family:
+- Can be played or used **after action resolution** — e.g., to play a reaction like [Fast Reaction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Fast%20Reaction) after combat [src-002, LSJ 20091123].
+- Can be played in the **"as a card is played" window**, **except** during combat or when there is no action [src-002, ANK 20210819].
+
+### Wake with Evening's Freshness (specific)
+- Is **replaced before unlocking cards** resolve. Other unlock effects **cannot be ordered before** Wake [src-002, ANK 20200129, LSJ 20091208, RTR 19951017].
+
+### [Forced Awakening](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Forced%20Awakening) (specific)
+- If the vampire **fails to block**, the 1-blood cost is paid **only when the action begins to resolve** (success or not). The vampire can play and pay for reactions **after declining to block, before burning the blood** [src-002, LSJ 19990421].
+- If the vampire **successfully blocks**, the blood cost is **not paid** — even if the action continues as if unblocked afterward (e.g., Form of Mist) [src-002, LSJ 20070417].
+- Forced Awakening **does not consider blocks made before it was played** (relevant when the action has been continued, e.g., via Form of Mist) [src-002, ANK 20230319].
+
+### [Guard Dogs](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Guard%20Dogs)
+- The maneuver works **only in the combat from the successful block**, and does **not carry over** to a follow-up combat (e.g., from [Psyche!](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Psyche%21)) [src-002, LSJ 20010813, LSJ 20010819-2].
+- The maneuver is **provided again** if a **second block** happens on the same action (e.g., after Form of Mist reopens blocks) [src-002, LSJ 20010814-2].
+
+### [Second Tradition: Domain](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Second%20Tradition:%20Domain)
+- The burn-blood cost is **not** reduced by card-cost-reduction effects (e.g., [Adana de Sforza](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Adana%20de%20Sforza)) [src-002, ANK 20210226].
+- Cannot be played if the vampire **cannot afford to burn the blood** [src-002, ANK 20210226].
+- If unlocking the vampire **removes the action's target** (e.g., [Ambush](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Ambush)), the **block attempt still happens** — and the combat on successful block still happens [src-002, LSJ 20090514].
+- Can be used by a vampire **already attempting to block** [src-002, ANK 20181122-2].
+- **Does NOT** override the prey/predator/target restrictions — contrast with Eagle's Sight / Falcon's Eye [src-002, ANK 20180623].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 25–27 (Resolve Any Block Attempts, Detailed Course of an Action), p. 46 (Stealth FAQ), pp. 48–52 (card rulings — Cats' Guidance, Cloak the Gathering, Daring the Dawn, Eyes of Argus, Faceless Night, Guard Dogs, Haven Uncovered, On the Qui Vive, Pentex Subversion, Second Tradition: Domain, Wake with Evening's Freshness), p. 44 (Wake glossary entry).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
