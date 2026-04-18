@@ -489,4 +489,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-030 — Codex of the Damned: Salubri Powerbleed (new-kid archetype + decklist)
+- type: deck-list
+- date: 2024-03-02
+- author_or_channel: Codex of the Damned (editorial) / Pasi Karjalainen (deck player, Fee Stake: Jyväskylä 4 2024, TWDA id 11271)
+- topic: V5 Salubri Camarilla powerbleed — crypt Abaddon × 2 + Seraphina × 2 + Ilonka × 2 + Aniel × 2 + Malachi × 2 + Opikun + Yael. Core: Feast of the Soul's Secrets × 6 (DOM powerbleed action) + Govern × 5 + Scouting Mission × 4. Block-denial stack: Seduction × 6 + Forced Confessional × 6 + Misdirection × 2 + Pentex × 2 + Anarch Troublemaker × 2 + Unleashing the Bestial Soul × 2 (beats wake-and-bounce). Freak Drive × 5 (ANI) action-chain via Salubri Fortitude. Bonding × 3 + Conditioning × 2 + Threats × 2 bleed amp. Defence Deflection × 4 + Eyes of Argus × 3 + Murmur of the False Will × 2 + singletons. FOR combat wall Rolling with the Punches × 4 + Indomitability × 3 + Hidden Strength × 3. Saulot's Guiding Wisdom, Sight Beyond Sight, Meditative Grove. Noted as achievement in competitive Finnish meta.
+- url: https://codex-of-the-damned.org/en/archetypes/new-kids/salubri-powerbleed.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/salubri-powerbleed.md
+  - wiki/entities/clans/salubri.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

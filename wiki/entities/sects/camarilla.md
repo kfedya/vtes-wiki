@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, camarilla, title, primogen, prince, justicar, inner-circle, voting]
-sources: [src-001, src-006, src-011, src-013, src-015, src-017, src-022, src-027]
+sources: [src-001, src-006, src-011, src-013, src-015, src-017, src-022, src-027, src-030]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -39,6 +39,7 @@ See [[voting]] for the full sources-of-votes table.
 - [[archetypes/stanislava|Stanislava]] — Gangrel-led Camarilla stealth-vote/bleed; Stanislava × 5 Inner Circle flagship (cap 11, +2 bleed, allies can't block); Zillah's Valley × 8 ramp; Kine Resources Contested × 6 + Protean stealth/combat bail [src-017].
 - [[archetypes/forced-ball|Forced Ball]] — runner-up Toreador Camarilla political/vote; Toreador Grand Ball × 7 makes host unblockable on political actions; Diana Iadanza's anti-Delaying Tactics ability; FOR Forced March chain [src-022].
 - [[archetypes/kalinda|Kalinda]] — new-kid Banu Haqim Camarilla stealth-and-bleed; Kalinda (G6) bleed-then-unlock; Protected District × 7 defence; Haqim's Law: Retribution × 6 combat-card-to-bleed conversion [src-027].
+- [[archetypes/salubri-powerbleed|Salubri Powerbleed]] — new-kid V5 Salubri Camarilla powerbleed; Feast of the Soul's Secrets × 6 + Govern × 5 powerbleed engine + block-denial stack (Seduction × 6 + Forced Confessional × 6 + Misdirection/Pentex/Anarch Troublemaker Masters) [src-030].
 
 ## Related Pages
 - [[voting]] — full vote mechanics.
@@ -55,3 +56,4 @@ See [[voting]] for the full sources-of-votes table.
 - src-017 — Codex of the Damned — Stanislava archetype (Gangrel-led Camarilla stealth-vote/bleed; Inner Circle flagship).
 - src-022 — Codex of the Damned — Forced Ball archetype (Toreador Camarilla political via Grand Ball; runner-up).
 - src-027 — Codex of the Damned — Kalinda archetype (Banu Haqim Camarilla stealth-and-bleed; new-kid).
+- src-030 — Codex of the Damned — Salubri Powerbleed archetype (V5 Salubri Camarilla powerbleed; new-kid).

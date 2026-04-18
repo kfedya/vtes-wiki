@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, salubri, independent]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-030]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -47,6 +47,7 @@ Printed sect text is sparse — only 2 of 22 Salubri print `Independent.` in ful
 - **Salubri wall** — AUS intercept reactions + FOR damage-prevent; small-but-tanky crypt.
 - **Healer / Obeah control** — legacy OBE blood-return + damage-prevent; pacifist toolbox.
 - **Salubri antitribu warrior** — VAL aggravated-damage combat; Sabbat-aligned aggression.
+- [[archetypes/salubri-powerbleed|Salubri Powerbleed]] — new-kid V5 Salubri Camarilla powerbleed; Feast of the Soul's Secrets × 6 + Govern × 5 + Seduction × 6 + Forced Confessional × 6 block-denial stack; FOR combat wall + Freak Drive × 5 chain [src-030].
 
 ## Query
 
@@ -76,3 +77,4 @@ jq -s '[.[][] | select((.name // "" | test("Salubri"; "i")) or (.card_text // ""
 
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-030 — Codex of the Damned — Salubri Powerbleed archetype (new-kid V5 Salubri Camarilla powerbleed via Feast of the Soul's Secrets + block-denial stack).
