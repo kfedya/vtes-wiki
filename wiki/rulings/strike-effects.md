@@ -1,9 +1,9 @@
 ---
 type: ruling
-tags: [combat, strike-effects, hand-strike, dodge, combat-ends, first-strike, steal-blood, destroy-equipment, steal-equipment]
-sources: [src-001, src-002]
+tags: [combat, strike-effects, hand-strike, dodge, combat-ends, damage-rider, sce, first-strike, steal-blood, destroy-equipment, steal-equipment]
+sources: [src-001, src-002, src-003]
 last_verified: 2026-04-18
-status: draft
+status: verified
 ---
 
 # Strike Effects
@@ -33,6 +33,24 @@ Immediately ends combat. Resolution order:
 - Effective **at any range**.
 - **Not affected by a dodge** (dodge only cancels effects directed at the dodging minion).
 - **A strike: combat ends ends combat before Carrion Crows damage is inflicted** [src-001 p. 48].
+
+### Combat Ends with a damage rider
+
+Several strike cards read `Strike: combat ends, AND <X>` — e.g. [Catatonic Fear](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Catatonic%20Fear) [PRE] (1 unpreventable damage after combat ends at close), [Loving Agony](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Loving%20Agony) [val] (same pattern), [Majesty](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Majesty) (no damage, pure SCE).
+
+**General rule, per Pascal Bertrand** [src-003]:
+> *"All 'Strike: End combat and do X' effects have X happen **after** the end of combat — the only exception being when 'do X' is untapping one (or two) minion(s)."*
+
+Consequences:
+- **The rider X is NOT protected by being part of combat resolution.** Combat-card prevention, `Taste of Vitae`, and other in-combat effects are out of scope once combat ends [LSJ 20010205] [LSJ 20031123] [src-002].
+- **Dodge still defeats the whole strike** — if the SCE strike is dodged, no combat-ends AND no rider damage [src-003]. Dodge protects the dodging minion from all effects of the opposing strike, including the rider.
+- **If combat continues** (e.g. `Psyche!`, `Telepathic Tracking` restart combat), the after-combat rider **does not happen / is not usable** [RTR 20020501] [src-002].
+- **Aim / damage-boost cards can boost the rider** when the rider damage successfully lands. [Target Vitals](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Target%20Vitals) adds **+2 damage** to Catatonic Fear [PRE] or Loving Agony [val] rider damage if it is inflicted [PIB 20130319] [src-003]. `Dam the Heart's River` adds +1 via its "strike OR damaging effect" clause [ANK 20170111] [src-002]. The general krcg Target Vitals ruling "has no effect on a strike that does no damage" [RTR 19960221] covers basic-level SCE without a rider (and dodges), **not** SCE strikes that carry a damage rider.
+- **Damage-aggravating effects DO NOT reach the rider** if they scope to "during combat". [Dawn Operation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Dawn%20Operation) only aggravates damage dealt during combat, so Catatonic Fear / Loving Agony rider damage **is not aggravated** by a pre-combat Dawn Operation [src-003].
+- **Combat-only cards cannot be used on the rider outcome.** [Amaranth](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Amaranth) is a combat card — so you cannot Amaranth a vampire who dies from Catatonic Fear's after-combat damage; combat has already ended when that death happens [src-003]. Same logic for any combat-only effect that would trigger on the rider result.
+- **Exception — untap riders** (`Strike: combat ends, this vampire unlocks` and similar) resolve before combat ends so they happen inside combat [src-003].
+
+Full breakdown on the card page: [[wiki/cards/catatonic-fear|Catatonic Fear]]. Common mistake entry: [[playgroup/common-mistakes#aim-cards-on-combat-ends-with-damage-rider]].
 
 ## Steal Blood
 Moves blood counters (or life counters) from the target to the striking minion. Details [src-001 p. 33]:
@@ -97,3 +115,4 @@ Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserv
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 33–34 (Strike Effects sidebar, First Strike, Destroy/Steal Equipment, Steal Blood), p. 48 (Carrion Crows), p. 49 (Murder of Crows, Hidden Strength), p. 50 (Roundhouse), p. 51 (Swallowed by the Night, Taste of Vitae, Theft of Vitae).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
+- src-003 — VEKN forum thread `46164-catatonic-fear-and-loving-agony` (PIB 20130319) — general rule for "Strike: End combat and do X" effects (X happens after combat, except untap X), Target Vitals +2 on SCE rider damage, Dawn Operation scope, Amaranth timing.

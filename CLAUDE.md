@@ -95,6 +95,60 @@ When two sources conflict, use this order from most to least authoritative:
 4. Set the page's `status` to `disputed`.
 5. Flag for resolution on the next lint pass.
 
+## External reference sources
+
+When the wiki doesn't have the answer — or the user challenges a ruling you're about to give from card-db rulings alone — **consult these authoritative external sources before insisting on an interpretation**. Use `WebFetch` (and `Bash` + `curl` for JSON APIs). Every rules statement should be backed by one of these tiers, or the wiki + rulebook.
+
+### 1. krcg API v2 — empirical deck & card data
+Base: `https://api.krcg.org` · OpenAPI: `https://api.krcg.org/openapi.yaml`
+
+- `POST /twda/list` — body `{"cards": ["Card A", "Card B", …]}` → list of Tournament Winning Deck Archive entries containing all those cards. Returns `id`, `name`, `date`. Use this to test "does this combo appear in tournament play?" before insisting it doesn't work.
+- `POST /twda` — same body, full deck objects.
+- `POST /twda/random` — same body, one random deck.
+- `GET /twda/{id}` — full decklist by id.
+- `POST /card` — card search by attributes (type, sect, disciplines, etc.) when a card-db jq pass isn't enough.
+- `GET /amaranth?url=…` — import an Amaranth share URL into a normalised deck object.
+
+Rule of thumb: if you're about to tell the user "this combo doesn't work", first `curl -X POST api.krcg.org/twda/list -d '{"cards":[…]}'`. If 3+ TWDA decks contain both cards, assume your interpretation is wrong and investigate.
+
+### 2. VEKN forum — Rules Director rulings
+Root: `https://www.vekn.net/forum/rules-questions`
+
+Authoritative rulings come from two accounts:
+- **Ankha** (Vincent Ripoll) — current VEKN Rules Director.
+- **Pascal Bertrand** — longtime rules coordinator.
+
+The krcg-embedded `rulings[]` cite source-threads by reference label:
+- `[RTR YYYYMMDD]` — historical rec.games.trading-cards.jyhad posts (Google Groups).
+- `[LSJ YYYYMMDD]` — L. Scott Johnson rulings (historical Rules Director).
+- `[ANK YYYYMMDD]` — Ankha posts (vekn.net forum).
+- `[PIB YYYYMMDD]` — Pascal Bertrand posts (vekn.net forum).
+
+The URLs in `card-db/*.json` ruling entries point directly to the thread of origin. **When a card-db ruling surprises you or the user challenges it, `WebFetch` the URL** and read the thread — rulings are often more nuanced than the single-sentence summary, and sibling rulings in the same thread often cover adjacent cases.
+
+### 3. Codex of the Damned — strategy context
+`https://codex-of-the-damned.org` · krcg-backed strategy / archetype / best-cards articles by Lionel Panhaleux and community. Use for deck-building intent, archetype naming, and combo discovery. Not authoritative for rules but often flags combos that *are* ruled-valid.
+
+Key entry points:
+- `/en/index.html` — home.
+- `/en/archetypes/index.html` — archetype catalog.
+- `/en/strategy/articles/advanced/combat-modules.html` — combat module article (Presence SCE, Potence beats, Celerity chains, etc.).
+- `/en/deck-search.html` — UI over TWDA.
+
+### 4. VDB — card search & deck building
+`https://vdb.im` (frontend) · source: `https://github.com/smeea/vdb`. Good as a secondary lookup when krcg's data is insufficient.
+
+### 5. Amaranth
+`https://amaranth.vtes.co.nz` — deck-builder with share URLs. Import via krcg `/amaranth` endpoint.
+
+### When the user pushes back on your answer
+
+**Do not double down from memory.** The pattern:
+1. Re-read the exact card text and krcg rulings — look at *which case* each ruling covers, not just the summary sentence.
+2. `WebFetch` the forum URL embedded in the krcg ruling — the thread usually has adjacent context the single-line summary loses.
+3. `curl` the krcg TWDA API for empirical evidence — tournament pilots don't pack dead combos.
+4. If 1–3 contradict your interpretation, say so, correct the answer, and propose an ingest so the wiki doesn't make the same mistake again.
+
 ## Operations
 
 ### Ingest
@@ -122,10 +176,11 @@ A single ingest typically touches 3–10 wiki pages.
 **Workflow:**
 1. Read `wiki/index.md` first to locate relevant pages.
 2. Drill into the identified pages.
-3. If the answer requires information not in the wiki, say so and suggest ingesting sources that would cover it. Do not invent.
+3. If the answer requires information not in the wiki, **use the External reference sources above** (krcg TWDA API, VEKN forum, Codex) before saying "I don't know" or guessing. Say so and suggest ingesting sources that would cover it. Do not invent.
 4. Answer with inline source citations when quoting ruling-layer statements.
-5. If the answer is genuinely novel — a comparison, a synthesis, or a new connection — offer to file it as a new page so the knowledge compounds.
-6. For significant queries (ones that involved more than a simple page lookup), append to `wiki/log.md`: `## [YYYY-MM-DD] query | "<question>" — filed as <path> §<section>` (or `— no page filed` if nothing new).
+5. **If the user pushes back on your answer**, follow the *"When the user pushes back"* checklist in the External reference sources section — re-read krcg rulings for which case they cover, `WebFetch` the referenced forum thread, and `curl` TWDA for empirical evidence. Do not double down from memory.
+6. If the answer is genuinely novel — a comparison, a synthesis, or a new connection — offer to file it as a new page so the knowledge compounds.
+7. For significant queries (ones that involved more than a simple page lookup), append to `wiki/log.md`: `## [YYYY-MM-DD] query | "<question>" — filed as <path> §<section>` (or `— no page filed` if nothing new).
 
 ### Lint
 

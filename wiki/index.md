@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 147 | Sources: 2
+Last updated: 2026-04-18 | Pages: 149 | Sources: 3
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -72,7 +72,7 @@ Catalogue of every page in the wiki. LLM reads this first when answering a query
 
 ## Playgroup
 
-_(no pages yet)_
+- [[playgroup/common-mistakes|common-mistakes]] — rules errors we've hit, deep-linked from ruling pages. First entry: Aim cards (Target Vitals) on combat-ends strikes with damage rider (Catatonic Fear [PRE], Loving Agony [val]).
 
 ## Entities
 
@@ -196,6 +196,7 @@ _(no pages yet)_
 - [[wiki/cards/vessel|vessel]] — master; Blood Doll burn optional-but-announced; wait-a-turn; cross-Methuselah controller-vs-user split.
 - [[wiki/cards/smiling-jack-the-anarch|smiling-jack-the-anarch]] — master; mandatory pool even if ousts; mix blood/pool across vampires.
 - [[wiki/cards/theft-of-vitae|theft-of-vitae]] — combat Blood Sorcery; any range; not-damage; strike:CE first; steal-before-mend; simultaneous mutual steal.
+- [[wiki/cards/catatonic-fear|catatonic-fear]] — combat Presence; SCE with 1 unpreventable damage rider at superior close; Target Vitals +2, Dam the Heart's River +1, Dawn Operation does NOT aggravate, Amaranth illegal on 0-blood victim; "Fearful Vitals" TWDA archetype.
 
 ## Archetypes
 

@@ -110,6 +110,22 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
 ### krcg snapshots
 ### Articles
 ### Forums
+
+## src-003 — VEKN forum thread: Catatonic Fear and Loving Agony (PIB 20130319)
+- type: forum-thread
+- date: 2013-03-19
+- author_or_channel: vekn.net — wesile (asker), Ankha (Rules Director), Pascal Bertrand (rules coordinator)
+- topic: Target Vitals on superior Catatonic Fear / Loving Agony combat-ends strikes adds +2 damage when the rider damage is successfully inflicted; Dawn Operation does not aggravate the after-combat damage; Amaranth cannot be played against a vampire whose death comes from Catatonic Fear (after-combat); general rule: all "Strike: End combat and do X" effects have X happen after combat ends, except untap X.
+- url: https://www.vekn.net/forum/rules-questions/46164-catatonic-fear-and-loving-agony
+- added: 2026-04-18
+- pages_touched:
+  - CLAUDE.md
+  - wiki/cards/catatonic-fear.md
+  - wiki/rulings/strike-effects.md
+  - wiki/playgroup/common-mistakes.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Videos
 ### Discord
 ### Decks
