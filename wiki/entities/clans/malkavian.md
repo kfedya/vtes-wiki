@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-core, malkavian, camarilla]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-012]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -44,6 +44,7 @@ Primarily **Camarilla** — 24 of 86 Malkavian vampires print the `Camarilla.` t
 - **Malkavian intercept-bleed** — AUS reactions (intercept) paired with DOM bleed modifiers; the classic Camarilla Malkavian build.
 - **Stealth-bleed (MMPA / Malk-stealth-bleed)** — OBF stealth modifiers + DOM or DEM bleed bombs.
 - **Dementation / chaos decks** — legacy archetype leveraging `DEM` for "confusion of the eye"-style attack modifiers (legacy-era, fewer printings in V5).
+- [[archetypes/malk-22|Malk' 22]] — top-tier V5 Malkavian stealth-and-bleed; descendant of Malk' 94; Govern × 17 ramp into pure bleed-attack with Conditioning × 7 + 30 stealth modifiers; zero combat cards [src-012].
 
 ## Query
 
@@ -71,3 +72,4 @@ jq -s '[.[][] | select((.name // "" | test("Malkavian"; "i")) or (.card_text // 
 
 - src-001 — VTES 5E Rulebook (core-5 clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-012 — Codex of the Damned — Malk' 22 archetype (top-tier V5 Malkavian stealth-and-bleed; DOM/OBF, no combat).

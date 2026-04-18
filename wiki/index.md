@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 157 | Sources: 11
+Last updated: 2026-04-18 | Pages: 158 | Sources: 12
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -208,6 +208,7 @@ _(no pages yet)_
 - [[archetypes/govern-resistance|govern-resistance]] — Top-Tier Tzimisce Anarch Baron toolbox; Govern the Unaligned × 12 influence-accelerator/bleed + Organized Resistance × 7 wall; DOM Conditioning/Deflection payload; Protean combat bail. NAC 2024 (Bill Troxel, TWDA id 11496).
 - [[archetypes/living-museum|living-museum]] — Top-Tier Tzimisce Anarch stealth-and-bleed; Living Manse × 7 + The British Museum × 5 chain-equip unlock ("Darby dance" invented by Darby Keeney); DOM Deflection × 6 bounce; Heart of Nizchetus × 2 smoothing. AU/NZ Championship 2024 (Keith Lim, TWDA id 11686).
 - [[archetypes/lutz-politics|lutz-politics]] — Top-Tier Camarilla stealth-vote; multi-clan crypt Lutz (Inner Circle) + Undele + Dmitra Ilyanova for raw vote totals; Kine Resources Contested × 6 + Banishment × 3 + Conservative Agitation × 3 referendum chain; Perfect Paragon × 6 + Voter Captivation × 8 bonuses. NAC 2023 (Kelly Schultz, TWDA id 10735).
+- [[archetypes/malk-22|malk-22]] — Top-Tier V5 Malkavian stealth-and-bleed (modern descendant of Malk' 94); Govern × 17 ramp → pure DOM/OBF bleed attack with Conditioning × 7 + 30 stealth modifiers; Wash × 3 masked-bleed; zero combat cards. Nacional España 2023 Sevilla (Arnau Diez Sans, TWDA id 10419).
 
 ## Lore
 

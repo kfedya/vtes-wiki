@@ -240,4 +240,17 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-012 — Codex of the Damned: Malk' 22 (top-tier archetype + decklist)
+- type: deck-list
+- date: 2023-03-25
+- author_or_channel: Codex of the Damned (editorial) / Arnau Diez Sans (deck player, Nacional VTES España 2023 Sevilla, TWDA id 10419)
+- topic: V5 Malkavian stealth-and-bleed (modern descendant of Malk' 94) — Camarilla, DOM/OBF, zero combat cards. Govern the Unaligned × 17 ramp phase (get 4 vampires out); attack phase pure bleed (Conditioning × 7 DOM +1 bleed, Seduction × 4 DOM own-blood bleed, Bonding × 3); 30 stealth modifiers (Spying Mission × 7, Lost in Crowds × 5, Cloak the Gathering × 4, Elder Impersonation × 4, Faceless Night × 3, Swallowed by the Night × 3). Block-denial (Hide the Mind × 3, Misdirection Master, Pentex™ Subversion). Defence: Deflection × 6 + Delaying Tactics × 2 + On the Qui Vive × 3 + singletons (My Enemy's Enemy, Telepathic Misdirection). Bloat-disruption: Wash × 3 "masked bleed". Event: The Bitter and Sweet Story.
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/malk-22.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/malk-22.md
+  - wiki/entities/clans/malkavian.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
