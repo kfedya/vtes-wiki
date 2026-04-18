@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [target, redirect, deflection, change-of-target, mirror-walk, block, bleed, stuck]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -59,5 +59,27 @@ This is the rulebook's canonical "what counts as the same action" case for Chang
 - [[block-resolution]] — target change reopens blocks; wake mechanics.
 - [[hunt]] — mandatory for 0-blood vampires.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label (RTR/LSJ/ANK).
+
+### [Change of Target](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Change%20of%20Target)
+- The action **reaches resolution** via Change of Target — therefore it is subject to **NRA (Non-Repeatable Action) rules** [src-002, LSJ 20070709].
+- **"Same action" definition** (for NRA and related "can't repeat" checks):
+  - Actions **without a card** (provided by the rulebook) are **not the same** as actions provided by **cards (played or in play)** [src-002, LSJ 20060522, LSJ 20060824, LSJ 20080725, LSJ 20090617].
+  - Rulebook-provided actions **can be repeated** if they have **different targets**. For "equip from a minion," the targets are the equipments — if **any one** equipment is the same, the action is considered the same [src-002, RTR 19950509, LSJ 20080710, ANK 20200502].
+  - Actions provided by **different in-play cards** are **not the same**, even if the cards share a name [src-002, LSJ 20080725].
+- **Timing:** played **after** a minion successfully blocks, **before** the blocker is locked and combat begins. **Cannot be used** if the action is ended without a block [src-002, LSJ 19980224, RTR 19991206].
+- Effects that trigger **when the action is blocked** (e.g., [Unleash Hell's Fury](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Unleash%20Hell%27s%20Fury), [Truth of Blood](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Truth%20of%20Blood), [Aching Beauty](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aching%20Beauty)) **still apply** [src-002, RTR 19991206].
+- After Change of Target resolves, **no other action modifier or reaction can be played** — the action has ended [src-002, LSJ 20010803-1, RTR 20180719].
+
+### [Mirror Walk](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mirror%20Walk) [THA]
+- The would-be blocker is **locked** even if they benefit from an effect preventing them from locking on a successful block — the lock comes **from Mirror Walk's effect**, not from the block [src-002, ANK 20191204].
+- If the action is **blocked**, it **ends unsuccessfully immediately** — no further modifier or reaction can be played (e.g., [Freak Drive](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Freak%20Drive), slave rule, [Sowing Dissension](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sowing%20Dissension)) [src-002, RTR 20180719, ANK 20200207, ANK 20210627].
+- On a blocked action, **all** "successful block" triggered effects (e.g., [Banshee Ironwail](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Banshee%20Ironwail)) **must be applied** (the acting Methuselah orders them). Other effects and modifiers (e.g., [Crypt's Sons](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Crypt%27s%20Sons), Change of Target) can only be used **after** all triggered effects have resolved [src-002, ANK 20220116, ANK 20211207, ANK 20210627].
+
+### Cross-reference
+- The leave-torpor "no diablerie opportunity" edge cases for Change of Target and Mirror Walk are surfaced in [[torpor#leave-torpor--blocker-loses-the-diablerie-opportunity]].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 26 (target change reopens blocks), p. 46 (Bleed FAQ — Deflection timing, redirect re-block), pp. 48–50 (card rulings — Change of Target, Creeping Sabotage, Deflection, Mirror Walk, On the Qui Vive, Telepathic Misdirection).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
