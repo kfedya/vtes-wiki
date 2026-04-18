@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-core, tremere, camarilla]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-013]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -44,6 +44,7 @@ Primarily **Camarilla** — 24 of 91 Tremere vampires print `Camarilla.` in full
 - **Tremere wall / intercept-backup** — AUS reactions at base; `THA` cards like Theft of Vitae and Blood Rage plug combat gaps; Deflection (DOM) bounces bleeds.
 - **Tremere bleed / govern** — DOM bleed modifiers (Conditioning, Govern the Unaligned) with AUS reactions for defense; extremely resilient.
 - **Blood Sorcery combat / ranged** — THA-based ranged combat cards (Theft of Vitae, Apportation, Rego Motus), with AUS reaction backup.
+- [[archetypes/mistress|Mistress]] — top-tier Tremere Camarilla vote & bleed; Mistress Fanchon Inner Circle; Alastor/Helicopter combo; 32-master pile; Obedience × 4 + Deflection × 4 defence [src-013].
 
 ## Query
 
@@ -72,3 +73,4 @@ jq -s '[.[][] | select((.name // "" | test("Tremere"; "i")) or (.card_text // ""
 
 - src-001 — VTES 5E Rulebook (core-5 clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-013 — Codex of the Damned — Mistress archetype (top-tier Tremere/multi-clan Camarilla vote & bleed; Mistress Fanchon Inner Circle Alastor/Helicopter combo).

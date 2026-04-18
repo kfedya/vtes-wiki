@@ -253,4 +253,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-013 — Codex of the Damned: Mistress (top-tier archetype + decklist)
+- type: deck-list
+- date: 2023-10-14
+- author_or_channel: Codex of the Damned (editorial) / Otso Saariluoma (deck player, EC 2023 Day 1, TWDA id 10909)
+- topic: Tremere-led Camarilla vote & bleed — Mistress Fanchon × 3 (Tremere Inner Circle) + Orlando Oriundus × 2 (Lasombra Prince) + Gabrielle di Righetti × 2 + fillers. Signature combo: Fanchon's ability puts Alastor with Helicopter on a Red-List vampire for 1 pool; Magic of the Smith × 2 fetches Helicopter. 32-master pile for slow economy (Villein × 7, Ashur Tablets × 6, Zillah's Valley × 3, Parthenon × 3, Information Highway × 2, Dreams × 2). Payload Parity Shift × 3 + Banishment × 3 + singletons (Political Stranglehold, Ancient Influence, Ancilla Empowerment, Reins of Power, Anarchist Uprising, Rumors of Gehenna). Stealth/redirect: Mirror Walk × 6 (THA), Forgotten Labyrinth × 2. Defence: Obedience × 4 (OBT) + Deflection × 4 + Eyes of Argus × 3 + singletons. Event: Scourge of the Enochians × 1 anti-breed. Enkil Cog × 1 unique equipment action-doubler. Variants: Malgorzata (stealth + VIC agg), Possession (Might of the Camarilla accelerator), A&B (more Helicopter/Obedience).
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/mistress.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/mistress.md
+  - wiki/entities/clans/tremere.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
