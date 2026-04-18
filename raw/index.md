@@ -433,4 +433,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-026 — Codex of the Damned: Baron Debate (new-kid archetype + decklist)
+- type: deck-list
+- date: 2024-09-24
+- author_or_channel: Codex of the Damned (editorial) / Jorge Delgado (deck player, Week of Nightmares 2024 Day 1, TWDA id 11663)
+- topic: Brujah Anarch Baron wall — Brujah Debate × 8 Master stacks on the highest-cap Baron (Aline Gädeke × 2 key vampire) for strength/maneuvers, but locks the Debate host during the stack. Crypt: Aline Gädeke × 2 + Valeriya Zinovieva × 2 + Atiena × 2 + Leumeah × 2 + singletons. Childe of the Revolution × 4 swarm; Constant Revolution × 4 naked-bleed amp; Open War × 1 game-changer. 18-copy Organized Resistance wall + Bait and Switch × 4 + On the Qui Vive × 2 + Protection Racket × 2. Combat Dust Up × 6 + Immortal Grapple × 4 + Taste of Vitae × 4. Bloat Villein × 4 + Smiling Jack × 2 + Parthenon × 2 + Anarch package. The Parthenon × 2 + Rumors of Gehenna × 1 pile Brujah Debate faster via multi-master-phase actions. Fresh archetype — few winners yet.
+- url: https://codex-of-the-damned.org/en/archetypes/new-kids/baron-debate.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/baron-debate.md
+  - wiki/entities/clans/brujah.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
