@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, anarch, title, baron, become-anarch]
-sources: [src-001]
+sources: [src-001, src-004]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -29,6 +29,9 @@ Becoming Anarch constitutes a **change of sect**, which applies the standard tit
 ## Votes
 During the polling step of a referendum, a Methuselah gains **2 votes** for each ready **baron** (grouped with prince in the rulebook's vote table) [src-001 p. 27].
 
+## Notable Anarch archetypes
+- [[archetypes/heshas-emporium|Hesha's Emporium]] — Ministry combo powerbleed built on Hesha Ruhadze (G6) whose *"Anarch: ..."* trigger grants +1 bleed per unique equipment. Requires Anarch sect to fire.
+
 ## Related Pages
 - [[become-anarch]] — action profile.
 - [[voting]] — vote mechanics.
@@ -36,3 +39,4 @@ During the polling step of a referendum, a Methuselah gains **2 votes** for each
 
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 27 (vote totals), p. 39 (Anarch, Baron, sect-change title loss).
+- src-004 — Codex of the Damned — Hesha's Emporium archetype (Anarch-gated +bleed trigger example).

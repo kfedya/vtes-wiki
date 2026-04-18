@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 149 | Sources: 3
+Last updated: 2026-04-18 | Pages: 150 | Sources: 4
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -200,7 +200,7 @@ _(no pages yet)_
 
 ## Archetypes
 
-_(no pages yet)_
+- [[archetypes/heshas-emporium|heshas-emporium]] — Ministry combo powerbleed around Hesha Ruhadze G6 (+1 bleed per unique equipment). 2024 Atlantic Cup 1st seed (3GW13+1). Descendant of Death Star.
 
 ## Lore
 

@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, ministry, followers-of-set, v5-rebrand, independent, anarch]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-004]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -51,6 +51,7 @@ Overwhelmingly **Independent** — 22 of 81 vampires print `Independent.` in ful
 - **Stealth-bleed** — OBF stealth modifiers + PRE vote/bleed pressure; classic Ministry.
 - **Temptation / corruption** — legacy SER combat + temptation action cards; long-game manipulation.
 - **V5 Ministry (Anarch)** — PRO + OBF + PRE as Anarch baron; vote + stealth-bleed hybrid.
+- **[[archetypes/heshas-emporium|Hesha's Emporium]]** — combo powerbleed around Hesha Ruhadze G6 (+1 bleed per unique equipment). Angel Chavarria setup → equip pile → 20+ bleeds turn 3. 2024 Atlantic Cup winner.
 
 ## Query
 
@@ -80,3 +81,4 @@ jq -s '[.[][] | select((.name // "" | test("Follower of Set|Followers of Set"; "
 
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-004 — Codex of the Damned — Hesha's Emporium archetype page (Hesha G6 +1 bleed per unique equipment; V5 Ministry combo archetype).

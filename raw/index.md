@@ -129,4 +129,19 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
 ### Videos
 ### Discord
 ### Decks
+
+## src-004 — Codex of the Damned: Hesha's Emporium (archetype + decklist)
+- type: deck-list
+- date: 2024-04-17
+- author_or_channel: Codex of the Damned (editorial) / Sérgio Louçã Martins (deck player, 2024 Atlantic Cup 3GW13+1 finals 1st seed)
+- topic: Hesha Ruhadze (G6) combo powerbleed archetype — Angel Chavarria + Hesha + 27+ unique equipment + Hag's Wrinkles chain; unblockable bleeds (Flaming Candle / Concoction of Vitality / Horrific Countenance) + anti-bounce (Perfect Clarity / I am Legion via Vial/Textbook/Veneficorum/Ritual Goblet) + Nod/Heidelberg equipment transfer.
+- url: https://codex-of-the-damned.org/en/archetypes/archive/heshas-emporium.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/heshas-emporium.md
+  - wiki/entities/clans/ministry.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
