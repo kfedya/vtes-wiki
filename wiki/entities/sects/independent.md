@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, independent, title, votes]
-sources: [src-001, src-018]
+sources: [src-001, src-018, src-031]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -19,6 +19,7 @@ Independent is grouped with the "Other Vampire Sects" section of the rulebook an
 
 ## Notable Independent archetypes
 - [[archetypes/the-unnamed|The unnamed]] — top-tier Baali Independent stealth-bleed / bloat; The unnamed × 5 cap-10 (+2 pool per bleed), Infernal; Enkil Cog + Homunculus double-bleed engine [src-018].
+- [[archetypes/thucimia|Thucimia]] — new-kid Banu Haqim Independent stealth-and-bleed; Thucimia × 6 Blood-Cursed hand-size-for-bleed ability; permanent bleed enhancer stack + Enkil Cog × 5 off-turn bleeds (sidestep Archon) [src-031].
 
 ## Related Pages
 - [[voting]] — vote mechanics, including title-less vote sources.
@@ -27,3 +28,4 @@ Independent is grouped with the "Other Vampire Sects" section of the rulebook an
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 39 (Independent), p. 40 (legacy context).
 - src-018 — Codex of the Damned — The unnamed archetype (Baali Independent Infernal stealth-bleed).
+- src-031 — Codex of the Damned — Thucimia archetype (Banu Haqim Independent Blood-Cursed stealth-bleed; new-kid).

@@ -503,4 +503,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-031 — Codex of the Damned: Thucimia (new-kid archetype + decklist)
+- type: deck-list
+- date: 2025-01-17
+- author_or_channel: Codex of the Damned (editorial) / Marcin Zakrzewski (deck player, The 29th Disciplines of VTES 2025, TWDA id 12029)
+- topic: Banu Haqim Independent stealth-and-bleed — single-engine build, Codex explicitly notes "there is no variant to this deck". Thucimia × 6 (G4 cap 10 Blood-Cursed, hand-size-for-bleed ability). Permanent bleed enhancers stacked: Enkil Cog × 5 + Dabbler × 3 + J.S. Simmons + Tasha Morgan retainers + Dive into Madness × 3. Chained actions via Freak Drive × 6 + Forced March × 5 + Dabbler × 3 Master trifle. Learjet × 2 library cycling. Payload: Kindred Spirits × 7 + Loss × 5 + Khabar: Glory × 3. Bleed amp: Confusion × 6 + Eyes of Chaos × 5 + Deed the Heart's Desire × 6 + Touch of Clarity × 3 anti-bounce. Stealth: Lost in Crowds × 6 + Elder Impersonation × 3 + Faceless Night × 3 + Swallowed by the Night × 3. Defence Secure Haven × 4 + Direct Intervention × 2 + Wash × 2 + Confusion of the Eye × 2. Enkil Cog off-turn bleeds bypass Archon Investigation. Closes 27-archetype ingest batch.
+- url: https://codex-of-the-damned.org/en/archetypes/new-kids/thucimia.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/thucimia.md
+  - wiki/entities/clans/banu-haqim.md
+  - wiki/entities/sects/independent.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

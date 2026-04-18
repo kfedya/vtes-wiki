@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 176 | Sources: 30
+Last updated: 2026-04-18 | Pages: 177 | Sources: 31
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -227,6 +227,7 @@ _(no pages yet)_
 - [[archetypes/malkarishat|malkarishat]] — New-kid Malkavian Justicar + Baali Baron vote hybrid; Juliet Parr × 4 (post-pass +2 hand size) + Arishat × 4 (polling-abstention); Condemnation: Mute × 4 vote-strip; Kine Resources Contested × 6 + Parity Shift × 6 referendum chain; 14 stealth modifiers for undirected politics. EC 2024 Day 2 (Danilo Torrisi, TWDA id 11669).
 - [[archetypes/piper-war-ghoul-24|piper-war-ghoul-24]] — New-kid Tzimisce Anarch rush / ally-combat; Piper × 7 Master enables low-cap Tzimisce to recruit War Ghoul × 6 + big allies (Ossian, Vozhd of Sofia, Asanbonsam Ghoul); Jake Washington × 7 ally fodder; Dragonbound event; 60-card library. Italian Tour Bologna 2024 (Alessandro Donati, TWDA id 11590).
 - [[archetypes/salubri-powerbleed|salubri-powerbleed]] — New-kid V5 Salubri Camarilla powerbleed; Feast of the Soul's Secrets × 6 + Govern × 5 powerbleed engine; block-denial stack (Seduction × 6 + Forced Confessional × 6 + Misdirection × 2 + Pentex × 2 + Anarch Troublemaker × 2); Freak Drive × 5 action-chain + FOR combat wall (Rolling with the Punches × 4 + Indomitability × 3). Fee Stake Jyväskylä 4 2024 (Pasi Karjalainen, TWDA id 11271).
+- [[archetypes/thucimia|thucimia]] — New-kid Banu Haqim Independent stealth-and-bleed; Thucimia × 6 cap-10 Blood-Cursed (hand-size-for-bleed ability); permanent bleed enhancer stack via Enkil Cog × 5 + Dabbler × 3 + Freak Drive × 6 + Forced March × 5 chain; Enkil Cog off-turn bleeds sidestep Archon; Secure Haven × 4 anti-rush. The 29th Disciplines of VTES 2025 (Marcin Zakrzewski, TWDA id 12029).
 
 ## Lore
 
