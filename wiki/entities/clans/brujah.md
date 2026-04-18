@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, brujah, camarilla, anarch]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-007]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -44,6 +44,7 @@ Split across sects. Printed text shows **Camarilla** (20 vampires) as the plural
 - **Brujah rush / bruise** — CEL-enabled extra strikes + POT hand-strike damage; Immortal Grapple + Torn Signpost-style wrestling (where legal). Fast combat finishers.
 - **Vote / presence-control** — PRE vote boost (Voter Captivation, Majesty), paired with CEL reactions for defense.
 - **Anarch Brujah** — 5E-era tilt toward the Anarch sect; 2 votes per baron + CEL/POT aggression.
+- [[archetypes/illegal-brawl|Illegal Brawl]] — top-tier Brujah Anarch Baron toolbox; Illegalism + Line Brawl flex between rush and stealth-bleed; New Carthage × 2 doubles bleeds/votes of Barons [src-007].
 
 ## Query
 
@@ -72,3 +73,4 @@ jq -s '[.[][] | select((.name // "" | test("Brujah"; "i")) or (.card_text // "" 
 
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-007 — Codex of the Damned — Illegal Brawl archetype (top-tier Brujah Anarch Baron toolbox).

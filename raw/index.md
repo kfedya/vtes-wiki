@@ -172,4 +172,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-007 — Codex of the Damned: Illegal Brawl (top-tier archetype + decklist)
+- type: deck-list
+- date: 2024-06-20
+- author_or_channel: Codex of the Damned (editorial) / Darby Keeney (deck player, Origins Thursday 2 2024, TWDA id 11440)
+- topic: Brujah Anarch Baron toolbox — Illegalism × 9 (Anarch double-threat action: bleed / bleed-at-stealth) + Line Brawl × 10 (POT 3-way-combat action) flex rush↔bleed. Combat package: Immortal Grapple × 6, Dust Up × 9, Target Vitals × 5, Diversion × 4, Bollix × 2, Disarm × 2, Pulled Fangs × 2, Thrown Gate × 4. Power of One × 6 POT stealth-bleed mod. New Carthage × 2 doubles Baron bleed + vote. Bloat Villein × 5 + Blood Doll × 2 + Papillon + Carfax Abbey + Taste of Vitae × 4. Bait and Switch × 6 bounce; Organized Resistance × 2 minimal intercept. Variants: Resistance (max OR + Constant Revolution / Stolen Police Cruiser), Chimerstry splash (Dabbler, stealth-Illegalism), Primogen (Protected District). Classified by Codex as one of 4 ⭐ "Top Dog" current-meta archetypes.
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/illegal-brawl.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/illegal-brawl.md
+  - wiki/entities/clans/brujah.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

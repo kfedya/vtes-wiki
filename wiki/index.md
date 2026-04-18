@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 152 | Sources: 6
+Last updated: 2026-04-18 | Pages: 153 | Sources: 7
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -203,6 +203,7 @@ _(no pages yet)_
 - [[archetypes/heshas-emporium|heshas-emporium]] — Ministry combo powerbleed around Hesha Ruhadze G6 (+1 bleed per unique equipment). 2024 Atlantic Cup 1st seed (3GW13+1). Descendant of Death Star.
 - [[archetypes/gangrel-thing|gangrel-thing]] — Top Dog Gangrel Anarch wall / grind-bleed; 9 Baron crypt + Thing × 5 fan-out; Smiling Jack / Constant Revolution payload; Brutal / Council Propaganda / Renegade variants. 2024 European LCQ (Marius Iscru, TWDA id 11667).
 - [[archetypes/haqim-royalty|haqim-royalty]] — Top Dog Banu Haqim Camarilla toolbox; Prince/Justicar crypt; Haqim's Law: Retribution converts fat combat module into bleed fuel; Second Tradition: Domain × 9 wall. 2024 Beauty challenge (Gyula Erdős, TWDA id 11674).
+- [[archetypes/illegal-brawl|illegal-brawl]] — Top Dog Brujah Anarch Baron toolbox; Illegalism + Line Brawl flex rush↔bleed; classic POT combat (Immortal Grapple / Dust Up / Target Vitals); New Carthage × 2 Baron doubler. Origins Thursday 2 2024 (Darby Keeney, TWDA id 11440).
 
 ## Lore
 
