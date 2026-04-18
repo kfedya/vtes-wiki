@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [stealth, action-modifier, cloak, paragon, swallowed, block]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -57,5 +57,15 @@ The stealth listed on an action card (e.g., hunt at +1) is the **starting stealt
 - [[bleed]] — bleed-specific modifier limits.
 - [[cards-removed-in-5e]] — Into Thin Air is not in 5E.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002].
+
+### [Bonding](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bonding) — bleed-only stealth clause
+- The Dominate stealth clause of Bonding **cannot be used to increase stealth on a non-bleed action**. The +1 stealth is **bleed-only** — not a generic stealth modifier [src-002, LSJ 19980824, RTR 19941109].
+
+### Cross-reference
+- Cloak the Gathering's "multiple copies by different minions on the same action" ruling is surfaced in [[block-resolution#cloak-the-gathering]].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 26 (Stealth and Intercept), p. 46 (Stealth FAQ), p. 47 (Bonding), pp. 48–51 (card rulings for Cloak the Gathering, Lost in Crowds, Perfect Paragon, Swallowed by the Night).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
