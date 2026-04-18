@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 153 | Sources: 7
+Last updated: 2026-04-18 | Pages: 154 | Sources: 8
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -204,6 +204,7 @@ _(no pages yet)_
 - [[archetypes/gangrel-thing|gangrel-thing]] — Top Dog Gangrel Anarch wall / grind-bleed; 9 Baron crypt + Thing × 5 fan-out; Smiling Jack / Constant Revolution payload; Brutal / Council Propaganda / Renegade variants. 2024 European LCQ (Marius Iscru, TWDA id 11667).
 - [[archetypes/haqim-royalty|haqim-royalty]] — Top Dog Banu Haqim Camarilla toolbox; Prince/Justicar crypt; Haqim's Law: Retribution converts fat combat module into bleed fuel; Second Tradition: Domain × 9 wall. 2024 Beauty challenge (Gyula Erdős, TWDA id 11674).
 - [[archetypes/illegal-brawl|illegal-brawl]] — Top Dog Brujah Anarch Baron toolbox; Illegalism + Line Brawl flex rush↔bleed; classic POT combat (Immortal Grapple / Dust Up / Target Vitals); New Carthage × 2 Baron doubler. Origins Thursday 2 2024 (Darby Keeney, TWDA id 11440).
+- [[archetypes/platinum-revelation|platinum-revelation]] — Top Dog V5 Ministry Anarch stealth-and-bleed; The Platinum Protocol × 10 OBF/PRE/PRO triple-discipline bleed; corruption-counter engine (Revelation of the Serpent, Enchanting Gaze); Dabbler × 3 economy. EC 2023 Day 2 (Jonas Ståhle, TWDA id 11032).
 
 ## Lore
 

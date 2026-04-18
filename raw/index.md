@@ -186,4 +186,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-008 — Codex of the Damned: Platinum Revelation (top-tier archetype + decklist)
+- type: deck-list
+- date: 2023-10-15
+- author_or_channel: Codex of the Damned (editorial) / Jonas Ståhle (deck player, EC 2023 Day 2, TWDA id 11032)
+- topic: V5 Ministry Anarch stealth-and-bleed — triple-discipline OBF/PRE/PRO build; core is The Platinum Protocol × 10 (Anarch action: +1 stealth + +1 bleed + 1 corruption counter on prey's minion on success). Corruption counters feed Revelation of the Serpent × 7 (bleed amp / counter-burn) and Enchanting Gaze × 4 (permanent block-denial via counter-burn). CrimethInc. × 5 unlocks chained bleeds. Dabbler × 3 Master trifle (blood/unlock after triple-discipline action) out-values Villein in Ministry shell. Defence: Party Out Of Bounds × 2 (triple-mode Anarch reaction), Bait and Switch × 4 bounce, Form of Mist × 4 + Earth Meld × 2 combat, On the Qui Vive × 3. Variants: Apolitical (Kim Nilsson — no Barons, POB-only defence), Political-lunge (Eat The Rich + Reckless Agitation + Propaganda of the Deed), The Unnamed hybrid (Lukáš Simandl, Austrian Open). Classified by Codex as 4th ⭐ "Top Dog" current-meta archetype — closes Batch A.
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/platinum-revelation.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/platinum-revelation.md
+  - wiki/entities/clans/ministry.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

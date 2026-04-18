@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, ministry, followers-of-set, v5-rebrand, independent, anarch]
-sources: [src-001, src-002, src-004]
+sources: [src-001, src-002, src-004, src-008]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -52,6 +52,7 @@ Overwhelmingly **Independent** — 22 of 81 vampires print `Independent.` in ful
 - **Temptation / corruption** — legacy SER combat + temptation action cards; long-game manipulation.
 - **V5 Ministry (Anarch)** — PRO + OBF + PRE as Anarch baron; vote + stealth-bleed hybrid.
 - **[[archetypes/heshas-emporium|Hesha's Emporium]]** — combo powerbleed around Hesha Ruhadze G6 (+1 bleed per unique equipment). Angel Chavarria setup → equip pile → 20+ bleeds turn 3. 2024 Atlantic Cup winner.
+- **[[archetypes/platinum-revelation|Platinum Revelation]]** — top-tier V5 Ministry Anarch stealth-and-bleed; The Platinum Protocol × 10 triple-discipline bleed + corruption-counter engine (Revelation of the Serpent / Enchanting Gaze); Dabbler × 3 economy. EC 2023 Day 2 (Jonas Ståhle, TWDA id 11032) [src-008].
 
 ## Query
 
@@ -82,3 +83,4 @@ jq -s '[.[][] | select((.name // "" | test("Follower of Set|Followers of Set"; "
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
 - src-004 — Codex of the Damned — Hesha's Emporium archetype page (Hesha G6 +1 bleed per unique equipment; V5 Ministry combo archetype).
+- src-008 — Codex of the Damned — Platinum Revelation archetype (V5 Ministry Anarch stealth-bleed; Platinum Protocol OBF/PRE/PRO triple-discipline action + corruption-counter engine).
