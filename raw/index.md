@@ -200,4 +200,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-009 — Codex of the Damned: Govern Resistance (top-tier archetype + decklist)
+- type: deck-list
+- date: 2024-06-22
+- author_or_channel: Codex of the Damned (editorial) / Bill Troxel (deck player, NAC 2024, TWDA id 11496)
+- topic: Tzimisce Anarch Baron toolbox — Govern the Unaligned × 12 oldest-first influence discount + bleed; Organized Resistance × 7 Anarch intercept wall; Deflection × 4 + Bait and Switch × 4 bounce; Delaying Tactics × 3 anti-vote; Conditioning × 4 DOM bleed amp; Deep Song × 3 rush/lock; Earth Meld × 9 + Form of Mist × 7 Protean combat bail; Earth Control × 4 stealth; Eat the Rich × 2 political pool hit. Variants: Claws (Donnybrook + Claws of the Dead), Tap'n Bleed (more Deep Song + Invigorate). Close cousin of Gangrel Thing (Dominate focus vs naked-bleed).
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/govern-resistance.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/govern-resistance.md
+  - wiki/entities/clans/tzimisce.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

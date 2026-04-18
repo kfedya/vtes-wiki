@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, 5e-playable, tzimisce, sabbat, anarch]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-009]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -46,6 +46,7 @@ Primarily **Sabbat** — 13 of 67 Tzimisce print `Sabbat.` in full [src-002]. Th
 - **Tzimisce wall** — ANI + AUS intercept with VIC combat for finishing; extremely resilient.
 - **Vicissitude combat / fleshcrafting** — VIC natural-weapon strikes (Chiropteran Marauder, Horrid Form) + ANI retainers.
 - **Sabbat dominate bleed** — DOM bleed with VIC combat backup; Sabbat titles (bishop/archbishop).
+- [[archetypes/govern-resistance|Govern Resistance]] — top-tier Tzimisce Anarch Baron toolbox; Govern the Unaligned × 12 (oldest-first influence discount + bleed) + Organized Resistance × 7 wall; Deflection / Conditioning DOM payload with Protean combat bail [src-009].
 
 ## Query
 
@@ -75,3 +76,4 @@ jq -s '[.[][] | select((.name // "" | test("Tzimisce"; "i")) or (.card_text // "
 
 - src-001 — VTES 5E Rulebook (playable-clan list, p. 53 Quick Reference icons).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
+- src-009 — Codex of the Damned — Govern Resistance archetype (top-tier Tzimisce Anarch Baron toolbox; Govern the Unaligned + Organized Resistance wall).

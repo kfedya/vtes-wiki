@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 154 | Sources: 8
+Last updated: 2026-04-18 | Pages: 155 | Sources: 9
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -205,6 +205,7 @@ _(no pages yet)_
 - [[archetypes/haqim-royalty|haqim-royalty]] — Top Dog Banu Haqim Camarilla toolbox; Prince/Justicar crypt; Haqim's Law: Retribution converts fat combat module into bleed fuel; Second Tradition: Domain × 9 wall. 2024 Beauty challenge (Gyula Erdős, TWDA id 11674).
 - [[archetypes/illegal-brawl|illegal-brawl]] — Top Dog Brujah Anarch Baron toolbox; Illegalism + Line Brawl flex rush↔bleed; classic POT combat (Immortal Grapple / Dust Up / Target Vitals); New Carthage × 2 Baron doubler. Origins Thursday 2 2024 (Darby Keeney, TWDA id 11440).
 - [[archetypes/platinum-revelation|platinum-revelation]] — Top Dog V5 Ministry Anarch stealth-and-bleed; The Platinum Protocol × 10 OBF/PRE/PRO triple-discipline bleed; corruption-counter engine (Revelation of the Serpent, Enchanting Gaze); Dabbler × 3 economy. EC 2023 Day 2 (Jonas Ståhle, TWDA id 11032).
+- [[archetypes/govern-resistance|govern-resistance]] — Top-Tier Tzimisce Anarch Baron toolbox; Govern the Unaligned × 12 influence-accelerator/bleed + Organized Resistance × 7 wall; DOM Conditioning/Deflection payload; Protean combat bail. NAC 2024 (Bill Troxel, TWDA id 11496).
 
 ## Lore
 

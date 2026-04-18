@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, anarch, title, baron, become-anarch]
-sources: [src-001, src-004, src-005, src-007, src-008]
+sources: [src-001, src-004, src-005, src-007, src-008, src-009]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -34,6 +34,7 @@ During the polling step of a referendum, a Methuselah gains **2 votes** for each
 - [[archetypes/gangrel-thing|Gangrel Thing]] — top-tier Gangrel Baron wall; 9 Anarch Barons + Thing × 5 for a wide table; grinds with Smiling Jack / Constant Revolution payload. Every payload card (Thing, Smiling Jack, Constant Revolution, The Anarch Free Press, Powerbase: Montreal bonus, Baron vote totals) depends on the Anarch sect [src-005].
 - [[archetypes/illegal-brawl|Illegal Brawl]] — top-tier Brujah Baron toolbox; Illegalism (Anarch double-threat action) + Line Brawl flex between rush and stealth-bleed; New Carthage × 2 doubles Baron bleeds/votes [src-007].
 - [[archetypes/platinum-revelation|Platinum Revelation]] — top-tier V5 Ministry Anarch stealth-and-bleed; The Platinum Protocol × 10 requires Anarch + triple discipline (OBF/PRE/PRO); CrimethInc. unlock chain also Anarch-gated; Party Out Of Bounds triple-mode Anarch reaction [src-008].
+- [[archetypes/govern-resistance|Govern Resistance]] — top-tier Tzimisce Anarch Baron toolbox; Govern the Unaligned × 12 + Organized Resistance × 7 wall; Anarch-gated intercept and Baron voting [src-009].
 
 ## Related Pages
 - [[become-anarch]] — action profile.
@@ -46,3 +47,4 @@ During the polling step of a referendum, a Methuselah gains **2 votes** for each
 - src-005 — Codex of the Damned — Gangrel Thing archetype (Anarch Baron wall; Thing / Smiling Jack / Constant Revolution / Powerbase: Montreal / 2-vote Barons).
 - src-007 — Codex of the Damned — Illegal Brawl archetype (Brujah Anarch Baron toolbox; Illegalism + Line Brawl; New Carthage Baron double-bleed/vote).
 - src-008 — Codex of the Damned — Platinum Revelation archetype (V5 Ministry Anarch stealth-bleed; Platinum Protocol + CrimethInc. + Party Out Of Bounds Anarch-gated).
+- src-009 — Codex of the Damned — Govern Resistance archetype (Tzimisce Anarch Baron toolbox; Govern the Unaligned + Organized Resistance).
