@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [diablerie, torpor, blood-hunt, discipline, trophy, red-list]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -52,5 +52,35 @@ Because diablerie resolves as a single unit, no cards or effects can interrupt t
 - [[rescue-from-torpor]] — alternative to diablerie.
 - [[traits#red-list]] — trophy mechanic.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label (RTR/LSJ/ANK/PIB).
+
+### [Abactor](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Abactor) (diablerie-adjacent, not diablerie)
+- Abactor is **not a diablerie**. [Rebirth](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Rebirth) and [Carlton Van Wyk](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Carlton%20Van%20Wyk)'s ability **cannot be used** following Abactor [src-002, LSJ 20090724, ANK 20180129-1].
+- The Abactor Blood Hunt referendum is **part of action resolution**. Cards "after a successful action" / "after resolution" must be played **after** the referendum. [Heidelberg Castle, Germany](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Heidelberg%20Castle%2C%20Germany) cannot be used before the referendum [src-002, LSJ 20100112, PIB 20121028].
+
+### [Rebirth](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Rebirth)
+- Rebirth **cannot** be used following an [Amaranth](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Amaranth) or Abactor — neither is a diablerie action [src-002, ANK 20190701].
+
+### [Ritual of the Bitter Rose](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Ritual%20of%20the%20Bitter%20Rose)
+- Can be played **after a diablerie, before the blood hunt referendum** [src-002, ANK 20201228].
+
+### [Carlton Van Wyk](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Carlton%20Van%20Wyk)
+- Can use his ability to burn a diablerist **the same turn he is recruited** [src-002, ANK 20180517].
+
+### [Abandoning the Flesh](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Abandoning%20the%20Flesh)
+- **Cannot** be played when the vampire is being burned as a result of a **Blood Hunt referendum** [src-002, LSJ 20070417].
+
+### [Amaranth](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Amaranth)
+- Normal sequencing rules apply. If Amaranth is played first, effects that **prevent a vampire from going to torpor** will also **prevent** the use of effects that are only usable on a vampire going to torpor [src-002, RTR 20010711].
+
+### [Trophy: Diablerie](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Trophy:%20Diablerie)
+- When diablerizing a **Red List** vampire, Trophy: Diablerie may be retrieved **before the blood hunt referendum**; it **protects** the diablerist in that referendum. All copies on the vampire are then burned **at the end of that action** [src-002, LSJ 20050222].
+
+### [Undying Thirst](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Undying%20Thirst)
+- If the vampire is empty (0 blood), they **must** either hunt or diablerize — **mandatory action** [src-002, LSJ 20081213-2].
+- Has **no effect** on a vampire who cannot commit diablerie (e.g., because of [Humanitas](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Humanitas)) [src-002, LSJ 20050324-2].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 34–35 (Diablerie, Advanced Rules, single-unit timing), p. 32 (aggravated-burn is not diablerie), p. 41 (Blood Cursed), p. 24 (leave-torpor block → diablerie opportunity), p. 9 (Red List trophies).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
