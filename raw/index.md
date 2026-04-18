@@ -475,4 +475,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-029 — Codex of the Damned: Piper War Ghoul '24 (new-kid archetype + decklist)
+- type: deck-list
+- date: 2024-09-15
+- author_or_channel: Codex of the Damned (editorial) / Alessandro Donati (deck player, Italian Tour Bologna 2024, TWDA id 11590)
+- topic: Tzimisce Anarch rush / ally-combat — Piper × 7 (Master enables low-cap Tzimisce to recruit War Ghoul) + Jake Washington × 7 (Master ally fodder) + War Ghoul × 6 primary threat; big allies Ossian, Vozhd of Sofia, Asanbonsam Ghoul, Carlton Van Wyk, Vagabond Mystic. Retainer pack: J.S. Simmons + Jackie Therman + Mr. Winthrop + Tasha Morgan. Crypt low-cap Tzimisce + Anarch Convert (Susie Kano × 3 + Marialena × 2 + singletons). Combat Donnybrook × 3 + Trap × 3 + Fake Out × 2. Defence Deflection × 6 + Deep Ecology × 3 + On the Qui Vive × 3 + One With the Land × 3 (scales to 4 intercept). Events Dragonbound + The Unmasking × 2. 60-card library — unusually small.
+- url: https://codex-of-the-damned.org/en/archetypes/new-kids/piper-war-ghoul-24.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/piper-war-ghoul-24.md
+  - wiki/entities/clans/tzimisce.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
