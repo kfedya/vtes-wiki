@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [combat, strike, pair, additional-strike, choose-strike, resolve-strike]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -66,5 +66,19 @@ Third strike: Flávio Gonçalves uses his hand strike one more time; Wauneka has
 - Choosing a new strike after a weapon-maneuver strike is cancelled.
 - Allowing additional strikes at a different range than the pair.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label (RTR/LSJ/ANK/PIB/TOM).
+
+### [Carrion Crows](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Carrion%20Crows) — expanded
+The "not dodgeable" note above (from the rulebook) has two important **stopping** conditions:
+- **Strike: combat ends** ends combat **before** Carrion Crows damage is applied [src-002, RTR 19941109, TOM 19951216, PIB 20140324, ANK 20200422].
+- A combatant **going to torpor during first strike** also stops Carrion Crows damage from applying that round [src-002, same refs].
+
+### [Murder of Crows](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Murder%20of%20Crows)
+- Same dodge/combat-ends/first-strike-torpor rules as Carrion Crows [src-002, RTR 19941109, TOM 19951216, PIB 20140324, ANK 20200422].
+- The damage is **environmental**; the **retainer itself is the damage source**. Immunity to retainers (or to a retainer type) works against it [src-002, ANK 20180612, ANK 20211127].
+- The retainer **does not gain additional strikes** from its owner — additional-strike cards on the owner do not propagate to Murder of Crows [src-002, RTR 19941109].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 29–31 (Strike, Additional Strikes), p. 47 (.44 Magnum), p. 48 (Carrion Crows), p. 49 (Immortal Grapple, Murder of Crows), p. 50 (Roundhouse).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).

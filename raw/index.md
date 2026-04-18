@@ -104,7 +104,7 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
 - topic: Full VTES card data — names, types, disciplines, costs, card_text, embedded rulings.
 - url: https://static.krcg.org/data/vtes.json
 - added: 2026-04-18
-- pages_touched: [card-db/, CLAUDE.md, wiki/index.md, wiki/log.md, wiki/meta/backlog.md, wiki/rulings/bleed.md, wiki/rulings/combat.md, wiki/cards/theft-of-vitae.md, wiki/rulings/block-resolution.md]
+- pages_touched: [card-db/, CLAUDE.md, wiki/index.md, wiki/log.md, wiki/meta/backlog.md, wiki/rulings/bleed.md, wiki/rulings/combat.md, wiki/cards/theft-of-vitae.md, wiki/rulings/block-resolution.md, wiki/rulings/strike.md]
 
 ### Rulings
 ### krcg snapshots
