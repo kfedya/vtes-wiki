@@ -461,4 +461,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-028 — Codex of the Damned: Malkarishat (new-kid archetype + decklist)
+- type: deck-list
+- date: 2024-09-29
+- author_or_channel: Codex of the Damned (editorial) / Danilo Torrisi (deck player, EC 2024 Day 2, TWDA id 11669)
+- topic: Malkavian Justicar + Baali Baron vote hybrid — portmanteau of Malkavian + Arishat. Juliet Parr × 4 (G7 Camarilla Malkavian Justicar, cap 9, 3 votes, post-pass +2 hand size, 1 optional maneuver/combat) + Arishat × 4 (Baali Baron Infernal polling-abstention). Support: Alexander Silverson × 2 + Gilbert Duane G6 + Andi Liu. Govern × 8 ramp. Referendum chain: Kine Resources Contested × 6 + Parity Shift × 6 + My Kin Against the World × 2 + Anarchist Uprising + Ancilla Empowerment. Vote-strip: Condemnation: Mute × 4 + Unleash Hell's Fury × 2. Stealth for undirected politics: Forgotten Labyrinth × 7 + Lost in Crowds × 7 + Elder Impersonation × 2. Defence: Deflection × 8 + Obedience × 6 (no wake effects — proactive unlock management). Economy: Ashur Tablets × 6 + Villein × 2 + Dreams × 2 + Info Highway × 2 + Wider View × 2.
+- url: https://codex-of-the-damned.org/en/archetypes/new-kids/malkarishat.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/malkarishat.md
+  - wiki/entities/clans/malkavian.md
+  - wiki/entities/clans/baali.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

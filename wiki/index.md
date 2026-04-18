@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 173 | Sources: 27
+Last updated: 2026-04-18 | Pages: 174 | Sources: 28
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -224,6 +224,7 @@ _(no pages yet)_
 - [[archetypes/protean-barons|protean-barons]] — Runner-up multi-clan Anarch Baron toolbox; Protean × 6 Master grants `[pro]` to hosts; Childe of the Revolution × 8 swarm; 16 Organized Resistance wall; Earth Meld × 8 + Donnybrook × 6 combat; close cousin of Gangrel Thing (fewer intercepts, more votes). French NC 2024 (Vincent Ripoll / Ankha, TWDA id 11754).
 - [[archetypes/baron-debate|baron-debate]] — New-kid Brujah Anarch Baron wall; Brujah Debate × 8 stacks on Aline Gädeke (highest-cap Baron) for strength/maneuvers; 18 Organized Resistance wall; Childe of the Revolution × 4 swarm; Dust Up × 6 + Immortal Grapple × 4 combat. Week of Nightmares 2024 (Jorge Delgado, TWDA id 11663).
 - [[archetypes/kalinda|kalinda]] — New-kid Banu Haqim Camarilla stealth-and-bleed; Kalinda (G6) × 4 bleed-then-unlock; Protected District × 7 defence; Haqim's Law: Retribution × 6 combat-card-to-bleed; Swallowed by the Night × 9 stealth/combat dual. New Years Blood 2025 (Bram Van Stappen, TWDA id 11997).
+- [[archetypes/malkarishat|malkarishat]] — New-kid Malkavian Justicar + Baali Baron vote hybrid; Juliet Parr × 4 (post-pass +2 hand size) + Arishat × 4 (polling-abstention); Condemnation: Mute × 4 vote-strip; Kine Resources Contested × 6 + Parity Shift × 6 referendum chain; 14 stealth modifiers for undirected politics. EC 2024 Day 2 (Danilo Torrisi, TWDA id 11669).
 
 ## Lore
 
