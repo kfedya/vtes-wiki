@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 162 | Sources: 16
+Last updated: 2026-04-18 | Pages: 163 | Sources: 17
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -213,6 +213,7 @@ _(no pages yet)_
 - [[archetypes/nephandii|nephandii]] — Top-Tier Sabbat allies-swarm; Antonio d'Erlette × 6 Sabbat-gated Mage-ally recruit (4 transfers → Nephandus in play); Nephandus × 10 bleed payload + Target Vitals × 8 damage rider; Deflection × 7 defence. English NC 2024 (Tomasz Kloczko, TWDA id 11521).
 - [[archetypes/princess-toolbox|princess-toolbox]] — Top-Tier Tremere Camarilla intercept-wall toolbox; Carna, The Princess Witch × 4 triple AUS/DOM/THA host; 39-reaction wall (Deflection × 8 + Eyes of Argus × 8 + Enhanced Senses × 4 + Eagle's Sight × 4 + Telepathic Misdirection × 4); Magic of the Smith × 6 equipment tutor; Theft of Vitae × 4 grind. Swiss NC 2023 (Marius Iscru, TWDA id 10550).
 - [[archetypes/ravnos-bonds|ravnos-bonds]] — Top-Tier V5 Ravnos Anarch stealth-and-bleed; Break the Bonds × 16 (CHI bleed + recruit Ravnos from hand); Memory Rift × 10 OBF stealth; Visions of Gehenna × 8 bleed amp; Dabbler × 4 triple-disc economy; zero combat cards. EC 2024 Day 1 (Simone Parmeggiani, TWDA id 11668).
+- [[archetypes/stanislava|stanislava]] — Top-Tier Camarilla Gangrel Inner Circle stealth-vote/bleed; Stanislava × 5 flagship cap-11 (+2 bleed, allies can't block); Zillah's Valley × 8 ramp + Kine Resources Contested × 6 + Protean (Form of Mist × 7, Earth Meld × 5, Earth Control × 6) stealth/combat bail. UK NC 2023 (Mikey Ferguson, TWDA id 10998).
 
 ## Lore
 

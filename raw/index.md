@@ -309,4 +309,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-017 — Codex of the Damned: Stanislava (top-tier archetype + decklist)
+- type: deck-list
+- date: 2023-11-25
+- author_or_channel: Codex of the Damned (editorial) / Mikey Ferguson (deck player, UK NC 2023, TWDA id 10998); classic archetype piloted through 2010s by Martin Weinmayer
+- topic: Camarilla Gangrel-led stealth-vote/bleed — Stanislava × 5 (G2 cap 11 Inner Circle, +2 bleed printed, allies cannot block her, retainers lose abilities vs her in combat) flagship; supporting crypt Hartmut Stover × 2, Xaviar (ADV) × 2, Ingrid Rossler × 2, Mark Decker. Zillah's Valley × 8 + Villein × 6 + Govern × 6 ramp. Political stack: Kine Resources Contested × 6 + 6 singleton finishers (Anarchist Uprising, Ancient Influence, Ancilla Empowerment, Banishment, Political Stranglehold, Reins of Power). Stealth via Protean: Earth Control × 6, Forced March × 3, Instantaneous Transformation × 3, Rapid Change × 2, Scouting Mission × 3. Defence: Deflection × 6 + Second Tradition: Domain × 2 + On the Qui Vive × 2. Protean combat bail Form of Mist × 7 + Earth Meld × 5. Freak Drive × 3 ANI post-action unlock. Enkil Cog action-doubler. Variants: Classic (Martin Weinmayer), Iliana/Caitlin crypt alts, Ashur (Ashur Tablets + Parthenon + Liquidation post-2024 balance).
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/stanislava.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/stanislava.md
+  - wiki/entities/clans/gangrel.md
+  - wiki/entities/sects/camarilla.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
