@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [referendum, politics, polling, blood-hunt]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -63,5 +63,32 @@ The rulebook distinguishes **votes** (default unit) from **ballots** (used insid
 - Trying to play action modifiers/reactions during a blood hunt referendum — not allowed.
 - Playing Bewitching Oration at action announcement — it must wait for terms to be declared (i.e., after the political action succeeds).
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label (RTR/LSJ/ANK/PIB).
+
+### Automatically-passing referendum — shared restriction
+The following vote-gaining / vote-manipulating cards **cannot be used during a referendum that is automatically passing** (e.g., via [Delaying Tactics](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Delaying%20Tactics) or similar effects that bypass the polling step):
+
+- [Bewitching Oration](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bewitching%20Oration)
+- [Perfect Paragon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Perfect%20Paragon)
+- [Scalpel Tongue](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Scalpel%20Tongue)
+
+[src-002, PIB 20150105, LSJ 19980107].
+
+### [Voter Captivation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Voter%20Captivation)
+- Is played after resolution, **after all combats (if any)** are handled, but still **during the action**. "After resolution" action modifiers and effects can be played **before or after** Voter Captivation [src-002, PIB 20150915, LSJ 19981028, ANK 20190425].
+- **Can** be used after a referendum that is automatically passing — but in that case the vote is considered to have passed by **0 votes** (so VC grants only 1 blood / 1 pool, not more) [src-002, LSJ 19980107, PIB 20150105].
+
+### [Perfect Paragon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Perfect%20Paragon)
+- Can be played **any time during the action before resolution** — a block attempt is **not required** first [src-002, LSJ 20020612].
+
+### Multi-oust referendums — shared rule ([Ancilla Empowerment](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Ancilla%20Empowerment), [Kine Resources Contested](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Kine%20Resources%20Contested), and similar)
+- If a referendum outcome ousts **multiple Methuselahs simultaneously**, players whose **prey** gets ousted **still get a victory point** — **even if they themselves are being ousted in the same resolution**.
+- **Only surviving** Methuselahs receive the **6 pool** from their prey's oust. Pool is **not** granted from a grand-prey's oust [src-002, LSJ 20000309].
+
+### [Kine Resources Contested](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Kine%20Resources%20Contested)
+- Can allocate **more points** than a Methuselah has pool (extra pool loss simply overshoots, contributing to oust resolution) [src-002, LSJ 20020819].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 27–28 (The Political Action — Referendum), p. 35 (Blood Hunt referendum restrictions), p. 46 (voting against own referendum), p. 47 (Ancilla Empowerment, Bewitching Oration), p. 48 (Consanguineous Boon), pp. 49–50 (Kine Resources Contested, Protected District, Scalpel Tongue), p. 52 (Voter Captivation).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).

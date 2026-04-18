@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [politics, votes, titles, edge, primogen, prince, justicar, inner-circle]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -89,5 +89,12 @@ A vampire whose clan or sect changes to one inappropriate for their title **lose
 - Thinking locked vampires cannot vote — they can; only torpor prevents voting.
 - Treating vote gains from the Edge or political action cards as belonging to the acting vampire — they belong to the **Methuselah**.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002].
+
+### [Toreador Justicar](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Toreador%20Justicar)
+- Only a **Camarilla** vampire can be chosen as the target. The card **cannot be played without a valid target** — i.e., you cannot call the referendum just to fish for votes if no Camarilla Toreador exists in play [src-002, LSJ 20041026].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 28 (Gaining Votes), pp. 39–40 (Sects and titles), p. 34 (torpor — abstain), p. 46 (FAQ), pp. 51 (Toreador Justicar, Ventrue Headquarters).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
