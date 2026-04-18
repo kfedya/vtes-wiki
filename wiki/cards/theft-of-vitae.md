@@ -1,7 +1,7 @@
 ---
 type: card
 tags: [combat, blood-sorcery, strike, steal-blood, ordering, not-damage]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -36,6 +36,10 @@ Theft of Vitae pulls rulings from multiple combat-timing axes at once: stealing-
 ### Mutual steal is simultaneous
 - If **two vampires both steal blood from each other** in the same strike pair, the blood is moved **simultaneously** [src-001 p. 51].
 - Neither "does their steal first"; both transfers happen at once.
+- krcg clarifies the exact bookkeeping: blood amounts are **adjusted by the total of gain and loss**, and **no blood wears off** in the exchange [src-002, ANK 20200123, LSJ 20041027].
+
+### Can target a minion with insufficient blood/life
+- Theft of Vitae is a legal strike even if the target has **less blood or life than the amount stolen** — you simply steal what is available [src-002, RTR 20010711].
 
 ## Interactions
 - **With [[damage-resolution]]:** classed as blood theft, not damage — no prevent, no aggravated, etc.
@@ -51,3 +55,4 @@ Theft of Vitae pulls rulings from multiple combat-timing axes at once: stealing-
 
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 51 (Theft of Vitae FAQ).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).

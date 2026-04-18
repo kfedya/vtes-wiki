@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [combat, round, sequence, combatants, range, strike, damage, press, end-of-round]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -92,5 +92,36 @@ If during any step either combatant is no longer **ready** — for example, beca
 - Letting locked status stop a minion from fighting — it does not; only readiness matters.
 - Allowing a minion to play two maneuvers (or two presses) in a row — they cancel and are prohibited.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label (RTR/LSJ/ANK/PIB).
+
+### [Freak Drive](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Freak%20Drive)
+- Cannot be played if the action "failed" — unless there was a **successful block attempt** [src-002, RTR 20180719].
+- Cannot be played if the action was **"ended"** (e.g., by [Obedience](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Obedience)) [src-002, RTR 20180719].
+- Is played after resolution, **after all combats**, but still **during the action**. "After resolution" action modifiers and effects can be played **before or after** Freak Drive [src-002, PIB 20150915, LSJ 19981028, ANK 20190425].
+- The post-resolution effect still works if the action **"fizzles"** (unblocked at resolution but has no effect because a requirement cannot be met or cost cannot be paid) [src-002, ANK 20220218].
+
+### [Deep Song](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deep%20Song)
+- The lock and enter-combat effects are **simultaneous**. Both are lost if the action ends before that (e.g., by [Obedience](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Obedience)) [src-002, ANK 20200702].
+- If another effect **later** changes the acting minion in combat (e.g., [Nar-Sheptha](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Nar-Sheptha)), that later effect **takes precedence** over Deep Song's "target is the acting minion" clause [src-002, ANK 20211022].
+
+### [Hidden Strength](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Hidden%20Strength)
+- Prevents **up to X+1** damage — you can choose to prevent less (X may be higher than strictly needed) [src-002, RTR 20041202, PIB 20121202].
+
+### [Immortal Grapple](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Immortal%20Grapple)
+- If IG is **cancelled as it is played** (e.g., [Charismatic Aura](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Charismatic%20Aura)), it is still "considered played" — a **second IG cannot be played** in the same round [src-002, ANK 20200525-2].
+- IG **sets the round's range and skips the Determine Range step**. Once range is set, no other effect can reset it that round, but other **pre-range effects** can still be played afterwards [src-002, RTR 19970630, ANK 20180720].
+- If another effect **already set** the round's range (e.g., [Neutral Guard](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Neutral%20Guard)), that effect has **priority** over IG [src-002, PIB 20120214].
+
+### [Theft of Vitae](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Theft%20of%20Vitae)
+Full detail on [[theft-of-vitae|card page]]. Summary:
+- Can target a minion with **less blood or life than the amount stolen** [src-002, RTR 20010711].
+- If **both opponents play Theft of Vitae in the same strike pair**, they resolve simultaneously: blood amounts are adjusted by the **total of gain and loss**, and no blood wears off [src-002, ANK 20200123, LSJ 20041027].
+
+### [.44 Magnum](https://codex-of-the-damned.org/en/card-search/library/index.html?card=.44%20Magnum)
+- Provides **only one maneuver per combat**, even if the bearer changes [src-002, LSJ 19980302-2].
+- The optional maneuver **cannot be used** if the strike itself cannot be used (e.g., because of [Hidden Lurker](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Hidden%20Lurker)) [src-002, LSJ 20021028].
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 28–33 (Combat, Combat Sequence, Retainers and Combat, First Strike), p. 47 (.44 Magnum, The Barrens), pp. 48–50 (Deep Song, Freak Drive, Hidden Strength, Immortal Grapple, Resist Earth's Grasp, Roundhouse), p. 51 (Theft of Vitae), p. 42 (Impulse glossary).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
