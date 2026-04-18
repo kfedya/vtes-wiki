@@ -1,7 +1,7 @@
 ---
 type: ruling
 tags: [combat, damage, mend, prevent, aggravated, environmental, immune, retainer, ally]
-sources: [src-001]
+sources: [src-001, src-002]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -76,5 +76,15 @@ If a vampire bearing [Fame](https://codex-of-the-damned.org/en/card-search/libra
 - Giving pool to Fame's controller when the aggravated burn skipped torpor.
 - Forgetting that allies/retainers treat aggravated the same as normal.
 
+## Card-Level Rulings (krcg)
+Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserves the original reference label.
+
+### [Fame](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Fame)
+- When a pool payment from Fame lands in the **unlock phase**, the acting Methuselah **may order it with their other unlock effects** — but the Fame payment **must be handled before** another Methuselah gets the opportunity to use an unlock effect [src-002, LSJ 20010121].
+
+### Cross-references
+- Carrion Crows, Murder of Crows and Hidden Strength edge cases are surfaced in [[strike#card-level-rulings-krcg]] and [[combat#hidden-strength]] to avoid duplication.
+
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, pp. 31–32 (Damage Resolution, Aggravated, Environmental, Immune), p. 33 (Retainers and Combat), p. 48 (Carrion Crows), p. 49 (Fame, Murder of Crows, Hidden Strength).
+- src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).
