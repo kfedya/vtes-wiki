@@ -267,4 +267,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-014 — Codex of the Damned: Nephandii (top-tier archetype + decklist)
+- type: deck-list
+- date: 2024-11-09
+- author_or_channel: Codex of the Damned (editorial) / Tomasz Kloczko (deck player, English NC 2024, TWDA id 11521)
+- topic: Sabbat allies-swarm — Antonio d'Erlette × 6 (Tremere antitribu cap-5 G4) Sabbat-gated ability: use 4 transfers to put a Mage ally from library/hand in play. Library: Nephandus × 10 (Mage ally, 2 life, 1 bleed, strike 1R + 1 press) + Target Vitals × 8 combat rider; Liquidation × 4 crypt-burn pool gain + Ashur Tablets × 9 rebuild + Parthenon × 4 tap + Shard × 2 cost reduction + Dreams × 3; Mirror Walk × 4 THA stealth for allies; Deflection × 7 bleed defence + Delaying Tactics × 2 anti-vote + On the Qui Vive × 4 wake; The Unmasking × 3 + FBI SAD × 1 events; Secure Haven × 2 protects Antonio; Tupdog × 3 crypt blockers/decoy; Carlton Van Wyk anti-diablerie. Variants: Darby Keeney streamlined, Martin Weinmayer Bounce (Auspex).
+- url: https://codex-of-the-damned.org/en/archetypes/top-tier/nephandii.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/nephandii.md
+  - wiki/entities/clans/tremere-antitribu.md
+  - wiki/entities/sects/sabbat.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes

@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, legacy, antitribu, tremere, sabbat]
-sources: [src-001, src-002]
+sources: [src-001, src-002, src-014]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -35,6 +35,10 @@ Primarily **[[entities/sects/sabbat|Sabbat]]** — the defining feature of the a
 - Crypt vampires with `[AUS]` at superior: **24**
 - Crypt vampires with `[DOM]` at superior: **22**
 
+## Typical deck archetypes
+
+- [[archetypes/nephandii|Nephandii]] — top-tier Sabbat allies-swarm built around Antonio d'Erlette's Mage-ally recruit ability; Nephandus × 10 + Target Vitals × 8 payload; Ashur Tablets × 9 + Liquidation × 4 economy [src-014].
+
 ## Notable members
 
 - **Goratrix** (cap 10, group 2) — lore founder of the Tremere antitribu; `vic/ANI/AUS/DOM/THA`.
@@ -57,3 +61,4 @@ jq '.[] | select(.clans[]? == "Tremere antitribu") | .name' card-db/crypt.json
 
 - src-001 — VTES 5E Rulebook (Sabbat sect rules, p. 40).
 - src-002 — krcg vtes.json snapshot 2026-04-18.
+- src-014 — Codex of the Damned — Nephandii archetype (top-tier Sabbat Mage-ally swarm via Antonio d'Erlette).

@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [sect, sabbat, title, bishop, archbishop, priscus, cardinal, regent, legacy]
-sources: [src-001]
+sources: [src-001, src-014]
 last_verified: 2026-04-18
 status: draft
 ---
@@ -48,6 +48,9 @@ For the purpose of these rules, the **antitribu** clans are **distinct** from th
 ## Title Loss on Sect/Clan Change
 Same rule as Camarilla — see [[camarilla#title-loss-on-sectclan-change]] [src-001 p. 39].
 
+## Notable Sabbat archetypes
+- [[archetypes/nephandii|Nephandii]] — top-tier Sabbat allies-swarm using Antonio d'Erlette (Tremere antitribu) as Mage-ally recruit engine; 10 × Nephandus + Target Vitals × 8 payload. Antonio's Sabbat-gated ability is the core mechanic [src-014].
+
 ## Related Pages
 - [[voting]] — full vote mechanics.
 - [[referendum]] — three-step referendum framework.
@@ -55,3 +58,4 @@ Same rule as Camarilla — see [[camarilla#title-loss-on-sectclan-change]] [src-
 
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 39 (title loss), p. 40 (Sabbat, Prisci Block, antitribu).
+- src-014 — Codex of the Damned — Nephandii archetype (Sabbat Mage-ally swarm; Antonio d'Erlette Sabbat-gated recruit ability).
