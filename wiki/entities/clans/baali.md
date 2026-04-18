@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [clan, legacy, baali, infernal, independent]
-sources: [src-001, src-002, src-018]
+sources: [src-001, src-002, src-018, src-023]
 last_verified: 2026-04-18
 status: verified
 ---
@@ -46,6 +46,7 @@ Printed sect is almost uniformly **Independent** [src-002]. Baali-combo decks le
 - **Baali vote** — PRE votes at superior + Daimoinon combat intercept / debuff. Lean Independent-title vote counts.
 - **Infernal-heavy grind** — accept the 1-pool unlock tax to field multiple Infernal Baali with agenda-driving card text.
 - [[archetypes/the-unnamed|The unnamed]] — top-tier Baali stealth-and-bleed; The unnamed × 5 cap-10 (+2 pool per bleed); Enkil Cog + Homunculus double-bleed; Flurry of Action × 6 unlock chain; The Horde × 3 bypass of bleed-reducers [src-018].
+- [[archetypes/infernal-barons|Infernal Barons]] — runner-up Baali/Ministry Anarch vote; Arishat × 4 Baron + Xeper (+1 vote per infernal); Condemnation: Mute × 5 disrupts opposing votes; Kine Resources Contested × 11 referendum chain [src-023].
 
 ## Query
 
@@ -79,3 +80,4 @@ jq -r '.[] | select(.clans[]? == "Baali") | select(.card_text // "" | test("Infe
 - src-001 — VTES 5E Rulebook (clan list, p. 53 Quick Reference icons; Infernal trait p. 41).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (vampire rosters, discipline frequencies, library cross-references).
 - src-018 — Codex of the Damned — The unnamed archetype (top-tier Baali Independent stealth-bleed / bloat).
+- src-023 — Codex of the Damned — Infernal Barons archetype (runner-up Anarch Baali vote + Ministry splash).

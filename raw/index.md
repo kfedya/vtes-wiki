@@ -393,4 +393,18 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-023 — Codex of the Damned: Infernal Barons (runner-up archetype + decklist)
+- type: deck-list
+- date: 2021-11-06
+- author_or_channel: Codex of the Damned (editorial) / Ke Carlton (deck player, AUSNZ Continental 2022, TWDA id 10276)
+- topic: Anarch Baali/Ministry vote — Arishat × 4 (Baali Baron Infernal) + Xeper × 2 (Baali +1 vote per infernal) + Ministry splash (Vivian VI × 2) + Elisha Tucker × 2 + Jacques Rouge + Atiena. Core: Condemnation: Mute × 5 strip opposing vote capacity, Kine Resources Contested × 11 referendum chain, Reckless Agitation × 3, Eat the Rich × 3, Anarchist Uprising, Ancilla Empowerment. Vote amp: Voter Captivation × 4 + Bewitching Oration × 2 + Monkey Wrench × 2. Stealth: Forgotten Labyrinth × 5 + Lost in Crowds × 5 + Faceless Night × 2. Bloat: Villein × 6 + Info Highway × 3 + Wider View × 2 + Garibaldi-Meucci Museum × 2. Defence Bait and Switch × 4 + Organized Resistance × 2 + Majesty × 4. Utility: Unleash Hell's Fury × 3. Variants: no-Xeper (Entrancement sub), Dominica (rush defence swap).
+- url: https://codex-of-the-damned.org/en/archetypes/runner-ups/infernal-barons.html
+- added: 2026-04-18
+- pages_touched:
+  - wiki/archetypes/infernal-barons.md
+  - wiki/entities/clans/baali.md
+  - wiki/entities/sects/anarch.md
+  - wiki/index.md
+  - wiki/log.md
+
 ### Personal notes
