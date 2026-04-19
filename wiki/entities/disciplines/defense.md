@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, imbued-virtue, imbued, defense]
 sources: [src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: draft
 ---
 
@@ -31,7 +31,8 @@ No vampire clan has access to Defense.
 
 ## Typical card roles
 
-- Defender crypt — [François "Warden" Loehr](https://codex-of-the-damned.org/en/card-search/crypt/index.html?card=Fran%C3%A7ois%20%22Warden%22%20Loehr), [Jack "Hannibal137" Harmon](https://codex-of-the-damned.org/en/card-search/crypt/index.html?card=Jack%20%22Hannibal137%22%20Harmon), [Lupe "Cabbie22" Droin](https://codex-of-the-damned.org/en/card-search/crypt/index.html?card=Lupe%20%22Cabbie22%22%20Droin), [Xian "DziDzat155" Quan](https://codex-of-the-damned.org/en/card-search/crypt/index.html?card=Xian%20%22DziDzat155%22%20Quan).
+- Defender crypt — [Jack "Hannibal137" Harmon](https://codex-of-the-damned.org/en/card-search/crypt/index.html?card=Jack%20%22Hannibal137%22%20Harmon), [Lupe "Cabbie22" Droin](https://codex-of-the-damned.org/en/card-search/crypt/index.html?card=Lupe%20%22Cabbie22%22%20Droin), [Xian "DziDzat155" Quan](https://codex-of-the-damned.org/en/card-search/crypt/index.html?card=Xian%20%22DziDzat155%22%20Quan).
+- Non-Defender Imbued with `[def]` — [François "Warden" Loehr](https://codex-of-the-damned.org/en/card-search/crypt/index.html?card=Fran%C3%A7ois%20%22Warden%22%20Loehr) (creed: Judge, virtues `[def] [jud]`).
 - Power cards — [Champion](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Champion), [Rejuvenate](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Rejuvenate).
 - Action (Conviction-gated) — [Lock](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lock).
 

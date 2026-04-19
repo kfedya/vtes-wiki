@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, visceratika, gargoyle, stone]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -32,7 +32,9 @@ No other clans carry Visceratika in the current snapshot.
 - Stone-based strikes — [Lead Fist](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lead%20Fist), [Stone Quills](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Stone%20Quills), [Brick by Brick](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Brick%20by%20Brick), [Collapse the Arches](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Collapse%20the%20Arches), [Crawling Chamber](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Crawling%20Chamber).
 - Stone-meld / terrain actions — [Armor of Terra](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Armor%20of%20Terra), [Children of Stone](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Children%20of%20Stone), [Ensconced](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Ensconced).
 - Scry / castle reactions — [Scry the Hearthstone](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Scry%20the%20Hearthstone), [Voices of the Castle](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Voices%20of%20the%20Castle).
-- Stealth / camouflage modifiers — [Skin of the Chameleon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Skin%20of%20the%20Chameleon), [Conscripted Statue](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Conscripted%20Statue), [Unleash the Hounds](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Unleash%20the%20Hounds).
+- Stealth / camouflage modifiers — [Skin of the Chameleon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Skin%20of%20the%20Chameleon).
+- Block-response / combat setup modifier — [Conscripted Statue](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Conscripted%20Statue) (only on block: basic = opposing minion takes 1 damage each close round; superior = cancel combat and put 2/2 ally into play).
+- Bleed modifier — [Unleash the Hounds](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Unleash%20the%20Hounds) (VIS/DOM, +1 bleed (limited); superior enslaver-Gargoyle gets +1 per ready vampire of enslaving clan).
 
 ## Query
 

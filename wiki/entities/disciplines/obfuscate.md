@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, 5e-core, obfuscate, stealth, concealment]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -28,8 +28,8 @@ Also common on: Baali, Gangrel antitribu.
 
 - +1 stealth action modifier — [Cloak the Gathering](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Cloak%20the%20Gathering), [Faceless Night](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Faceless%20Night), [Lost in Crowds](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lost%20in%20Crowds).
 - +2 stealth / scale stealth — [Swallowed by the Night](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Swallowed%20by%20the%20Night), [Veil the Legions](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Veil%20the%20Legions).
-- Combat evasion via concealment — [Forgotten Labyrinth](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Forgotten%20Labyrinth).
-- Block cancellation / identity swap — [Elder Impersonation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Elder%20Impersonation).
+- +2/+3 stealth (non-bleed actions only) — [Forgotten Labyrinth](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Forgotten%20Labyrinth).
+- Identity swap / elder-mimicry — [Elder Impersonation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Elder%20Impersonation).
 - Domain / game-action stealth — [Domain of Evernight](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Domain%20of%20Evernight).
 
 ## Query

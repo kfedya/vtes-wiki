@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, 5e-core, animalism, retainer, combat]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,7 +26,7 @@ Also common on: Guruhi, Akunanse.
 
 ## Typical card roles
 
-- Animal combat swarm — [Aid from Bats](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aid%20from%20Bats), [Carrion Crows](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Carrion%20Crows%20Attack).
+- Animal combat swarm — [Aid from Bats](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aid%20from%20Bats), [Carrion Crows](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Carrion%20Crows).
 - Animal retainers — [Raven Spy](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Raven%20Spy), [Owl Companion](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Owl%20Companion).
 - Mass-attack actions — [Army of Rats](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Army%20of%20Rats), [Deep Song](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deep%20Song).
 - Intercept reactions via animal senses — [Cats' Guidance](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Cats%27%20Guidance), [Read the Winds](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Read%20the%20Winds).

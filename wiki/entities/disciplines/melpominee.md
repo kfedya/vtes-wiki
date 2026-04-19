@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, melpominee, daughters-of-cacophony, voice]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -27,8 +27,8 @@ No other crypt cards carry Melpominee in the current snapshot.
 ## Typical card roles
 
 - Voice action modifiers — [Siren's Lure](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Siren%27s%20Lure), [Madrigal](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Madrigal), [Virtuosa](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Virtuosa).
-- Crescendo bleed / action — [Shattering Crescendo](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shattering%20Crescendo), [Persistent Echo](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Persistent%20Echo).
-- Audience-charm bleed action — [Blessed Audience](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blessed%20Audience), [Choir](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Choir).
+- Damage actions (ally/retainer snipe) — [Shattering Crescendo](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shattering%20Crescendo) (MEL/PRO; 1 unpreventable to an ally/retainer; at MEL discard a copy for 2–3 damage to two minions of one Methuselah), [Persistent Echo](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Persistent%20Echo).
+- Lockdown / crowd-control action — [Blessed Audience](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blessed%20Audience) (MEL/AUS; lock X-1 allies/younger vampires from predator and/or prey), [Choir](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Choir).
 - Political actions — [Fanfare for Elysium](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Fanfare%20for%20Elysium), [Lily Prelude](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lily%20Prelude).
 - Combat against Toreador / kin — [Toreador's Bane](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Toreador%27s%20Bane), [Death of the Drum](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Death%20of%20the%20Drum).
 

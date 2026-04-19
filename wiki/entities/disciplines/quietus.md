@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, quietus, banu-haqim, assamite, silent-death]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,10 +26,10 @@ Scattered across clans but concentrated almost exclusively on Banu Haqim crypt c
 
 ## Typical card roles
 
-- Blood poison / pool-drain actions — [Poison the Well of Life](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Poison%20the%20Well%20of%20Life), [Blood Clots](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blood%20Clots), [Erosion](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Erosion).
-- Taste-of-vitae style drains — [Succulent Vitae](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Succulent%20Vitae), [Draught of the Soul](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Draught%20of%20the%20Soul).
+- Master-hate / hunting-ground attack — [Poison the Well of Life](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Poison%20the%20Well%20of%20Life) (burn a hunting ground; burn ALL hunting grounds at superior), [Blood Clots](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blood%20Clots), [Erosion](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Erosion).
+- Hunt-assist / blood-curse modifiers — [Succulent Vitae](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Succulent%20Vitae) (during hunt; stores on vampire to reduce cost of future `[qui]` cards), [Draught of the Soul](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Draught%20of%20the%20Soul).
 - Silent / ranged combat — [Baal's Bloody Talons](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Baal%27s%20Bloody%20Talons), [Blood Agony](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blood%20Agony), [Steely Tenacity](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Steely%20Tenacity).
-- Blood-tempering / stasis — [Retain the Quick Blood](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Retain%20the%20Quick%20Blood), [Truth of Blood](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Truth%20of%20Blood).
+- Action-chain / stealth-bleed — [Retain the Quick Blood](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Retain%20the%20Quick%20Blood) (unlock after action), [Truth of Blood](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Truth%20of%20Blood) (stealth-bleed action with discard-on-block punishment).
 - Reactions / wake — [Blood Awakening](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blood%20Awakening).
 
 ## Relationship to Blood Sorcery (V5)

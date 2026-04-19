@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, v5, oblivion, hecata, lasombra, shadow, death]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -35,7 +35,8 @@ Scattered appearances on: Tremere (V5 Banu Haqim / Hecata crossover printings).
 - Shadow-summoned allies — [Rotting Behemoth](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Rotting%20Behemoth), [Bone Shambler](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bone%20Shambler), [Spectral Servitor](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Spectral%20Servitor).
 - Shadow combat — [Arms of Ahriman](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Arms%20of%20Ahriman), [Touch of Oblivion](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Touch%20of%20Oblivion), [Shadow Cast](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shadow%20Cast).
 - Stealth / void action modifiers — [Shadow Cloak](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shadow%20Cloak), [Stygian Shroud](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Stygian%20Shroud), [Where the Veil Thins](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Where%20the%20Veil%20Thins).
-- Shadow / grapple actions — [Umbrous Clutch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Umbrous%20Clutch), [Shroud of Decay](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shroud%20of%20Decay).
+- Stealth rush action — [Umbrous Clutch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Umbrous%20Clutch) (+1 stealth; enter combat; maneuver at superior).
+- Bleed / attrition action — [Shroud of Decay](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shroud%20of%20Decay) (basic = bleed +1 with discard-on-success; superior = remove 7 from prey's ash heap to burn 3 pool).
 - Reactions — [Shadow Sentinel](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shadow%20Sentinel), [Truth in Darkness](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Truth%20in%20Darkness).
 
 ## Query

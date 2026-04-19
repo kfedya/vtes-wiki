@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, chimerstry, illusion, ravnos]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,7 +26,8 @@ Scattered appearances on: Giovanni, Ishtarri, Lasombra, Ministry.
 
 ## Typical card roles
 
-- Bleed / pool-pressure actions — [Illusory Resources](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Illusory%20Resources), [Mass Reality](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mass%20Reality).
+- Defensive bleed-reduction — [Illusory Resources](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Illusory%20Resources) (+1 stealth unique action; put in play with counters, spend counters to reduce bleeds against you).
+- Weapon-damage buff action — [Mass Reality](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mass%20Reality) (put in play; your minions' weapon strikes +1/+2 damage).
 - Stealth action modifiers — [Fata Morgana](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Fata%20Morgana), [Smoke and Mirrors](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Smoke%20and%20Mirrors).
 - Illusory combat — [Horrid Reality](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Horrid%20Reality), [Apparition](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Apparition).
 - Mind-twisting actions — [Sensory Deprivation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sensory%20Deprivation), [Shared Nightmare](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shared%20Nightmare).

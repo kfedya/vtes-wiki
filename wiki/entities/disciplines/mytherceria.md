@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, mytherceria, kiasyd, faerie]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -27,7 +27,8 @@ No other crypt cards carry Mytherceria in the current snapshot.
 ## Typical card roles
 
 - Faerie reaction / blocking — [Faerie Wards](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Faerie%20Wards), [Folderol](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Folderol).
-- Mind-theft actions — [Steal the Mind](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Steal%20the%20Mind), [Pandora's Whisper](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Pandora%27s%20Whisper).
+- Card-draw / cycle action — [Pandora's Whisper](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Pandora%27s%20Whisper) (draw 5; others may draw 2).
+- Block-setup debuff — [Steal the Mind](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Steal%20the%20Mind) (attach to a minion; acting vampire gets +2 intercept when blocking that minion).
 - Gremlin / goblin havoc — [Gremlins](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Gremlins), [Goblinism](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Goblinism).
 - Fae combat — [Darkling Trickery](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Darkling%20Trickery), [Basilisk's Touch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Basilisk%27s%20Touch), [Earth Swords](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Earth%20Swords).
 - Unique retainer / equipment — [Redcap Wilder](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Redcap%20Wilder), [Tinglestripe](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Tinglestripe).

@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, necromancy, giovanni, harbinger-of-skulls, nagaraja, death]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -32,11 +32,14 @@ Scattered appearances on: Ministry.
 
 ## Typical card roles
 
-- Bleed-bounce / bleed redirect reaction — [Call of the Hungry Dead](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Call%20of%20the%20Hungry%20Dead).
-- Ghost / soul stealth actions — [Soul Feasting](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Soul%20Feasting), [Possession](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Possession), [Daemonic Possession](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Daemonic%20Possession).
-- Stealth / void action modifiers — [Shroudsight](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shroudsight), [Inevitability of the Void](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Inevitability%20of%20the%20Void).
-- Wraith / undead allies — [Shambling Hordes](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shambling%20Hordes), [Puppeteer](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Puppeteer).
-- Ghost combat — [Dead Hand](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Dead%20Hand), [Torment the Soul](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Torment%20the%20Soul), [Heaven's Gate](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Heaven%27s%20Gate).
+Verified against card-db snapshot 2026-04-18 [src-002].
+
+- Block-disruption action modifier — [Call of the Hungry Dead](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Call%20of%20the%20Hungry%20Dead) (basic = -1 intercept on blocker; superior = burn 1 blood to cancel the block attempt and lock that blocker out of this action).
+- Crypt recovery / minion theft actions — [Possession](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Possession) (ash-heap vampire → your uncontrolled/ready), [Daemonic Possession](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Daemonic%20Possession) (steal a burned minion from another Methuselah's ash heap).
+- Hunt-assist action — [Soul Feasting](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Soul%20Feasting) (+1 stealth; burn a wraith to hunt with +3 hunt).
+- Ash-heap recursion / bleed-amp modifiers — [Shroudsight](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shroudsight) (move used action/other card from ash heap back to top of library), [Inevitability of the Void](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Inevitability%20of%20the%20Void) (bleed modifier; +1 bleed per 10 cards in target's ash heap at superior).
+- Wraith / undead allies — [Shambling Hordes](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shambling%20Hordes) (zombie ally, strength scales with life), [Puppeteer](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Puppeteer) (wraith ally that can temporarily take control of an ally or cap-4 vampire).
+- Ghost combat — [Dead Hand](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Dead%20Hand) (+1 damage hand-strike, fortitude-piercing at superior), [Torment the Soul](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Torment%20the%20Soul) (1R damage, aggravated at superior), [Heaven's Gate](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Heaven%27s%20Gate) (out-of-turn ally protection, dual NEC/OBE).
 
 ## Query
 
@@ -56,7 +59,7 @@ jq -rs '[.[][] | select(.disciplines[]? | ascii_downcase == "nec")] | .[] | .nam
 
 - [[entities/card-types/library]] — library card mechanics.
 - [[entities/disciplines/oblivion]] — V5 consolidation that partly supersedes Necromancy.
-- [[target-redirection]] — Call of the Hungry Dead is a Necromancy bleed-bounce.
+- [[block-resolution]] — Call of the Hungry Dead disrupts block attempts (Necromancy's way of forcing unblockable).
 - [[bleed]] — Necromancy supports stealth-bleed archetypes.
 
 ## Sources

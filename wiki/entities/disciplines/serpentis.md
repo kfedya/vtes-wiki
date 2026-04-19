@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, serpentis, ministry, followers-of-set, temptation]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,10 +26,15 @@ Scattered across clans but heavily concentrated on Ministry crypt cards.
 
 ## Typical card roles
 
+Verified against card-db snapshot 2026-04-18 [src-002].
+
 - Transformation / snake forms — [Form of the Serpent](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Form%20of%20the%20Serpent), [Eyes of the Serpent](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eyes%20of%20the%20Serpent), [Form of Corruption](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Form%20of%20Corruption).
 - Temptation / corruption actions — [Enticement](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Enticement), [Lure of the Serpent](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lure%20of%20the%20Serpent), [Revelation of Desire](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Revelation%20of%20Desire), [Truth of a Thousand Lies](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Truth%20of%20a%20Thousand%20Lies).
-- Curse / soul-mark actions — [Condemnation: Betrayed](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Condemnation%3A%20Betrayed), [Mark of Damnation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mark%20of%20Damnation), [Heart of Darkness](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Heart%20of%20Darkness).
-- Venom / stealth modifiers — [Venenation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Venenation), [Divine Image](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Divine%20Image), [Velvet Tongue](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Velvet%20Tongue).
+- Curse / soul-mark actions — [Condemnation: Betrayed](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Condemnation%3A%20Betrayed), [Mark of Damnation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mark%20of%20Damnation).
+- Self-buff action — [Heart of Darkness](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Heart%20of%20Darkness) (persistent: aggravated → normal damage; prevent 1 damage each combat at superior).
+- Corruption-counter / blocker-theft modifier — [Venenation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Venenation) (on-block: corruption counter on blocker; can steal blocker when counters ≥ capacity).
+- Vote-disruption via corruption — [Velvet Tongue](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Velvet%20Tongue) (polling-step modifier: counter on vote-caster; superior stops corrupt minions voting).
+- Open-bleed self-buff — [Divine Image](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Divine%20Image) (-1 stealth, +1 strength, prevent 1/combat; superior adds off-limit +1 bleed on bleed action).
 - Diablerie-like soul actions — [Consignment to Duat](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Consignment%20to%20Duat), [Dismemberment of Osiris](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Dismemberment%20of%20Osiris).
 
 ## Query

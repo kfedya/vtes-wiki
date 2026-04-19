@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, dementation, malkavian, madness]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,11 +26,14 @@ Scattered appearances on: Ravnos, Ishtarri, Baali.
 
 ## Typical card roles
 
-- Signature bleed actions — [Kindred Spirits](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Kindred%20Spirits), [The Call](https://codex-of-the-damned.org/en/card-search/library/index.html?card=The%20Call).
-- Bounce / bleed-redirect reactions — [Voice of Madness](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Voice%20of%20Madness), [Shattered Mirror](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shattered%20Mirror).
-- Madness-themed actions — [Lunatic Eruption](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lunatic%20Eruption), [Total Insanity](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Total%20Insanity).
-- Chaos action modifiers — [Confusion](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Confusion), [Eyes of Chaos](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eyes%20of%20Chaos).
-- Mind-breaking combat — [Coma](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Coma), [Abandoning the Flesh](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Abandoning%20the%20Flesh).
+Verified against card-db snapshot 2026-04-18 [src-002].
+
+- Signature bleed action — [Kindred Spirits](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Kindred%20Spirits) (directed bleed +1 pool on success; +1 bleed at superior).
+- Influence-ramp action — [The Call](https://codex-of-the-damned.org/en/card-search/library/index.html?card=The%20Call) (AUS/DEM, +1 stealth; add 2/3 blood to a younger `[dem]` vampire in uncontrolled region).
+- Block-ending reactions — [Voice of Madness](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Voice%20of%20Madness) (on block of ally/younger: lock self, end action; superior burns 1 from acting minion), [Shattered Mirror](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shattered%20Mirror) (on block of ally/younger bleeder: end action + persistent -1 bleed debuff on acting minion).
+- Attach-to-minion madness actions — [Lunatic Eruption](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lunatic%20Eruption) (force attached minion into combat with prey each turn), [Total Insanity](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Total%20Insanity) (-1 stealth + ticking action-lockout on ally/younger).
+- Bleed modifiers — [Confusion](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Confusion) ((limited) +1 bleed; +1 stealth + bleed at superior), [Eyes of Chaos](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eyes%20of%20Chaos) ((limited) +1/+2 bleed).
+- Mind-breaking combat — [Coma](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Coma) (strike: send opposing vampire to torpor), [Abandoning the Flesh](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Abandoning%20the%20Flesh) (escape-burn reaction; stays in play as a +1 bleed enabler for other `[dem]` vampires).
 
 ## Query
 

@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, protean, gangrel, shapeshifting]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,10 +26,12 @@ Also frequent on: Tzimisce, Ministry (Followers of Set), Ahrimane, Nosferatu.
 
 ## Typical card roles
 
-- Transformation / native weapons — [Form of the Bat](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Form%20of%20the%20Bat), [Form of the Cobra](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Form%20of%20the%20Cobra), [Spirit Claws](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Spirit%27s%20Claws), [Rapid Change](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Rapid%20Change).
+Verified against card-db snapshot 2026-04-18 [src-002].
+
+- Transformation / native weapons — [Form of the Bat](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Form%20of%20the%20Bat), [Form of the Cobra](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Form%20of%20the%20Cobra), [Spirit Claws](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Spirit%20Claws), [Rapid Change](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Rapid%20Change).
 - Earth-meld / daytime cover — [Earth Control](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Earth%20Control), [Earth Meld](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Earth%20Meld), [Beast Meld](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Beast%20Meld).
-- Combat ends / environmental damage — [Taste of Vitae](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Taste%20of%20Vitae), [Flesh of Marble](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Flesh%20of%20Marble).
-- Stealth action modifiers — [Instantaneous Transformation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Instantaneous%20Transformation), [Mantle of the Bestial Majesty](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mantle%20of%20the%20Bestial%20Majesty).
+- Damage prevention combat — [Flesh of Marble](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Flesh%20of%20Marble) (prevents all additional damage after the first successful inflict each round; aggravated-proof at superior).
+- Stealth action modifiers — [Instantaneous Transformation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Instantaneous%20Transformation) (basic = +1 stealth, superior CEL/PRO = post-action unlock), [Mantle of the Bestial Majesty](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mantle%20of%20the%20Bestial%20Majesty).
 - Monstrous bruiser actions — [Monstrous Form](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Monstrous%20Form), [Horrific Countenance](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Horrific%20Countenance).
 
 ## Query

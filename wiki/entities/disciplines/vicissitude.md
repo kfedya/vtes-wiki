@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, vicissitude, tzimisce, fleshcraft]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -28,7 +28,9 @@ Also scattered on: Blood Brother, Gangrel antitribu, Malkavian antitribu, Tremer
 
 - Fleshcraft combat — [Fleshcraft](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Fleshcraft), [Bonecraft](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bonecraft), [Body Arsenal](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Body%20Arsenal), [Breath of the Dragon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Breath%20of%20the%20Dragon), [Chiropteran Marauder](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Chiropteran%20Marauder).
 - Shape-shift / body-reform — [Bloodform](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bloodform), [Blood of Acid](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blood%20of%20Acid), [Plasmic Form](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Plasmic%20Form), [Reform Body](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Reform%20Body).
-- Identity / face-changing action modifiers — [Changeling](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Changeling), [Malleable Visage](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Malleable%20Visage), [Lobotomy](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lobotomy), [Loose Cannon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Loose%20Cannon).
+- Identity / face-changing action modifiers — [Changeling](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Changeling), [Malleable Visage](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Malleable%20Visage).
+- Ally-debuff modifier — [Lobotomy](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lobotomy) (during recruit-ally: attach to ally, -1 bleed, no maneuver, immune to DOM/PRE actions).
+- Block-punishment modifier — [Loose Cannon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Loose%20Cannon) (requires Anarch; on-block, applies per-discipline penalty to blocker's controller's vampires).
 - Crafting / transformation actions — [Soul Decoration](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Soul%20Decoration), [Root of Vitality](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Root%20of%20Vitality), [The World's a Canvas](https://codex-of-the-damned.org/en/card-search/library/index.html?card=The%20World%27s%20a%20Canvas), [Bauble](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bauble).
 - Construct allies — [Corrupt Construction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Corrupt%20Construction).
 

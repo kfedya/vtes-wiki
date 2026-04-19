@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, legacy, valeren, salubri, warrior]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,7 +26,8 @@ Rare on regular Salubri (who favour Obeah instead).
 
 ## Typical card roles
 
-- Aggravated-damage combat — [Sword of the Righteous](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sword%20of%20the%20Righteous), [Vengeance of Samiel](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Vengeance%20of%20Samiel), [Blessed Blade](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blessed%20Blade), [Burning Touch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Burning%20Touch).
+- Aggravated-damage combat — [Sword of the Righteous](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sword%20of%20the%20Righteous), [Vengeance of Samiel](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Vengeance%20of%20Samiel), [Blessed Blade](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blessed%20Blade).
+- Action modifier (val side) — [Burning Touch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Burning%20Touch) (basic val = on-block, blocker burns blood & others may decline to block; superior VAL = +1 bleed (limited) on a bleed action — NB: the aggravated-damage strike on this card is the `[tha]` Combat mode, not Valeren).
 - Pain / agony combat — [Blissful Agony](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blissful%20Agony), [Loving Agony](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Loving%20Agony), [Morphean Blow](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Morphean%20Blow).
 - Protective armour / defence — [Armor of Caine's Fury](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Armor%20of%20Caine%27s%20Fury), [Eye of Unforgiving Heaven](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eye%20of%20Unforgiving%20Heaven).
 - Truth / reaction — [Hide the Heart](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Hide%20the%20Heart), [Aversion](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aversion).
