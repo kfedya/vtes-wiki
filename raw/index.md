@@ -522,6 +522,20 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
   - wiki/index.md
   - wiki/log.md
 
+## src-033 — TWDA: Wormwood — Nuno Moure, Elysium: Almada 2025
+- type: deck-list
+- date: 2025-05-31
+- author_or_channel: Nuno Moure (player) / Elysium: Almada, Portugal (12-player 2R+F event) / TWDA id 12361
+- topic: Imbued Hunter attrition/control — Gehenna-event cascade via Wormwood × 3 + 11 other uniques; Imbued wall (React with Conviction × 6, Second Sight × 6, Determine × 4) + combat-to-bleed finisher (Target Vitals × 4 + Weighted Walking Stick × 4 + Strike with Conviction × 6) + anti-predator tech (Aranthebes, Millicent Smith). 64-card library; G4 Imbued crypt mixing all seven creeds. Not a Codex-catalogued archetype.
+- url: https://api.krcg.org/twda/12361 (canonical) / https://vdb.im/twd/12361 (frontend)
+- added: 2026-04-19
+- pages_touched:
+  - raw/decks/033-wormwood.json
+  - raw/index.md
+  - wiki/archetypes/wormwood.md
+  - wiki/index.md
+  - wiki/log.md
+
 ## src-031 — Codex of the Damned: Thucimia (new-kid archetype + decklist)
 - type: deck-list
 - date: 2025-01-17
