@@ -178,9 +178,10 @@ A single ingest typically touches 3–10 wiki pages.
 2. Drill into the identified pages.
 3. If the answer requires information not in the wiki, **use the External reference sources above** (krcg TWDA API, VEKN forum, Codex) before saying "I don't know" or guessing. Say so and suggest ingesting sources that would cover it. Do not invent.
 4. Answer with inline source citations when quoting ruling-layer statements.
-5. **If the user pushes back on your answer**, follow the *"When the user pushes back"* checklist in the External reference sources section — re-read krcg rulings for which case they cover, `WebFetch` the referenced forum thread, and `curl` TWDA for empirical evidence. Do not double down from memory.
-6. If the answer is genuinely novel — a comparison, a synthesis, or a new connection — offer to file it as a new page so the knowledge compounds.
-7. For significant queries (ones that involved more than a simple page lookup), append to `wiki/log.md`: `## [YYYY-MM-DD] query | "<question>" — filed as <path> §<section>` (or `— no page filed` if nothing new).
+5. **Before naming a specific card as an example, verify its card text in `card-db/` (or the `raw/card-db-snapshots/` latest snapshot).** Do not cite cards from memory. Pull the actual `types`, `disciplines`, `card_text` for any card you are about to name — especially in edge cases and "e.g." lists. Past mistakes: naming Action Modifiers (`Instantaneous Transformation`) or Actions (`Magic of the Smith`) as "first-strike dodge" combat cards — they aren't even combat cards. One grep against `card-db` would have caught it. This rule applies to *all* card mentions, not just the ones being asked about directly. If you cannot find the card you're thinking of, say so — do not substitute a plausible-sounding name.
+6. **If the user pushes back on your answer**, follow the *"When the user pushes back"* checklist in the External reference sources section — re-read krcg rulings for which case they cover, `WebFetch` the referenced forum thread, and `curl` TWDA for empirical evidence. Do not double down from memory.
+7. If the answer is genuinely novel — a comparison, a synthesis, or a new connection — offer to file it as a new page so the knowledge compounds.
+8. For significant queries (ones that involved more than a simple page lookup), append to `wiki/log.md`: `## [YYYY-MM-DD] query | "<question>" — filed as <path> §<section>` (or `— no page filed` if nothing new).
 
 ### Lint
 

@@ -70,7 +70,7 @@ Sequence at close range:
 ### What does NOT survive premature combat end
 - **In-combat effects** on the rider half of a strike — the rider's damage/effect happens **after** combat has ended, so combat-only defences no longer apply. See [[strike-effects#combat-ends-with-a-damage-rider]] for the general rule and card-specific fallout (Target Vitals boost, Dawn Operation scope, Amaranth timing) [src-002, src-003].
 - **Additional strikes** this round — combat ended, no further strikes resolve.
-- **Dodge** on the striker's side does not retroactively cancel the combat-end — dodge protects the dodger from the strike's direct effects, not from the rider firing "combat ends" [src-002, LSJ 20011210-2].
+- **Dodge** does not retroactively cancel the combat-end — dodge protects the dodger from the strike's direct effects, not from the rider firing "combat ends" [src-002, LSJ 20011210-2]. This holds whether the opposing minion dodges at normal speed or via a first-strike dodge card.
 
 ## Ordering Cheat-Sheet
 When multiple post-action effects fire on the same action/combat:
