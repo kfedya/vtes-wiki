@@ -2,7 +2,7 @@
 type: card
 tags: [combat, presence, combat-ends, damage-rider, aim-interaction, sce]
 sources: [src-001, src-002, src-003]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -35,7 +35,7 @@ Verbatim (Ankha):
 **Totals at close range, superior [PRE]:**
 - Catatonic Fear alone: 1 damage.
 - Catatonic Fear + Target Vitals (damage lands): **1 + 2 = 3 damage**, still unpreventable. Opposing minion also "cannot press this round" (from Target Vitals — moot since combat has ended, but matters if another effect would restart combat).
-- Catatonic Fear + Target Vitals, **dodged**: 0 damage. Dodge defeats both strikes' effects.
+- Catatonic Fear + Target Vitals, **dodged**: 0 damage. Dodge cancels the rider damage on the dodger; **combat still ends** (combat-ends is not "directed at the dodger") [RTR 20041202] [LSJ 20070124] [src-002].
 - **Basic [pre] Catatonic Fear** (no damage rider) + Target Vitals: 0 damage. Here the krcg Target Vitals ruling "Can be played on a strike that does no damage, even a dodge or a combat ends, but has no effect in that case" [RTR 19960221] [PIB 20130319] [src-002] applies — the basic strike inflicts nothing, so Target Vitals' trigger ("if any damage from this strike is successfully inflicted") is never met.
 
 > **Why the krcg "has no effect" ruling is not a contradiction.** That ruling covers strikes that literally inflict no damage: dodges, basic-level combat ends without a damage rider. Superior Catatonic Fear and superior Loving Agony are combat-ends-with-damage-rider strikes — the rider damage *is* "damage from this strike" for Aim purposes, even though it resolves after combat ends.
@@ -66,7 +66,7 @@ This is a **general rule for combat-ends-with-rider strikes**, surfaced in [[str
 From krcg's embedded `rulings[]` [src-002]:
 
 - **[PRE] Damage is done by the vampire (not environmental).** [RTR 19970630] [LSJ 19990723] — so "immune to X vampire damage" effects protect; "immune to environmental damage" does not.
-- **If the strike is dodged, no damage is done.** [LSJ 19980526] [RTR 20041202] [LSJ 20070124].
+- **If the strike is dodged, no rider damage is done — but combat still ends.** [LSJ 19980526] [RTR 20041202] [LSJ 20070124]. Verbatim from RTR 20041202 (LSJ): *"Dodge protects the dodger from the effects of the opposing minion's strike, even if … it is a Combat Ends strike (Combat Ends will still end combat, but any additional effects the strike would have on the dodger, like Catatonic Fear's damage, are dodged)."* Verbatim from LSJ 20070124: *"Yes. Well, it avoids the damage (the damage is never applied, rather than being applied and prevented)."*
 - **If combat continues or a new combat begins**, the after-combat effect **does not happen / is not usable** — e.g. after `Psyche!` or `Telepathic Tracking`. [RTR 20020501] [LSJ 19980109] — partial reversal of RTR 20010711.
 - **Any blood loss occurs after combat** and will not trigger Anathema or be available for Taste of Vitae, etc. [LSJ 20031123]. Mirror case: damage applied after combat **cannot be prevented by combat cards** (they're out of scope once combat ends) [LSJ 20010205].
 - **Is a damage-dealing effect** and can be modified by other effects like Dam the Heart's River. [ANK 20170111] [PIB 20130319].

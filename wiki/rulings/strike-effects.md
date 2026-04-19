@@ -2,7 +2,7 @@
 type: ruling
 tags: [combat, strike-effects, hand-strike, dodge, combat-ends, damage-rider, sce, first-strike, steal-blood, destroy-equipment, steal-equipment]
 sources: [src-001, src-002, src-003]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -43,7 +43,7 @@ Several strike cards read `Strike: combat ends, AND <X>` — e.g. [Catatonic Fea
 
 Consequences:
 - **The rider X is NOT protected by being part of combat resolution.** Combat-card prevention, `Taste of Vitae`, and other in-combat effects are out of scope once combat ends [LSJ 20010205] [LSJ 20031123] [src-002].
-- **Dodge still defeats the whole strike** — if the SCE strike is dodged, no combat-ends AND no rider damage [src-003]. Dodge protects the dodging minion from all effects of the opposing strike, including the rider.
+- **Dodge cancels the rider damage, but combat still ends** [LSJ 19980526] [RTR 20041202] [LSJ 20070124] [src-002]. Dodge protects the dodging minion from effects of the opposing strike directed at the dodger; "combat ends" is not directed at the dodger so it still resolves. Verbatim from RTR 20041202 (LSJ): *"Combat Ends will still end combat, but any additional effects the strike would have on the dodger, like Catatonic Fear's damage, are dodged."* Verbatim from LSJ 20070124: *"Yes. Well, it avoids the damage (the damage is never applied, rather than being applied and prevented)."* Source URLs in `card-db/library/combat.json` under Catatonic Fear's `rulings[].references[].url`.
 - **If combat continues** (e.g. `Psyche!`, `Telepathic Tracking` restart combat), the after-combat rider **does not happen / is not usable** [RTR 20020501] [src-002].
 - **Aim / damage-boost cards can boost the rider** when the rider damage successfully lands. [Target Vitals](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Target%20Vitals) adds **+2 damage** to Catatonic Fear [PRE] or Loving Agony [val] rider damage if it is inflicted [PIB 20130319] [src-003]. `Dam the Heart's River` adds +1 via its "strike OR damaging effect" clause [ANK 20170111] [src-002]. The general krcg Target Vitals ruling "has no effect on a strike that does no damage" [RTR 19960221] covers basic-level SCE without a rider (and dodges), **not** SCE strikes that carry a damage rider.
 - **Damage-aggravating effects DO NOT reach the rider** if they scope to "during combat". [Dawn Operation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Dawn%20Operation) only aggravates damage dealt during combat, so Catatonic Fear / Loving Agony rider damage **is not aggravated** by a pre-combat Dawn Operation [src-003].
