@@ -1,6 +1,6 @@
 # VTES Wiki Index
 
-Last updated: 2026-04-18 | Pages: 177 | Sources: 31
+Last updated: 2026-04-19 | Pages: 182 | Sources: 32
 
 Catalogue of every page in the wiki. LLM reads this first when answering a query to locate relevant pages, and updates it on every ingest.
 
@@ -55,7 +55,7 @@ Catalogue of every page in the wiki. LLM reads this first when answering a query
 
 ### Game end
 - [[ending-the-game]] — ouster mechanics; 6 pool + 1 VP for prey's ouster; simultaneous-ouster exception; prey shift.
-- [[withdraw]] — advanced: exhausted-library withdrawal; declare in unlock; no combat/blood/pool loss.
+- [[withdraw]] — advanced: exhausted-library withdrawal; declare in unlock; no combat/blood/pool loss. Basic-rules reward = 1 VP; **tournament reward = 0.5 VP** (src-032 override).
 
 ### Traits
 - [[traits]] — Black Hand, Blood Cursed, Circle, Flight, Infernal (1-pool unlock), Red List, Scarce (3-pool penalty), Slave, Sterile.
@@ -69,6 +69,14 @@ Catalogue of every page in the wiki. LLM reads this first when answering a query
 
 ### Reference
 - [[quick-reference]] — icon cheat sheet for disciplines, clans, card types, and other symbols from the rulebook Quick Reference page.
+
+## Tournament
+
+- [[tournament/index|tournament-index]] — VEKN Tournament Rules (v. 21 Sep 2025) overview + headline-rules quick-reference table; sanctioning, multi-judge, multi-deck, proxies; pre-game procedure.
+- [[tournament/scoring|scoring]] — GW (≥2 VP + strict lead), VP (1 oust / 0.5 survive / 0.5 withdraw / 1 sole survivor), TP (60/48/36/24/12 + 4-player bye), tie-breaker chain (GW→VP→TP→random for top-5); finals seating (index-card method) + finals scoring (final-VP only, prelim ranking as tie-breaker).
+- [[tournament/banned-cards|banned-cards]] — full §4.1 ban list (17 named cards + categorical ante-card ban); NoR rules cards explicitly legal.
+- [[tournament/v5-format|v5-format]] — V5 constructed card pool: 14 V5 precons + 11 New Blood + Fall of London + Shadows of Berlin + 30th Anniversary + Promo Pack 3/4 + 2025-10-26 Sabbat V5 precons; "any legal print version is legal".
+- [[tournament/play-to-win|play-to-win]] — sportsmanship rule + acknowledged-not-enforced deal carve-out; **two-player exception** voids all prior deals once table is 1-on-1; concede (unanimous + play-to-win compatible), intentional draw (= playing to time), infinite-loop rule (game-state restored ⇒ activity can't repeat).
 
 ## Playgroup
 

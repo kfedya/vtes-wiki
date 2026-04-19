@@ -41,7 +41,7 @@ Full design: `docs/superpowers/specs/2026-04-17-vtes-wiki-design.md`.
 
 ```yaml
 ---
-type: ruling | entity | card | archetype | mechanic-index | playgroup | lore | meta | collection
+type: ruling | entity | card | archetype | mechanic-index | playgroup | lore | meta | collection | tournament
 tags: [kebab-case, tags, here]
 sources: [src-NNN, src-NNN]
 last_verified: YYYY-MM-DD

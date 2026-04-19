@@ -26,6 +26,25 @@ Catalogue of source documents stored in `raw/`. This file is the source of truth
 
 ### Rulebooks
 
+## src-032 — VEKN Tournament Rules (v. 21 September 2025)
+- type: rulebook
+- date: 2025-09-21
+- author_or_channel: VEKN — Vampire: Elder Kindred Network
+- topic: Official tournament regulations for sanctioned VTES play. 11 sub-pages: §1 General Rules + §2 Tournament Responsibilities + §3 Tournament Mechanics (round structure, time limits, seating preliminary + finals index-card method, multi-deck system, scoring GW/VP/TP) + §4 Game Rules (banned cards, proxies, infinite loops, play-to-win + 2-player exception) + §5 Violations + §6 Constructed (deck size 60-90 lib / 12+ crypt, V5 format card pool) + §7 Limited (sealed, draft, restricted-trade, recursion table) + §8 Sanctioning + §9 Reporting + Appendix A Ratings + Appendix B Definitions. Captures 2025 changes: Black Chantry as governing body, V5 constructed format, multi-deck clarification, proxy rules (custom artwork only for game tokens). Tournament withdraw = 0.5 VP overrides basic rulebook 1 VP.
+- url: https://www.vekn.net/tournament-rules
+- added: 2026-04-19
+- pages_touched:
+  - CLAUDE.md
+  - raw/index.md
+  - wiki/tournament/index.md
+  - wiki/tournament/scoring.md
+  - wiki/tournament/banned-cards.md
+  - wiki/tournament/v5-format.md
+  - wiki/tournament/play-to-win.md
+  - wiki/rulings/withdraw.md
+  - wiki/index.md
+  - wiki/log.md
+
 ## src-001 — VTES Fifth Edition Rulebook (EN)
 - type: rulebook
 - date: 2023-10-01

@@ -1,8 +1,8 @@
 ---
 type: ruling
-tags: [withdraw, end-game, advanced, library, pool]
-sources: [src-001]
-last_verified: 2026-04-18
+tags: [withdraw, end-game, advanced, library, pool, tournament]
+sources: [src-001, src-032]
+last_verified: 2026-04-19
 status: draft
 ---
 
@@ -35,9 +35,15 @@ On success, you receive **1 victory point** added to any victory points already 
 
 - Your **predator does not get** 1 victory point or any pool for your withdrawal [src-001 p. 38].
 
+## Tournament Override — half VP
+In **VEKN-sanctioned tournament play** the reward is reduced to **0.5 VP** for a successful withdrawal, not the basic-rules 1 VP [src-032 §3.7.2]. Everything else (preconditions, declaration, success conditions, predator gets nothing) is unchanged. See [[../tournament/scoring]].
+
+This makes withdrawing strictly worse than surviving as the **sole** survivor (1 VP) and equal to surviving when at least one other player is still at the table (also 0.5 VP). Withdraw is therefore not a tactic to chase VP under tournament scoring — it's an exit ramp when you can no longer interact with the game.
+
 ## Comparison to Ouster
 - Ouster: predator gets 1 VP + 6 pool (usually) — see [[ending-the-game]].
-- Withdrawal: only the withdrawing Methuselah gets 1 VP; predator gets nothing.
+- Withdrawal (basic rules): only the withdrawing Methuselah gets 1 VP; predator gets nothing.
+- Withdrawal (tournament): only the withdrawing Methuselah gets 0.5 VP; predator still gets nothing [src-032 §3.7.2].
 
 ## Common Mistakes
 - Declaring intent in a phase other than unlock.
@@ -52,3 +58,4 @@ On success, you receive **1 victory point** added to any victory points already 
 
 ## Sources
 - src-001 — VTES Fifth Edition Rulebook, p. 38 (Advanced Rules — Withdrawing from the Game).
+- src-032 — VEKN Tournament Rules §3.7.2 (Victory Point Scoring — half VP for withdrawal in sanctioned play). <https://www.vekn.net/tournament-rules/3-tournament-mechanics>
