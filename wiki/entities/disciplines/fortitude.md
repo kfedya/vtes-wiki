@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, 5e-core, fortitude, damage-prevention, combat]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -30,7 +30,7 @@ Also common on: Ravnos, Harbinger of Skulls, Salubri, Akunanse.
 - Post-combat unlock — [Freak Drive](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Freak%20Drive).
 - Extra actions from sun-cover — [Day Operation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Day%20Operation), [Dawn Operation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Dawn%20Operation), [Daring the Dawn](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Daring%20the%20Dawn).
 - Action-speed ramp — [Forced March](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Forced%20March) (shared with Celerity).
-- Anti-Anarch tempo — [Ni Dieu ni Maître](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Ni%20Dieu%20ni%20Ma%C3%AEtre).
+- Anarch tempo modifier (requires an Anarch) — [Ni Dieu ni Maître](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Ni%20Dieu%20ni%20Ma%C3%AEtre) (multi-mode: [for] makes blockers burn 1 blood; [ani] cancels opposing maneuver on block-combat; [vic] +1 strength on block-combat).
 
 ## Query
 

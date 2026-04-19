@@ -1,8 +1,8 @@
 ---
 type: ruling
-tags: [stealth, action-modifier, cloak, paragon, swallowed, block]
+tags: [stealth, action-modifier, cloak, swallowed, block, bonding, perfect-paragon]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: draft
 ---
 
@@ -28,10 +28,17 @@ Stealth modifiers are action modifier cards that increase the acting minion's st
 
 Mind the type change — the superior version doesn't add stealth to a non-combat action; it's a different card entirely at that level.
 
-## Perfect Paragon
-- **Basic:** regular +1 stealth modifier.
-- **Superior:** adds 1 vote **and** +1 stealth, but at superior **Perfect Paragon does not count as increasing stealth** [src-001 p. 50].
-- Consequence: you can play the superior version even if **nobody is attempting to block**, simply to "cycle" the card. The usual escalation-when-needed rule doesn't gate it.
+## Perfect Paragon (NOT a stealth modifier — listed here for disambiguation)
+[Perfect Paragon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Perfect%20Paragon) is **Presence-only** and is **not a stealth modifier**. Verbatim card text [src-002]:
+
+> [pre] Only usable during the polling step of a political action. This vampire gets +3 votes.
+> [PRE] Allies and younger vampires get -1 intercept.
+
+Basic is a vote modifier for political actions. Superior reduces *blocker* intercept for allies/younger vampires (not a +stealth on the acting minion; it taxes specific would-be blockers instead).
+
+The rulebook FAQ note ([src-001 p. 50]: "At superior, Perfect Paragon does not count as increasing stealth. You can play it even if no one attempts to block to 'cycle' it.") is a **disambiguation**: superior Perfect Paragon's -1 intercept effect is intercept-reduction, not stealth-addition, so it is exempt from the escalation-when-needed rule on stealth modifiers — you can play it with no block attempt in sight.
+
+If a page elsewhere calls Perfect Paragon a stealth modifier, fix it. Card text is cited verbatim above.
 
 ## Lost in Crowds
 - Obfuscate modifier.
@@ -40,7 +47,8 @@ Mind the type change — the superior version doesn't add stealth to a non-comba
 See also [[cards-removed-in-5e]].
 
 ## Bonding
-- Presence / Dominate action modifier with superior-level stealth clause.
+- **Dominate-only** action modifier. Verbatim card text [src-002]: `Only usable during a bleed action. [dom] +1 bleed (limited). [DOM] +1 stealth and +1 bleed (limited).`
+- The superior stealth clause is **bleed-only** — cannot be used to increase stealth on any non-bleed action [src-002, LSJ 19980824, RTR 19941109].
 - **You cannot play the superior effect of Bonding if you do not need stealth** (for instance, if you are not currently being blocked) [src-001 p. 47]. Follows the escalation-when-needed rule strictly — no cycling the superior version.
 
 ## Action Cards with "+1 Stealth" Printed
@@ -49,7 +57,7 @@ The stealth listed on an action card (e.g., hunt at +1) is the **starting stealt
 ## Common Mistakes
 - Preemptively adding stealth before any block is attempted (not allowed — escalation only when needed).
 - Playing Swallowed by the Night at superior as if it were an action modifier — it's a combat card at that level.
-- Playing Perfect Paragon at basic to "cycle" — at basic it *does* count as a stealth increase and needs the escalation-when-needed trigger.
+- Using Perfect Paragon as a stealth modifier — it isn't one. Basic is +3 votes during polling; superior is -1 intercept vs allies/younger. Don't plan to "sneak by" a block with it.
 - Playing the same stealth modifier card twice with the same vampire in one action.
 
 ## Related Rulings

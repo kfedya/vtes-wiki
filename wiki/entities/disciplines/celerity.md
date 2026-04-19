@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, 5e-core, celerity, combat, speed]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,11 +26,15 @@ Also common on: Ishtarri, Osebo, Gangrel antitribu.
 
 ## Typical card roles
 
-- Additional strikes — [Flash](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Flash), [Blur](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blur), [Psyche!](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Psyche%21).
-- Dodge / evasion — [Sideslip](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sideslip).
-- Extra action / speed action-modifier — [Forced March](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Forced%20March), [Alacrity](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Alacrity).
-- Maneuver / range control in combat — [Swift Cover](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Swift%20Cover).
-- Evasive multi-role cards — [Resist Earth's Grasp](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Resist%20Earth%27s%20Grasp).
+Verified against card-db snapshot 2026-04-18 [src-002].
+
+- Additional strikes — [Blur](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Blur), [Lightning Reflexes](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Lightning%20Reflexes), [Pursuit](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Pursuit) (superior), [Quickness](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Quickness).
+- Press / combat-continuation — [Psyche!](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Psyche%21), [Flash](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Flash) (maneuver or press).
+- Dodge / evasion — [Sideslip](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sideslip), [Swift Cover](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Swift%20Cover) (dual CEL/OBF, dodge basic / +1 stealth superior), [Sanguine Entrapment](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sanguine%20Entrapment).
+- Maneuver / range control — [Flash](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Flash), [Mercury's Arrow](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mercury%27s%20Arrow), [Scourge of Alecto](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Scourge%20of%20Alecto).
+- Post-action unlock — [Forced March](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Forced%20March), [Instantaneous Transformation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Instantaneous%20Transformation), [Zephyr](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Zephyr).
+- Stealth modifier (action) — [Alacrity](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Alacrity) (+1 stealth + block-contingent maneuver), [The Missing Voice](https://codex-of-the-damned.org/en/card-search/library/index.html?card=The%20Missing%20Voice), [Relentlessness](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Relentlessness).
+- Evasive multi-role — [Resist Earth's Grasp](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Resist%20Earth%27s%20Grasp) (maneuver + stealth + press, depending on mode).
 
 ## Query
 

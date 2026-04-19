@@ -2,7 +2,7 @@
 type: ruling
 tags: [action, bleed, edge, directed, limited, redirect]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: draft
 ---
 
@@ -30,7 +30,7 @@ If the action succeeds, the target Methuselah **burns pool equal to the bleed am
 
 Cards that count against this limit are reminded with "(limited)" card text.
 
-Exceptions exist: some cards (e.g., [Perfect Paragon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Perfect%20Paragon) at superior, [Foreshadowing Destruction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Foreshadowing%20Destruction) with lingering-only effect) do not count as increasing the bleed in some situations and can be played around a limited modifier.
+Exceptions exist: some cards (e.g., [Foreshadowing Destruction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Foreshadowing%20Destruction) with lingering-only effect against a target at ≥ 10 pool) do not count as increasing the bleed in some situations and can be played around a limited modifier [src-001 p. 49].
 
 ## FAQ [src-001 pp. 46, 48–51]
 
@@ -82,5 +82,5 @@ Edge cases surfaced from krcg-embedded `rulings[]` [src-002]. Each entry preserv
 - **Deflection / Telepathic Misdirection** — cannot redirect a bleed to a Methuselah who would be an **invalid target** for a bleed [src-002, PIB 20130711].
 
 ## Sources
-- src-001 — VTES Fifth Edition Rulebook, p. 20 (Bleed), p. 26 (target change reopens blocks), p. 46 (Bleed FAQ), pp. 48–51 (card rulings for Aire of Elation, Conditioning, Deflection, Enchant Kindred, Foreshadowing Destruction, Govern the Unaligned, Perfect Paragon, Spying Mission, Telepathic Misdirection).
+- src-001 — VTES Fifth Edition Rulebook, p. 20 (Bleed), p. 26 (target change reopens blocks), p. 46 (Bleed FAQ), pp. 48–51 (card rulings for Aire of Elation, Conditioning, Deflection, Enchant Kindred, Foreshadowing Destruction, Govern the Unaligned, Spying Mission, Telepathic Misdirection).
 - src-002 — krcg vtes.json snapshot 2026-04-18 (embedded card-level rulings).

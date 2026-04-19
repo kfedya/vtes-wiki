@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, 5e-core, potence, strength, combat]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,11 +26,13 @@ Also common on: Gargoyle, Guruhi.
 
 ## Typical card roles
 
-- Hand-strike damage boost — [Undead Strength](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Undead%20Strength).
-- Grapple / lock combat — [Immortal Grapple](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Immortal%20Grapple).
-- Equipment-destroying combat — [Torn Signpost](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Torn%20Signpost) (note: removed in 5E, see [[cards-removed-in-5e]]).
-- Intimidation action modifier — [Unthinkable Humiliation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Unthinkable%20Humiliation), [Tangle Atropos' Hand](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Tangle%20Atropos%27%20Hand).
-- Brute-force combat — [Shadow Boxing](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shadow%20Boxing).
+Verified against card-db snapshot 2026-04-18 [src-002].
+
+- Hand-strike damage boost — [Undead Strength](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Undead%20Strength) (+1/+2 damage on hand-strike or melee), [Torn Signpost](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Torn%20Signpost) (combat card, strength 2/3 for the combat; printed in 5E Anarch & NB3).
+- Grapple / range-lock — [Immortal Grapple](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Immortal%20Grapple) (restricts the round to hand-strikes only).
+- Intimidation action modifier — [Unthinkable Humiliation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Unthinkable%20Humiliation) (blockers burn 1 blood/life; superior also -1 intercept).
+- Anti-block action-canceler — [Tangle Atropos' Hand](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Tangle%20Atropos%27%20Hand) (cancels the action and unlocks the acting vampire when a minion attempts to block; superior [TEM] variants also retrieve the card and grant next-action stealth).
+- Dual-mode maneuver + post-block tempo — [Shadow Boxing](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Shadow%20Boxing) (combat = close maneuver or continue-combat press; action modifier after block = +1 bleed / +2 press).
 
 ## Query
 

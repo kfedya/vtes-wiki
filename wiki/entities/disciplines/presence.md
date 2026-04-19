@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, 5e-core, presence, bleed, votes, combat]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,11 +26,14 @@ Also common on: Guruhi, Ravnos.
 
 ## Typical card roles
 
-- Vote-count boost — [Bewitching Oration](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bewitching%20Oration), [Awe](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Awe), [Voter Captivation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Voter%20Captivation).
+Verified against card-db snapshot 2026-04-18 [src-002].
+
+- Vote-count boost — [Bewitching Oration](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bewitching%20Oration), [Awe](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Awe), [Perfect Paragon](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Perfect%20Paragon) (basic = +3 votes during polling; superior = allies/younger get -1 intercept).
+- Vote-driven pool gain — [Voter Captivation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Voter%20Captivation) (action modifier played after a successful referendum; gain pool = votes cast for the acting Methuselah).
 - Combat-ends / walk-away — [Majesty](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Majesty).
-- Bleed increase — [Aire of Elation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aire%20of%20Elation).
-- Pool-gain action — [Enchant Kindred](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Enchant%20Kindred).
-- Charm-based intercept / bounce — [Enchanting Gaze](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Enchanting%20Gaze).
+- Bleed increase (modifier) — [Aire of Elation](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aire%20of%20Elation).
+- Bleed / influence-ramp action — [Enchant Kindred](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Enchant%20Kindred) (basic = +1 directed bleed; superior = +1 stealth action, add 2 blood to uncontrolled younger vampire).
+- Block-breaker with corruption counters — [Enchanting Gaze](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Enchanting%20Gaze) (basic [pre][pro] = +1 stealth; superior [PRE][PRO] = cancel a block attempt by burning a corruption counter).
 
 ## Query
 

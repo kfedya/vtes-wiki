@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, 5e-core, dominate, bleed, mind-control]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,11 +26,13 @@ Also common on: Tzimisce.
 
 ## Typical card roles
 
-- Bleed increase — [Conditioning](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Conditioning), [Command of the Beast](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Command%20of%20the%20Beast).
+Verified against card-db snapshot 2026-04-18 [src-002].
+
+- Bleed increase (modifier) — [Conditioning](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Conditioning) ((limited) +1 bleed; +2 at superior), [Command of the Beast](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Command%20of%20the%20Beast), [Bonding](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bonding) ((limited) +1 bleed; superior adds +1 bleed-only stealth), [Foreshadowing Destruction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Foreshadowing%20Destruction) (+1 bleed / +3 if target ≤ 9 pool), [Mouthpiece](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mouthpiece) basic ((limited) +1 bleed).
 - Bleed bounce — [Deflection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Deflection).
-- Pool-theft actions — [Govern the Unaligned](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Govern%20the%20Unaligned), [Graverobbing](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Graverobbing).
-- Permanent mind-lock — [Bonding](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Bonding).
-- Action-hijacking — [Mouthpiece](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mouthpiece), [Foreshadowing Destruction](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Foreshadowing%20Destruction).
+- Bleed / influence ramp actions — [Govern the Unaligned](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Govern%20the%20Unaligned) (basic = bleed +1 / superior = add 2 blood to uncontrolled younger vampire at +1 stealth).
+- Crypt-grab / torpor-theft — [Graverobbing](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Graverobbing) (Sabbat/Anarch action to steal a vampire in torpor).
+- Cross-vampire enabler — [Mouthpiece](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Mouthpiece) superior (lets the acting minion play basic Dominate cards as if they were a vampire with `[dom]`).
 
 ## Query
 
@@ -51,7 +53,7 @@ jq -rs '[.[][] | select(.disciplines[]? | ascii_downcase == "dom")] | .[] | .nam
 - [[entities/card-types/library]] — library card mechanics.
 - [[bleed]] — bleed action; Dominate is the main bleed-boost discipline.
 - [[target-redirection]] — Deflection is the classic Dominate redirect.
-- [[stealth-modifiers]] — Bonding is listed among transfer-stealth cases.
+- [[stealth-modifiers]] — Bonding's superior stealth clause is bleed-only.
 
 ## Sources
 

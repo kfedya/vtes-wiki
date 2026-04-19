@@ -2,7 +2,7 @@
 type: entity
 tags: [discipline, 5e-core, auspex, intercept, reaction]
 sources: [src-001, src-002]
-last_verified: 2026-04-18
+last_verified: 2026-04-19
 status: verified
 ---
 
@@ -26,11 +26,13 @@ Also common on: Tzimisce, Salubri.
 
 ## Typical card roles
 
-- Intercept reaction — [Telepathic Misdirection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Telepathic%20Misdirection), [Eyes of Argus](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eyes%20of%20Argus).
-- Library scrying / card-selection — [Precognition](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Precognition), [Spirit's Touch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Spirit%27s%20Touch).
-- Vote bounce / aura reading — [Sense the Sin](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sense%20the%20Sin), [Aura Absorption](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aura%20Absorption).
-- Combat fire-support — [Telepathic Tracking](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Telepathic%20Tracking).
-- Bleed / action acceleration — [Pulse of the Canaille](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Pulse%20of%20the%20Canaille).
+Verified against card-db snapshot 2026-04-18 [src-002].
+
+- Intercept reaction — [Telepathic Misdirection](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Telepathic%20Misdirection) (also bounces directed actions at the reacting vampire's prey), [Eyes of Argus](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Eyes%20of%20Argus), [Enhanced Senses](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Enhanced%20Senses), [Aura Absorption](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Aura%20Absorption) ([aus] costs 1 blood for +1 intercept), [Sense the Sin](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Sense%20the%20Sin) ([aus] intercept vs. younger only).
+- Intercept with combat rider — [Spirit's Touch](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Spirit%27s%20Touch) (intercept + post-block maneuver), [Precognition](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Precognition) (intercept + first-round prevent on block).
+- Bleed-scry action — [Scrying of Secrets](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Scrying%20of%20Secrets) (only after a successful bleed; look at top 7 of target's library).
+- Combat-continuation — [Telepathic Tracking](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Telepathic%20Tracking) (basic = press; superior = replaces combat-ends with a new round).
+- Bleed amp via action — [Pulse of the Canaille](https://codex-of-the-damned.org/en/card-search/library/index.html?card=Pulse%20of%20the%20Canaille) (Action, +1 stealth; `[aus]` reveals all hands; `[AUS]` plants persistent +2 bleed on the vampire).
 
 ## Query
 
